@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+#slider-0 H2 {
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  color: #000000;
+}
+#slider-0 P {
+  color: #000000;
+  text-align: right;
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+}
