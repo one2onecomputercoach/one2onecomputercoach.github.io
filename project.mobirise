@@ -1,19 +1,22 @@
 {
   "settings": {
-    "name": "one2one Computer Coach",
+    "name": "one2one Computer Coach-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#8f504e",
+        "#874442"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 1,
+    "uniqCompNum": 4,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/e50ef48a-9c4b-4086-8e1f-f114db143e80-128x128.png",
     "noImageResize": "",
     "google-analytics": ""
   },
@@ -32,9 +35,9 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "fullScreen": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "showBullets": true,
             "bgColor": "#ffffff",
             "slides": [
@@ -64,19 +67,19 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "title": "one2one Site Building&nbsp;",
                 "contentAlign": "center",
-                "text": "Learn to build and manage your own website with help, or let us do it for you.",
+                "text": "Learn to build and manage your own website with help, or let your one2one coach do it for you.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
                 "overlay": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -97,8 +100,8 @@
           "_anchor": "slider-0",
           "_styles": {
             "H2": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "text-align": "left",
               "color": "#000000"
             },
@@ -108,6 +111,97 @@
               "font-size": "24px",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f2f2f2",
+            "hamburgerColor": "#000"
+          },
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"index.html#form2-3\">More Info<br></a></li>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/e50ef48a-9c4b-4086-8e1f-f114db143e80-2-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Computer Coach</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f2f2f2",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Subscribe to our Newsletter",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
+          "form": {
+            "action": "ricesupastar@yahoo.com",
+            "alerts": {
+              "success": "Thanks for Subscribing!  "
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         }

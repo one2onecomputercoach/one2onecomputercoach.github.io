@@ -1,8 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
 
 
 #slider-0 H2 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-align: left;
   color: #000000;
 }
@@ -11,4 +16,16 @@
   text-align: left;
   font-size: 24px;
   font-family: 'Lato', sans-serif;
+}
+#ext_menu-1 .navbar-toggler {
+  color: #000;
+}
+#ext_menu-1 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#form2-3 .mbr-section-title {
+  font-family: 'Lora', serif;
+}
+#form2-3 .btn {
+  font-family: 'Lora', serif;
 }
