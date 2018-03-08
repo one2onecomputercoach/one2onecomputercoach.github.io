@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach",
+    "name": "one2one Computer Coach-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -137,10 +137,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/e50ef48a-9c4b-4086-8e1f-f114db143e80-2-128x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "one2one Computer Coach",
               "link": "https://one2onecomputercoach.com",
-              "title": "",
-              "linkInNewWindow": false
+              "title": "one2one Computer Coach"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -148,7 +147,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Computer Coach</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Computer Coach</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_styles": {
