@@ -36,9 +36,9 @@
           "_params": {
             "autoplay": true,
             "fullScreen": false,
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "showBullets": true,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "showBullets": false,
             "bgColor": "#ffffff",
             "slides": [
               {
