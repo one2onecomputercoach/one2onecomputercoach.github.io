@@ -178,7 +178,7 @@
           "title": "Subscribe to our Newsletter",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
           "form": {
-            "action": "ricesupastar@yahoo.com",
+            "action": "joanna@one2onecomputercoach.com",
             "alerts": {
               "success": "Thanks for Subscribing!  "
             },
