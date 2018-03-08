@@ -137,9 +137,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/e50ef48a-9c4b-4086-8e1f-f114db143e80-2-128x128.png",
               "height": 128,
-              "alt": "https://one2onecomputercoach.com",
-              "link": "https://one2onecomputercoach.com",
-              "title": "one2one Computer Coach"
+              "alt": "http://one2onecomputercoach.com",
+              "link": "http://one2onecomputercoach.com",
+              "title": "one2one Computer Coach",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
