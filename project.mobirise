@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 4,
+    "uniqCompNum": 7,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -66,26 +66,26 @@
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "one2one Site Building&nbsp;",
-                "contentAlign": "center",
-                "text": "Learn to build and manage your own website with help, or let your one2one coach do it for you.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": true
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
+                "title": "one2one Site Building&nbsp;",
+                "contentAlign": "center",
+                "text": "Learn to build and manage your own website with help, or let me do it for you.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
                 "title": "one2one Consulting&nbsp;",
                 "contentAlign": "center",
-                "text": "Find the best IT solutions for your small business.&nbsp;",
+                "text": "Find the best IT solutions for your small business. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
                 "overlay": true
               }
