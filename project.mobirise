@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach",
+    "name": "one2one Computer Coach-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -220,7 +220,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 one2one Computer Coach. <a href=\"https://mobirise.com/\">Website created with</a>&nbsp;| <a href=\"https://mobirise.com/\">Mobirise</a>",
+          "text": "Copyright (c) 2018 one2one Computer Coach. <a href=\"https://mobirise.com/\" target=\"_blank\">Website created with</a>&nbsp;| <a href=\"https://mobirise.com/\" target=\"_blank\">Mobirise</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
