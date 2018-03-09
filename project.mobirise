@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-clone",
+    "name": "one2one Computer Coach",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -176,7 +176,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Subscribe to our Newsletter",
+          "title": "Subscribe for Updates",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
           "form": {
             "action": "joanna@one2onecomputercoach.com",
