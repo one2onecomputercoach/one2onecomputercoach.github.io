@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach",
+    "name": "one2one Computer Coach-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -18,7 +18,12 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://one2onecomputercoach.com",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
