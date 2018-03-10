@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-clone",
+    "name": "one2one Computer Coach",
     "currentPage": "home.html",
     "theme": {
       "name": "purity",
@@ -18,7 +18,8 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "subscribe.html": {
@@ -44,7 +45,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"home.html\">Home</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -260,7 +261,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"home.html\">Home</a></li>",
           "logo": {
             "image": {
               "active": true,
