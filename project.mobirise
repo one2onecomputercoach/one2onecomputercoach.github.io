@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -151,7 +151,7 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "one2one Computer Coach",
