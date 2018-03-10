@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 13,
+    "uniqCompNum": 16,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -25,7 +25,8 @@
     "subscribe.html": {
       "settings": {
         "title": "Subscribe for Updates",
-        "order": 1
+        "order": 2,
+        "meta_descr": ""
       },
       "components": [
         {
@@ -165,7 +166,7 @@
           "_params": {
             "autoplay": true,
             "fullScreen": true,
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "showBullets": false,
             "bgColor": "#ffffff",
