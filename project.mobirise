@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach",
+    "name": "one2one Computer Coach-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -17,10 +17,12 @@
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": "",
-    "google-analytics": "",
+    "noImageResize": "true",
+    "google-analytics": "Primordial Sound Meditation and Yoga Instruction\r\nSelf-inquiry\r\nNeti Neti\r\nYoga Asana\r\nWho am I\r\nSat Chit Ananda\r\nChopra Center PSM",
     "siteUrl": "undefined",
-    "siteFonts": []
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "subscribe.html": {
@@ -51,7 +53,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1441.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1920x1441.jpg",
               "height": 128,
               "alt": "http://one2onecomputercoach.com",
               "link": "http://anandabydesign.com",
@@ -294,7 +296,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1441.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1920x1441.jpg",
               "height": 128,
               "alt": "http://one2onecomputercoach.com",
               "link": "http://anandabydesign.com",
