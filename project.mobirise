@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-clone",
+    "name": "one2one Computer Coach",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -13,18 +13,21 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 14,
-    "versionPublish": "4.6.5",
+    "uniqCompNum": 16,
+    "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "siteFonts": []
   },
   "pages": {
     "subscribe.html": {
       "settings": {
         "title": "Subscribe for Updates",
-        "order": 1
+        "order": 2,
+        "meta_descr": ""
       },
       "components": [
         {
@@ -44,7 +47,7 @@
           "_tags": [
             "Theme"
           ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"home.html\">Home</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -61,7 +64,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Computer Coach</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"home.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Computer Coach</a>",
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
@@ -161,71 +164,11 @@
       "components": [
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "",
-                "contentAlign": "right",
-                "text": "Coming Soon",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "one2one Computer Coach",
-                "contentAlign": "left",
-                "text": "Live technical support, right on your computer screen.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "one2one Site Building&nbsp;",
-                "contentAlign": "center",
-                "text": "Learn to build and manage your own website with help, or let me do it for you.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "title": "one2one Consulting&nbsp;",
-                "contentAlign": "center",
-                "text": "Find the best IT solutions for your small business. ",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlay": true
-              }
-            ]
-          },
-          "articleLayout": false,
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-0",
           "_styles": {
             "H2": {
               "font-family": "'Montserrat', sans-serif",
@@ -241,38 +184,85 @@
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
-          }
+          },
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "",
+                "showText": true,
+                "text": "Coming Soon",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+                "overlay": true,
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "one2one Computer Coach",
+                "showText": true,
+                "text": "Live technical support, right on your computer screen.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "one2one Site Building&nbsp;",
+                "showText": true,
+                "text": "Learn to build and manage your own website with help, or let me do it for you.&nbsp;",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "one2one Consulting&nbsp;",
+                "showText": true,
+                "text": "Find the best IT solutions for your small business. ",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "_anchor": "slider-0",
+          "articleLayout": false
         },
         {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2018 one2one Computer Coach. <a href=\"https://mobirise.com/\" target=\"_blank\">Website created with</a>&nbsp;| <a href=\"https://mobirise.com/\" target=\"_blank\">Mobirise</a>",
+          "_inherit": "menu",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-7",
+          "_name": "ext.menu",
           "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px"
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
-          }
-        },
-        {
-          "_inherit": "menu",
+          },
+          "_anchor": "ext_menu-1",
           "_params": {
             "logo": true,
             "showBrand": true,
@@ -283,12 +273,6 @@
             "color": "#f2f2f2",
             "hamburgerColor": "#000"
           },
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"subscribe.html\">More Info<br></a></li>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -305,18 +289,37 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Computer Coach</a>",
-          "_name": "ext.menu",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"home.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Computer Coach</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"subscribe.html\">More Info<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"home.html\">Home</a></li>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
           "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".navbar-brand": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "14px"
             }
           },
-          "_anchor": "ext_menu-d"
+          "_anchor": "footer1-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 one2one Computer Coach. <a href=\"https://mobirise.com/\" target=\"_blank\">Website created with</a>&nbsp;| <a href=\"https://mobirise.com/\" target=\"_blank\">Mobirise</a>"
         }
       ]
     }
