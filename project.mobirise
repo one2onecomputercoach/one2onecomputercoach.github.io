@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -189,14 +189,14 @@
           "_params": {
             "autoplay": true,
             "fullScreen": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showBullets": false,
             "bgColor": "#f8f8f6",
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1078.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1078.jpg",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": false,
@@ -209,7 +209,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x960.jpg",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
@@ -222,7 +222,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1113.jpg",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": false,
@@ -235,7 +235,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1076.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1076.jpg",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": false,
@@ -248,7 +248,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1357.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1357.jpg",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": false,
@@ -326,7 +326,7 @@
           },
           "_anchor": "footer1-7",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
