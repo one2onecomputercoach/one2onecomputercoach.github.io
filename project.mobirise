@@ -14,15 +14,17 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
     "uniqCompNum": 18,
-    "versionPublish": "4.8.1",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "true",
-    "google-analytics": "Primordial Sound Meditation and Yoga Instruction\r\nSelf-inquiry\r\nNeti Neti\r\nYoga Asana\r\nWho am I\r\nSat Chit Ananda\r\nChopra Center PSM",
+    "google-analytics": "Primordial Sound Meditation and Yoga Instruction\r\nSelf-inquiry\r\nNeti Neti\r\nYoga Asana\r\nWho am I\r\nSat Chit Ananda\r\nChopra Center PSM\r\nGuided Meditation",
     "siteUrl": "undefined",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "imageResize": true,
+    "publishChangesOnly": true
   },
   "pages": {
     "subscribe.html": {
@@ -37,7 +39,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": false,
             "collapsed": true,
             "transparent": false,
@@ -178,12 +180,12 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "text-align": "left",
               "color": "#000000",
-              "font-size": "48px"
+              "font-size": "36px"
             },
             "P": {
               "color": "#000000",
               "text-align": "left",
-              "font-size": "24px",
+              "font-size": "23px",
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
@@ -286,7 +288,7 @@
           "_params": {
             "logo": true,
             "showBrand": true,
-            "showButtons": false,
+            "showButtons": true,
             "sticky": false,
             "collapsed": true,
             "transparent": false,
