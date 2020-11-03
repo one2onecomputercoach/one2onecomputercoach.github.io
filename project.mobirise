@@ -33,13 +33,13 @@
         {
           "_inherit": "menu",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#f2f2f2",
+            "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"subscribe.html\">More Info<br></a></li>",
@@ -79,15 +79,15 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#26272c",
+            "bgColor": "#ffffff",
             "overlay": true,
-            "overlayColor": "#444444",
+            "overlayColor": "#dddddd",
             "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2020 Ananda by Design",
@@ -100,7 +100,8 @@
             "P": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#000000"
             }
           },
           "_anchor": "footer1-a"
@@ -108,13 +109,13 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -187,7 +188,7 @@
           },
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "showBullets": false,
@@ -281,13 +282,13 @@
           },
           "_anchor": "ext_menu-1",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "showButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#f2f2f2",
+            "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
           "logo": {
@@ -319,7 +320,8 @@
             "P": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#000000"
             }
           },
           "_anchor": "footer1-7",
@@ -330,7 +332,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#26272c",
+            "bgColor": "#ffffff",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
