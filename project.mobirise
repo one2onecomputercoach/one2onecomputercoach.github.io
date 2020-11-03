@@ -39,7 +39,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000000"
           },
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"subscribe.html\">More Info<br></a></li>",
@@ -80,12 +80,12 @@
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f8f8f6",
             "overlay": true,
             "overlayColor": "#dddddd",
             "overlayOpacity": 0.8
@@ -115,7 +115,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f8f8f6",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -192,7 +192,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "showBullets": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#f8f8f6",
             "slides": [
               {
                 "active": false,
@@ -288,7 +288,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "color": "#ffffff",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000000"
           },
           "logo": {
@@ -327,12 +327,12 @@
           "_anchor": "footer1-7",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f8f8f6",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
