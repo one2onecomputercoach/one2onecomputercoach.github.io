@@ -57,10 +57,12 @@
 }
 #msg-box4-r .lead P {
   font-family: 'Playfair Display', sans-serif;
+  text-align: left;
 }
 #msg-box4-s .lead P {
   font-size: 20px;
   font-family: 'Playfair Display', sans-serif;
+  text-align: right;
 }
 #msg-box3-w .mbr-header .mbr-header__text {
   text-align: center;
@@ -73,7 +75,7 @@
 }
 #msg-box3-w .lead {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
 }
 #instagram-feed-block-i .inst__title {
   font-size: 20px;
