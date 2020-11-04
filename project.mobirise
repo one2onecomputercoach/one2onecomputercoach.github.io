@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 19,
+    "uniqCompNum": 21,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -172,6 +172,69 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "45",
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p>Primordial Sound Meditation &amp; Yoga Instruction</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-k",
+          "_styles": {
+            ".lead P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "23px"
+            }
+          }
+        },
+        {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "alias": "purity/components",
           "_tags": [
@@ -190,14 +253,14 @@
               "color": "#000000",
               "text-align": "left",
               "font-size": "23px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           },
           "_params": {
             "autoplay": true,
             "fullScreen": false,
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "showBullets": false,
             "bgColor": "#f8f8f6",
@@ -205,7 +268,7 @@
               {
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1078.jpg",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -217,21 +280,8 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x960.jpg",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Ananda by Design",
-                "showText": true,
-                "text": "Primordial Sound Meditation and Yoga Instruction",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
-                "overlayOpacity": "0.5"
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1113.jpg",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -244,7 +294,7 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1076.jpg",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -257,7 +307,7 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1357.jpg",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
                 "title": "",
@@ -285,7 +335,7 @@
             "spacing": 5,
             "fullWidth": false,
             "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
             "bgImageRadio": false,
