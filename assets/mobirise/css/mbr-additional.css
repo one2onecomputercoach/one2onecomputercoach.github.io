@@ -57,12 +57,12 @@
 }
 #msg-box4-r .lead P {
   font-family: 'Playfair Display', sans-serif;
-  text-align: left;
+  text-align: center;
 }
 #msg-box4-s .lead P {
   font-size: 20px;
   font-family: 'Playfair Display', sans-serif;
-  text-align: right;
+  text-align: center;
 }
 #msg-box3-w .mbr-header .mbr-header__text {
   text-align: center;
