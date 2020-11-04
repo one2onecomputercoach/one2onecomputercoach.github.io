@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 34,
+    "uniqCompNum": 36,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ananda-logo-128x128-1.png",
@@ -84,15 +84,55 @@
             },
             ".navbar-nav .btn": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "ext_menu-9"
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f8f8f6",
+            "overlayOpacity": 0.7
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>Full Website Coming in Spring 2021</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-z",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "20px"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -163,31 +203,6 @@
             }
           },
           "_anchor": "form2-b"
-        },
-        {
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "socialFacebook": true,
-            "postsNumber": "5",
-            "socialDisqus": false,
-            "shortName": "",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.6
-          },
-          "innerText": "<div class=\"facebookPlaceholder text-center\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder text-center\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-x"
         }
       ]
     },
@@ -265,7 +280,7 @@
             ".mbr-section-title": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "30px"
+              "font-size": "25px"
             }
           }
         },
@@ -440,12 +455,12 @@
         {
           "_params": {
             "account": "anandabydesign",
-            "showTitle": true,
-            "layoutGridRadio": true,
+            "showTitle": false,
+            "layoutGridRadio": false,
             "imagesPerRowGrid": 4,
             "rows": 2,
             "showMoreButton": true,
-            "layoutSliderRadio": false,
+            "layoutSliderRadio": true,
             "imagesPerRowSlider": 4,
             "spacing": "1",
             "fullWidth": false,
@@ -502,7 +517,7 @@
           "_anchor": "social-buttons1-m",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "20px"
+              "font-size": "18px"
             }
           }
         },
@@ -523,7 +538,8 @@
             },
             ".navbar-nav .btn": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
             }
           },
           "_anchor": "ext_menu-1",
