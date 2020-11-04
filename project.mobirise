@@ -154,8 +154,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px",
               "color": "#000000"
             }
@@ -359,7 +359,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -435,7 +435,7 @@
             "showMeta": false,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -590,8 +590,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px",
               "color": "#000000"
             }

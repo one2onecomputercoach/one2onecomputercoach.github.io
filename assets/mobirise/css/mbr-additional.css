@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 
 
@@ -29,7 +28,7 @@
   font-size: 16px;
 }
 #footer1-a P {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
   color: #000000;
 }
@@ -94,7 +93,7 @@
   font-size: 14px;
 }
 #footer1-7 P {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
   color: #000000;
 }
