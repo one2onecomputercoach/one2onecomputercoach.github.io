@@ -38,6 +38,10 @@
   font-size: 23px;
   font-family: 'Lato', sans-serif;
 }
+#instagram-feed-block-i .inst__title {
+  font-size: 48px;
+  text-align: center;
+}
 #ext_menu-1 .navbar-toggler {
   color: #000000;
 }
