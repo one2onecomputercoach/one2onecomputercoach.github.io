@@ -79,12 +79,12 @@
               "color": "#000000"
             },
             ".navbar-brand": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             ".navbar-nav .btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px"
             }
           },
@@ -110,7 +110,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Easy to Use!",
-          "caption": "<p>Full Website Coming in Spring 2021</p>",
+          "caption": "",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -125,7 +125,11 @@
               "font-size": "20px"
             },
             "DIV": {
-              "color": "#000000"
+              "color": "#000000",
+              "text-align": "center",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
             }
           }
         },
@@ -261,7 +265,7 @@
               "size": 0
             }
           },
-          "title": "Ananda by Design",
+          "title": "<b>Ananda by Design</b>",
           "text": "<p>Primordial Sound Meditation &amp; Yoga Instruction</p>",
           "alias": "purity/components",
           "_tags": [
@@ -278,8 +282,8 @@
               "font-size": "23px"
             },
             ".mbr-section-title": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "25px"
             }
           }
@@ -419,6 +423,11 @@
             },
             ".mbr-section-title": {
               "font-size": "23px"
+            },
+            ".lead": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -533,12 +542,12 @@
               "color": "#000000"
             },
             ".navbar-brand": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             ".navbar-nav .btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px"
             }
           },

@@ -1,5 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 
 
@@ -10,10 +11,10 @@
   color: #000000;
 }
 #ext_menu-9 .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
 }
 #ext_menu-9 .navbar-nav .btn {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
 }
 #content5-z P {
@@ -23,6 +24,9 @@
 }
 #content5-z DIV {
   color: #000000;
+  text-align: center;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 16px;
 }
 #footer1-a P {
   font-family: 'Montserrat', sans-serif;
@@ -43,12 +47,13 @@
 
 
 
+
 #msg-box4-k .lead P {
   font-family: 'Playfair Display', sans-serif;
   font-size: 23px;
 }
 #msg-box4-k .mbr-section-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 25px;
 }
 #msg-box4-r .lead P {
@@ -67,6 +72,10 @@
 #msg-box3-w .mbr-section-title {
   font-size: 23px;
 }
+#msg-box3-w .lead {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 18px;
+}
 #instagram-feed-block-i .inst__title {
   font-size: 20px;
   text-align: center;
@@ -78,10 +87,10 @@
   color: #000000;
 }
 #ext_menu-1 .navbar-brand {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
 }
 #ext_menu-1 .navbar-nav .btn {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
 }
 #footer1-7 P {
