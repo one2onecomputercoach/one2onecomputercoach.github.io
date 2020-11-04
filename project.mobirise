@@ -204,7 +204,7 @@
         {
           "_inherit": "msg-box5",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showMeta": false,
             "showText": true,
             "showButtons": false,
@@ -246,7 +246,7 @@
               "size": 0
             }
           },
-          "title": "Drag &amp; Drop Website Builder",
+          "title": "Ananda by Design",
           "text": "<p>Primordial Sound Meditation &amp; Yoga Instruction</p>",
           "alias": "purity/components",
           "_tags": [
@@ -261,6 +261,11 @@
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "23px"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "30px"
             }
           }
         },
