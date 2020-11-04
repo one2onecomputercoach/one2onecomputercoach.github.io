@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
 
 
 
@@ -9,7 +9,10 @@
   color: #000000;
 }
 #ext_menu-9 .navbar-brand {
-  font-family: 'Playfair Display', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-9 .navbar-nav .btn {
+  font-family: 'Montserrat', sans-serif;
 }
 #footer1-a P {
   font-family: 'Montserrat', sans-serif;
@@ -17,11 +20,13 @@
   color: #000000;
 }
 #form2-b .mbr-section-title {
-  font-family: 'Lora', serif;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 23px;
 }
 #form2-b .btn {
-  font-family: 'Lora', serif;
+  font-family: 'Playfair Display', sans-serif;
 }
+
 
 
 
@@ -31,29 +36,36 @@
   font-family: 'Playfair Display', sans-serif;
   font-size: 23px;
 }
-#slider-0 H2 {
+#msg-box4-r .lead P {
   font-family: 'Playfair Display', sans-serif;
-  text-align: left;
-  color: #000000;
-  font-size: 36px;
 }
-#slider-0 P {
-  color: #000000;
-  text-align: left;
+#msg-box4-s .lead P {
   font-size: 20px;
   font-family: 'Playfair Display', sans-serif;
 }
+#msg-box3-w .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-w .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-w .mbr-section-title {
+  font-size: 23px;
+}
 #instagram-feed-block-i .inst__title {
-  font-size: 30px;
+  font-size: 20px;
   text-align: center;
 }
 #social-buttons1-m .mbr-section-title {
-  font-size: 23px;
+  font-size: 20px;
 }
 #ext_menu-1 .navbar-toggler {
   color: #000000;
 }
 #ext_menu-1 .navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-1 .navbar-nav .btn {
   font-family: 'Montserrat', sans-serif;
 }
 #footer1-7 P {
