@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-clone-clone",
+    "name": "one2one Computer Coach-clone-clone-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -146,7 +146,7 @@
             "overlayColor": "#dddddd",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 Ananda by Design",
+          "text": "",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -465,7 +465,7 @@
         },
         {
           "_params": {
-            "account": "anandayogameditation",
+            "account": "anandabyyourowndesign",
             "showTitle": false,
             "layoutGridRadio": false,
             "imagesPerRowGrid": 4,
@@ -611,7 +611,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 Ananda by Design"
+          "text": ""
         }
       ]
     }
