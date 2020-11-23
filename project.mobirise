@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 36,
+    "uniqCompNum": 38,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -465,7 +465,7 @@
         },
         {
           "_params": {
-            "account": "anandabyyourowndesign",
+            "account": "anandabydesign",
             "showTitle": false,
             "layoutGridRadio": false,
             "imagesPerRowGrid": 4,
