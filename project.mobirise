@@ -18,7 +18,7 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "true",
-    "google-analytics": "Individualized Meditation & Yoga Instruction Primordial Sound Meditation\nMantra Meditation\nNada Yoga\nYoga Asana\nModified Yoga Postures\nChopra Center PSM\nGuided Meditation",
+    "google-analytics": "Individualized Meditation & Yoga Instruction Primordial Sound Meditation\nMantra Meditation\nNada Yoga\nYoga Asana\nModified Yoga Postures\nChopra Center PSM",
     "siteUrl": false,
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
