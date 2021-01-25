@@ -13,7 +13,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 38,
+    "uniqCompNum": 50,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -213,8 +213,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ananda by Design | Primodial Sound Meditation & Yoga Instruction",
-        "meta_descr": "Primordial Sound Meditation and Yoga Instruction",
+        "title": "Ananda by Design | Yoga & Meditation Instruction",
+        "meta_descr": "Yoga Instruction and Primordial Sound Meditation",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -266,7 +266,7 @@
             }
           },
           "title": "Ananda by Design",
-          "text": "<p>Primordial Sound Meditation &amp; Yoga Instruction</p>",
+          "text": "<p>Meditation &amp; Yoga Instruction</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -473,7 +473,7 @@
             "showMoreButton": true,
             "layoutSliderRadio": true,
             "imagesPerRowSlider": 4,
-            "spacing": "1",
+            "spacing": 5,
             "fullWidth": false,
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -485,8 +485,8 @@
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
           },
-          "title": "Ananda by Design's Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-black-outline btn-secondary-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -494,13 +494,7 @@
             "Extension"
           ],
           "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-i",
-          "_styles": {
-            ".inst__title": {
-              "font-size": "20px",
-              "text-align": "center"
-            }
-          }
+          "_anchor": "instagram-feed-block-15"
         },
         {
           "_params": {
