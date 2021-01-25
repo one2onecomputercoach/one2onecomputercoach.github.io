@@ -18,12 +18,12 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "true",
-    "google-analytics": "Primordial Sound Meditation and Yoga Instruction\r\nSelf-inquiry\r\nNeti Neti\r\nYoga Asana\r\nWho am I\r\nSat Chit Ananda\r\nChopra Center PSM\r\nGuided Meditation",
+    "google-analytics": "Individualized Meditation & Yoga Instruction Primordial Sound Meditation\nMantra Meditation\nNada Yoga\nYoga Asana\nModified Yoga Postures\nSat Chit Ananda\nSelf-inquiry\nChopra Center PSM\nGuided Meditation",
     "siteUrl": false,
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "imageResize": true,
+    "imageResize": false,
     "publishChangesOnly": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
@@ -213,11 +213,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ananda by Design | Yoga & Meditation Instruction",
-        "meta_descr": "Yoga Instruction and Primordial Sound Meditation",
+        "title": "Ananda by Design | Individualized Meditation & Yoga Instruction",
+        "meta_descr": "Individualized Yoga & Meditation Instruction",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpeg"
       },
       "components": [
         {
