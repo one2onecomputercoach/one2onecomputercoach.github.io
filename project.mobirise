@@ -18,7 +18,7 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "true",
-    "google-analytics": "Ananda by Design Meditation & Yoga; Individualized and Group Instruction; Specialty Groups; Primordial Sound Meditation; Yoga Asana; Modified Yoga Postures; Chopra Center PSM",
+    "google-analytics": "Ananda by Design Meditation & Yoga; Individualized and Group Instruction; Specialty Groups; Primordial Sound Meditation; Yoga Asana; Chopra Center PSM",
     "siteUrl": false,
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
