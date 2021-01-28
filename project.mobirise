@@ -18,7 +18,7 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "true",
-    "google-analytics": "Ananda by Design Meditation & Yoga; Individualized and Group Instruction; Specialty Groups; Primordial Sound Meditation; Yoga Alliance 200RYT; Chopra Certified Instructor <meta name=\"google-site-verification\" content=\"k8t0AS38cCsjBLYlygpf1zOYbEIDIyQPld4qEIRvbOY\" />",
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"k8t0AS38cCsjBLYlygpf1zOYbEIDIyQPld4qEIRvbOY\" />Ananda by Design Meditation & Yoga; Individualized & Group Instruction; Specialty Groups; Primordial Sound Meditation; Yoga Alliance 200RYT; Chopra Certified Instructor",
     "siteUrl": "http://anandabydesign.com",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
