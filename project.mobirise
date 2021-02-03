@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-clone-clone-clone",
-    "currentPage": "index.html",
+    "currentPage": "subscribe.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -502,7 +502,7 @@
         },
         {
           "_params": {
-            "account": "anandabydesign",
+            "account": "ananda_by_design",
             "showTitle": false,
             "layoutGridRadio": false,
             "imagesPerRowGrid": 4,
