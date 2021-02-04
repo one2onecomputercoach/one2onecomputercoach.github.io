@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-clone-clone-clone",
-    "currentPage": "subscribe.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "true",
-    "google-analytics": "<meta name=\"google-site-verification\" content=\"k8t0AS38cCsjBLYlygpf1zOYbEIDIyQPld4qEIRvbOY\" />Ananda by Design Meditation & Yoga; Individualized & Group Instruction; Primordial Sound Meditation; Chopra Certified Instructor; 200CYT",
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"k8t0AS38cCsjBLYlygpf1zOYbEIDIyQPld4qEIRvbOY\" />\n<meta name=\"msvalidate.01\" content=\"C924395FB334D20F1DF5F685832DD31F\" />\nAnanda by Design Meditation & Yoga | Individualized & Group Instruction | 200CYT | Primordial Sound Meditation | PSM | Chopra Certified Instructor",
     "siteUrl": "http://anandabydesign.com",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -35,7 +35,7 @@
       "settings": {
         "main": true,
         "title": "Ananda by Design | Meditation & Yoga",
-        "meta_descr": "Ananda by Design Meditation & Yoga | Individualized & Group Instruction | Chopra Certified Meditation Instructor | 200CYT",
+        "meta_descr": "Ananda by Design Meditation & Yoga | Individualized & Group Instruction | Primordial Sound Meditation | PSM | Chopra Certified Meditation Instructor | 200CYT",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
