@@ -9,12 +9,13 @@
       "additionalSetColors": [
         "#8f504e",
         "#874442",
-        "#37383e"
+        "#37383e",
+        "#ca1512"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 73,
+    "uniqCompNum": 78,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -287,6 +288,107 @@
           "_anchor": "msg-box3-w"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            },
+            ".lead P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
+            },
+            "small": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".lead": {
+              "color": "#ca1512"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9073-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Proudly Serving the Greater Palm Springs Area and Coachella Valley. <br>Video Conferencing is always available for all locations.<br><br>",
+          "meta": "",
+          "text": "<p><i>Due to COVID-19 and social distancing guidelines and regulations, video conferencing and other social media platforms will be used for all classes.  Thank you for your understanding.&nbsp;</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-25"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-6693-265x129.jpg",
+              "width": 265,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "index.html",
+              "alt": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Serving in</strong><br>The Greater Palm Springs Area<br>and Coachella Valley<br>Video Conferencing Available<br>",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-primary\">anandabydesign@yahoo.com</a><br>Call or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-primary\">+1 (760) 671 1070</a><br><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-primary\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-primary\">Free Live Yoga &amp; Meditation Class</a></li><li><br></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-24"
+        },
+        {
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -367,52 +469,6 @@
           "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"subscribe.html\">More Info<br></a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"></a></li>"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-6693-265x129.jpg",
-              "width": 265,
-              "active": true,
-              "linkInNewWindow": false,
-              "link": "index.html",
-              "alt": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Serving in</strong><br>The Greater Palm Springs Area<br>and Coachella Valley<br>Video Conferencing Available<br>",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-primary\">anandabydesign@yahoo.com</a><br>Call or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-primary\">+1 (760) 671 1070</a><br><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-primary\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-primary\">Free Live Yoga &amp; Meditation Class</a></li><li><br></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1s",
-          "_styles": {
-            "P": {
-              "color": "#000000"
-            },
-            "DIV": {
-              "color": "#000000"
-            }
-          }
         }
       ]
     },
@@ -633,7 +689,6 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1s",
           "_styles": {
             "P": {
               "color": "#000000"
@@ -641,7 +696,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "contacts1-24"
         }
       ]
     },
@@ -1036,6 +1092,61 @@
           "_anchor": "social-buttons1-20"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "20px"
+            },
+            ".lead P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
+            },
+            "small": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".lead": {
+              "color": "#ca1512"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9073-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Proudly Serving the Greater Palm Springs Area and Coachella Valley. <br>Video Conferencing is always available for all locations.<br><br>",
+          "meta": "",
+          "text": "<p><i>Due to COVID-19 and social distancing guidelines and regulations, video conferencing and other social media platforms will be used for all classes.  Thank you for your understanding.&nbsp;</i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-21"
+        },
+        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": "2",
@@ -1071,7 +1182,6 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1s",
           "_styles": {
             "P": {
               "color": "#000000"
@@ -1079,7 +1189,8 @@
             "DIV": {
               "color": "#000000"
             }
-          }
+          },
+          "_anchor": "contacts1-24"
         }
       ]
     }
