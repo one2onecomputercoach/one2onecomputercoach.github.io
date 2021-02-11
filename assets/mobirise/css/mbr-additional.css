@@ -40,9 +40,6 @@
   font-family: 'Playfair Display', sans-serif;
   font-size: 20px;
 }
-#social-buttons1-m .mbr-section-title {
-  font-size: 15px;
-}
 #msg-box3-25 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -62,15 +59,18 @@
 #msg-box3-25 .lead {
   color: #ca1512;
 }
-#contacts1-24 P {
+#social-buttons1-m .mbr-section-title {
+  font-size: 15px;
+}
+#contacts1-26 P {
   color: #000000;
   font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
 }
-#contacts1-24 DIV {
+#contacts1-26 DIV {
   color: #000000;
 }
-#contacts1-24 STRONG {
+#contacts1-26 STRONG {
   font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
 }
@@ -120,15 +120,15 @@
 #form2-b .btn {
   font-family: 'Playfair Display', sans-serif;
 }
-#contacts1-24 P {
+#contacts1-26 P {
   color: #000000;
   font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
 }
-#contacts1-24 DIV {
+#contacts1-26 DIV {
   color: #000000;
 }
-#contacts1-24 STRONG {
+#contacts1-26 STRONG {
   font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
 }
@@ -191,9 +191,6 @@
 #content5-1w .mbr-section-title {
   text-align: center;
 }
-#social-buttons1-20 .mbr-section-title {
-  font-size: 16px;
-}
 #msg-box3-21 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -213,15 +210,18 @@
 #msg-box3-21 .lead {
   color: #ca1512;
 }
-#contacts1-1s P {
+#social-buttons1-20 .mbr-section-title {
+  font-size: 16px;
+}
+#contacts1-26 P {
   color: #000000;
   font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
 }
-#contacts1-1s DIV {
+#contacts1-26 DIV {
   color: #000000;
 }
-#contacts1-1s STRONG {
+#contacts1-26 STRONG {
   font-family: 'Playfair Display', sans-serif;
   font-size: 14px;
 }

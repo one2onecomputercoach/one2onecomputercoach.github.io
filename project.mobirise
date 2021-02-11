@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 78,
+    "uniqCompNum": 79,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -288,36 +288,6 @@
           "_anchor": "msg-box3-w"
         },
         {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": true
-          },
-          "text": "Inspired? Share It.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-m",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "15px"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -374,6 +344,36 @@
         },
         {
           "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Inspired? Share It.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-m",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -424,7 +424,7 @@
               "font-size": "14px"
             }
           },
-          "_anchor": "contacts1-24"
+          "_anchor": "contacts1-26"
         },
         {
           "_inherit": "menu",
@@ -664,7 +664,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -676,7 +676,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-9073-2000x1500.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/img-6695-265x129.jpeg",
               "width": 265,
               "active": true,
               "linkInNewWindow": false,
@@ -713,7 +713,7 @@
               "font-size": "14px"
             }
           },
-          "_anchor": "contacts1-24"
+          "_anchor": "contacts1-26"
         }
       ]
     },
@@ -1078,36 +1078,6 @@
           }
         },
         {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": true
-          },
-          "text": "Inspired? Share It.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "social-buttons1-20"
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -1164,6 +1134,36 @@
         },
         {
           "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Inspired? Share It.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "social-buttons1-20"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -1198,7 +1198,6 @@
             "Theme"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-1s",
           "_styles": {
             "P": {
               "color": "#000000",
@@ -1214,7 +1213,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "contacts1-26"
         }
       ]
     }
