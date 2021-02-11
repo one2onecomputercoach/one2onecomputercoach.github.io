@@ -412,13 +412,13 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#5bc0de",
+              "color": "#000000",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px"
             },
             "DIV": {
-              "color": "#5bc0de"
+              "color": "#000000"
             },
             "STRONG": {
               "font-family": "'Playfair Display', sans-serif",
@@ -668,13 +668,13 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#5bc0de",
+              "color": "#000000",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px"
             },
             "DIV": {
-              "color": "#5bc0de"
+              "color": "#000000"
             },
             "STRONG": {
               "font-family": "'Playfair Display', sans-serif",
@@ -1169,13 +1169,13 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#5bc0de",
+              "color": "#000000",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px"
             },
             "DIV": {
-              "color": "#5bc0de"
+              "color": "#000000"
             },
             "STRONG": {
               "font-family": "'Playfair Display', sans-serif",
