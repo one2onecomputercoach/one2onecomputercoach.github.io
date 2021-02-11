@@ -414,7 +414,7 @@
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "DIV": {
               "color": "#000000"
@@ -704,7 +704,7 @@
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "DIV": {
               "color": "#000000"
@@ -1206,7 +1206,7 @@
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "14px",
-              "text-align": "center"
+              "text-align": "left"
             },
             "DIV": {
               "color": "#000000"
