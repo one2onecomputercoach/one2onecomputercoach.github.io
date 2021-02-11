@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_with_Edits",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -413,7 +413,7 @@
               "color": "#000000",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "15px",
+              "font-size": "14px",
               "text-align": "center"
             },
             "DIV": {
@@ -421,7 +421,8 @@
             },
             "STRONG": {
               "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
             }
           },
           "_anchor": "contacts1-24"
@@ -702,7 +703,7 @@
               "color": "#000000",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "15px",
+              "font-size": "14px",
               "text-align": "center"
             },
             "DIV": {
@@ -710,7 +711,8 @@
             },
             "STRONG": {
               "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
             }
           },
           "_anchor": "contacts1-24"
@@ -1203,7 +1205,7 @@
               "color": "#000000",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "15px",
+              "font-size": "14px",
               "text-align": "center"
             },
             "DIV": {
@@ -1211,7 +1213,8 @@
             },
             "STRONG": {
               "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
             }
           },
           "_anchor": "contacts1-24"
