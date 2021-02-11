@@ -375,7 +375,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1165,7 +1165,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
