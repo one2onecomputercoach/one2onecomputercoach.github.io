@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 79,
+    "uniqCompNum": 81,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -424,7 +424,7 @@
               "font-size": "14px"
             }
           },
-          "_anchor": "contacts1-26"
+          "_anchor": "contacts1-28"
         },
         {
           "_inherit": "menu",
@@ -713,7 +713,7 @@
               "font-size": "14px"
             }
           },
-          "_anchor": "contacts1-26"
+          "_anchor": "contacts1-28"
         }
       ]
     },
@@ -1214,7 +1214,7 @@
               "font-size": "14px"
             }
           },
-          "_anchor": "contacts1-26"
+          "_anchor": "contacts1-28"
         }
       ]
     }
