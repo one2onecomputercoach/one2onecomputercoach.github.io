@@ -40,9 +40,6 @@
   font-family: 'Playfair Display', sans-serif;
   font-size: 20px;
 }
-#social-buttons1-m .mbr-section-title {
-  font-size: 15px;
-}
 #msg-box3-25 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -61,6 +58,9 @@
 }
 #msg-box3-25 .lead {
   color: #ca1512;
+}
+#social-buttons1-m .mbr-section-title {
+  font-size: 15px;
 }
 #contacts1-24 P {
   color: #000000;
