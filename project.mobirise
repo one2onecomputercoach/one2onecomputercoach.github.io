@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_with_Edits",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -288,6 +288,36 @@
           "_anchor": "msg-box3-w"
         },
         {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Inspired? Share It.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-m",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -344,36 +374,6 @@
         },
         {
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": true
-          },
-          "text": "Inspired? Share It.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-m",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "15px"
-            }
-          }
-        },
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -387,7 +387,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-6693-265x129.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-6695-265x129.jpeg",
               "width": 265,
               "active": true,
               "linkInNewWindow": false,
@@ -400,7 +400,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>The Greater Palm Springs Area<br>and Coachella Valley<br>",
+          "text1": "<strong>Serving in</strong><br>The Greater Palm Springs Area<br>and Coachella Valley<br>Video Conferencing Available<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-primary\">anandabydesign@yahoo.com</a><br>Call or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-primary\">+1 (760) 671 1070</a><br><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-primary\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-primary\">Free Live Yoga &amp; Meditation Class</a></li><li><br></li></ul>",
           "alias": "purity/components",
@@ -413,16 +413,14 @@
               "color": "#000000",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "14px",
-              "text-align": "left"
+              "font-size": "15px"
             },
             "DIV": {
               "color": "#000000"
             },
             "STRONG": {
               "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "15px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           },
           "_anchor": "contacts1-24"
@@ -677,7 +675,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-6693-265x129.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-9073-2000x1500.jpeg",
               "width": 265,
               "active": true,
               "linkInNewWindow": false,
@@ -1179,7 +1177,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-6693-265x129.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-6695-265x129.jpeg",
               "width": 265,
               "active": true,
               "linkInNewWindow": false,
@@ -1192,7 +1190,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>The Greater Palm Springs Area<br>and Coachella Valley<br>",
+          "text1": "<strong>Serving in</strong><br>The Greater Palm Springs Area<br>and Coachella Valley<br>Video Conferencing Available<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-primary\">anandabydesign@yahoo.com</a><br>Call or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-primary\">+1 (760) 671 1070</a><br><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-primary\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-primary\">Free Live Yoga &amp; Meditation Class</a></li><li><br></li></ul>",
           "alias": "purity/components",
@@ -1203,10 +1201,18 @@
           "_anchor": "contacts1-1s",
           "_styles": {
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
             },
             "DIV": {
               "color": "#000000"
+            },
+            "STRONG": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
             }
           }
         }
