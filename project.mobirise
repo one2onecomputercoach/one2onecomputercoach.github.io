@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_with_Edits",
-    "currentPage": "index.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1033,7 +1033,7 @@
               "font-size": "16px"
             }
           },
-          "_anchor": "social-buttons1-1o"
+          "_anchor": "social-buttons1-20"
         },
         {
           "_params": {
