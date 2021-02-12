@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-Live_with_Edits-clone",
+    "name": "one2one Computer Coach-Live_with_Edits-DarkFooter",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -359,9 +359,9 @@
             "counters": true,
             "facebook": true,
             "twitter": true,
-            "google": true
+            "google": false
           },
-          "text": "Inspired? Share It.",
+          "text": "Inspired? Share it.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -392,7 +392,7 @@
               "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -648,7 +648,7 @@
               "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -1116,9 +1116,9 @@
             "counters": true,
             "facebook": true,
             "twitter": true,
-            "google": true
+            "google": false
           },
-          "text": "Inspired? Share It.",
+          "text": "Inspired? Share it.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1149,7 +1149,7 @@
               "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "index.html",
               "alt": "",
               "linkInNewWindow": false
             },
