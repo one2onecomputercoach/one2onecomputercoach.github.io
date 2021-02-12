@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_with_Edits-DarkFooter",
-    "currentPage": "index.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -786,7 +786,7 @@
           },
           "title": "<br>Meditation Space",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>These free guided meditations are available on-demand via the Telegram app.&nbsp; Downloading the app is not required.&nbsp; Select \"Preview Channel\" to watch or listen to the guided meditations without downloading the app.&nbsp;&nbsp;</p><p>Namaste.</p>",
+          "text": "<p>These free guided meditations are available on-demand, via the Telegram app.&nbsp; Downloading the app is optional.&nbsp; Selecting \"Preview Channel\" allows access to the guided meditations without the app.&nbsp;&nbsp;</p><p>Namaste.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
