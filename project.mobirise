@@ -1006,47 +1006,6 @@
           "_anchor": "features1-1z"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.8"
-          },
-          "title": "Live Broadcast on Fridays&nbsp;&nbsp;",
-          "caption": "<p>Join me for 15 Minutes of Gentle Yoga movements followed by 20 minutes of Guided Meditation every Friday at 5:00 PM (PST).&nbsp; Bring a yoga mat or a towel, and prepare a comfortable seat in a quiet space for this session.&nbsp; Feel free to invite friends and family to join you.&nbsp; All are welcome!&nbsp; Follow this&nbsp;<a href=\"https://www.twitch.tv/anandabydesign\" class=\"text-primary\" target=\"_blank\">link</a>&nbsp;to join the class.&nbsp;&nbsp;</p><p><br></p><p><br></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-1w",
-          "_styles": {
-            "P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "center"
-            },
-            "DIV": {
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
