@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_with_Edits-DarkFooter",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "disclaimer.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 82,
+    "uniqCompNum": 89,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -429,6 +429,27 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2a"
+        },
+        {
           "_inherit": "menu",
           "alias": "purity/components",
           "_tags": [
@@ -683,6 +704,27 @@
               "color": "#f8f8f6"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2a"
         }
       ]
     },
@@ -1113,6 +1155,190 @@
               "color": "#f8f8f6"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2a"
+        }
+      ]
+    },
+    "disclaimer.html": {
+      "settings": {
+        "title": "Ananda by Design | Disclaimer & Privacy Policy",
+        "order": 3
+      },
+      "components": [
+        {
+          "text": "<p>DISCLAIMER</p><p><span style=\"font-size: 1.25rem;\">Last Updated 2/01/2021</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\">WEBSITE DISCLAIMER</span><br></p><p>The information provided by Ananda by Design (“we”, “us” or “our”) on anandabydesign.com (the “Site”) is for general informational purposes only.  All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.  The techniques and practices presented are powerful and transformational tools but are not intended as a substitute for professional medical care.&nbsp;Always seek the advice of your physician or other qualified healthcare provider with any questions you may have regarding a medical condition and before undertaking any diet, fitness, or other health program.&nbsp;Ananda by Design assumes no responsibility for your improper use of any techniques or practices presented on the Site.  UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY INJURY, LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE.  YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLEY AT YOUR OWN RISK.</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2f",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "text": "<p>PRIVACY POLICY</p><p>The information provided to Ananda by Design (“we”, “us” or “our”) on anandabydesign.com (the “Site”) is for general informational purposes only.  We care about privacy and security.  We will not share or sell your information.  By using the Site, you agree to be bound by our privacy Policy posted on the Site.  Please be advised that the Site is hosted in the United States.  If you access the Site from any other region in the world with laws or other requirements governing personal data collection, use or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you agree to have your data transferred to and processed in the United States.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2g",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-warning\">Free Yoga &amp; Meditation Class</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#f8f8f6",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#f8f8f6"
+            }
+          },
+          "_anchor": "contacts1-2b"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2c"
+        },
+        {
+          "_inherit": "menu",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".navbar-nav .btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://anandabydesign.com",
+              "title": "one2one Computer Coach",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"subscribe.html\">More Info<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"></a></li>",
+          "_anchor": "ext_menu-2d"
         }
       ]
     }
