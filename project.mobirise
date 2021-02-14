@@ -377,7 +377,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -633,7 +633,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1034,7 +1034,7 @@
             "showMeta": false,
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/img-9073-2000x1500.jpg",
@@ -1063,7 +1063,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
