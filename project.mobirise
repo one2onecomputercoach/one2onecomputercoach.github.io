@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_with_Edits-DarkFooter",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "terms.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -441,7 +441,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy</a>",
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"terms.html#content1-2f\" class=\"text-warning text-primary\">Terms of Use</a>  | <a href=\"terms.html#content1-2g\" class=\"text-warning text-primary\">Privacy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -718,7 +718,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy</a>",
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"terms.html#content1-2f\" class=\"text-warning text-primary\">Terms of Use</a>  | <a href=\"terms.html#content1-2g\" class=\"text-warning text-primary\">Privacy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1169,7 +1169,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy</a>",
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"terms.html#content1-2f\" class=\"text-warning text-primary\">Terms of Use</a>  | <a href=\"terms.html#content1-2g\" class=\"text-warning text-primary\">Privacy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1179,14 +1179,14 @@
         }
       ]
     },
-    "disclaimer.html": {
+    "terms.html": {
       "settings": {
-        "title": "Ananda by Design | Disclaimer & Privacy Policy",
+        "title": "Ananda by Design | Terms of Use & Privacy Policy",
         "order": 3
       },
       "components": [
         {
-          "text": "<p>DISCLAIMERS</p><p><span style=\"font-size: 1.25rem;\">Last Updated 2/01/2021</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\">WEBSITE DISCLAIMER</span><br></p><p>The information provided by Ananda by Design (“we”, “us” or “our”) on anandabydesign.com (the “Site”) is for general informational purposes only.  All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.  The techniques and practices presented are powerful and transformational tools but are not intended as a substitute for professional medical care.&nbsp;Always seek the advice of your physician or other qualified healthcare provider with any questions you may have regarding a medical condition and before undertaking any diet, fitness, or other health program.&nbsp;Ananda by Design assumes no responsibility for your improper use of any techniques or practices presented on the Site.  UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY INJURY, LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE.  YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLEY AT YOUR OWN RISK.&nbsp; This Site is intended for users who are at least 18 years old.  Persons under the age of 18 are not permitted to use or register for the Site.  IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.</p>",
+          "text": "<p>TERMS OF USE</p><p><span style=\"font-size: 1.25rem;\">Last Updated 2/01/2021</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\">AGREEMENT TO TERMS</span><br></p><p>The information provided by Ananda by Design (“we”, “us” or “our”) on anandabydesign.com (the “Site”) is for general informational purposes only.  All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.  The techniques and practices presented are powerful and transformational tools but are not intended as a substitute for professional medical care.&nbsp;Always seek the advice of your physician or other qualified healthcare provider with any questions you may have regarding a medical condition and before undertaking any diet, fitness, or other health program.&nbsp;Ananda by Design assumes no responsibility for your improper use of any techniques or practices presented on the Site.  UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY INJURY, LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE.  YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLEY AT YOUR OWN RISK.&nbsp; This Site is intended for users who are at least 18 years old.  Persons under the age of 18 are not permitted to use or register for the Site.  IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1214,7 +1214,21 @@
           }
         },
         {
-          "text": "<p>PRIVACY POLICY</p><p>The information provided to Ananda by Design (“we”, “us” or “our”) on anandabydesign.com (the “Site”) is for general informational purposes only.  We care about privacy and security.  We will not share or sell your information.  By using the Site, you agree to be bound by our privacy Policy posted on the Site.  Please be advised that the Site is hosted in the United States.  If you access the Site from any other region in the world with laws or other requirements governing personal data collection, use or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you agree to have your data transferred to and processed in the United States.</p>",
+          "text": "<p>ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES</p><p><span style=\"font-size: 1.25rem;\">Visiting the Site, sending us emails, and completing online forms constitute electronic communications.  You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communication be in writing.  YOU HEARBY AGREE TO THE USE OF SIGNATURES, CONTRACTS, ORDERS AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SITE.  You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2i",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "text": "<p>PRIVACY POLICY</p><p>The information you provide to Ananda by Design (“we”, “us” or “our”) on anandabydesign.com (the “Site”) is for general informational purposes only.  We care about privacy and security.  We will not share or sell your information.  By using the Site, you agree to be bound by our privacy Policy posted on the Site.  Please be advised that the Site is hosted in the United States.  If you access the Site from any other region in the world with laws or other requirements governing personal data collection, use or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you agree to have your data transferred to and processed in the United States.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1294,7 +1308,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy</a>",
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"terms.html#content1-2f\" class=\"text-warning text-primary\">Terms of Use</a>  | <a href=\"terms.html#content1-2g\" class=\"text-warning text-primary\">Privacy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
