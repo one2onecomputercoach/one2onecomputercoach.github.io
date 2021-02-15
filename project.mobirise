@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_with_Edits-DarkFooter",
-    "currentPage": "disclaimer.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -441,7 +441,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -718,7 +718,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -828,7 +828,7 @@
           },
           "title": "<br>Meditation Space",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>These free guided meditations are available on-demand, via the Telegram app.&nbsp; Downloading the app is optional.&nbsp;&nbsp;</p><p>Namaste.</p><p><br></p><p><br></p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1169,7 +1169,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1294,7 +1294,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Ananda by Design. <a href=\"disclaimer.html\" class=\"text-warning\">Disclaimer</a>  | <a href=\"disclaimer.html#content1-2g\" class=\"text-warning\">Privacy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
