@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-Live_with_Edits-DarkFooter",
-    "currentPage": "index.html",
+    "name": "one2one Computer Coach-Live_with_Edits-DarkFooter-clone",
+    "currentPage": "Pranayama.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 94,
+    "uniqCompNum": 106,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -404,7 +404,7 @@
           },
           "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-warning\">Free Yoga &amp; Meditation Class</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"Pranayama.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -424,7 +424,7 @@
               "font-size": "15px"
             },
             "DIV": {
-              "color": "#f8f8f6"
+              "color": "#f1c050"
             }
           }
         },
@@ -506,7 +506,7 @@
     "MeditationSpace.html": {
       "settings": {
         "title": "Ananda by Design | Meditation Space | Free Guided Meditation",
-        "order": 2,
+        "order": 1,
         "meta_descr": "So Hum Meditation Break | 10 Minute Guided Meditation | More Coming Soon | Serving the Greater Palm Springs Area & Beyond ",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpeg"
       },
@@ -807,13 +807,13 @@
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "15 Minute<br>Healing Meditation",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Easy Breathing<br>Techniques",
+          "title3": "<a href=\"Pranayama.html\" class=\"text-black\">Easy Breathing</a><br><a href=\"Pranayama.html\" class=\"text-black\">Techniques</a>",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Pranayama.html\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "alias": "purity/components",
           "_tags": [
@@ -907,7 +907,7 @@
           },
           "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-warning\">Free Yoga &amp; Meditation Class</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"Pranayama.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -927,7 +927,7 @@
               "font-size": "15px"
             },
             "DIV": {
-              "color": "#f8f8f6"
+              "color": "#f1c050"
             }
           }
         },
@@ -1046,7 +1046,7 @@
           },
           "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-warning\">Free Yoga &amp; Meditation Class</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"Pranayama.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1065,7 +1065,7 @@
               "font-size": "15px"
             },
             "DIV": {
-              "color": "#f8f8f6"
+              "color": "#f1c050"
             }
           },
           "_anchor": "contacts1-2b"
@@ -1323,7 +1323,7 @@
           },
           "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"MeditationSpace.html#content5-1w\" class=\"text-warning\">Free Yoga &amp; Meditation Class</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"Pranayama.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1343,7 +1343,7 @@
               "font-size": "15px"
             },
             "DIV": {
-              "color": "#f8f8f6"
+              "color": "#f1c050"
             }
           }
         },
@@ -1367,6 +1367,300 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2a"
+        }
+      ]
+    },
+    "Pranayama.html": {
+      "settings": {
+        "title": "Ananda by Design | Pranayama",
+        "order": 2,
+        "meta_descr": "Ananda by Design | Pranayama | Easy Breathing Techniques | Bhramari Bee Breath | Four Part Breath or Square Breathing"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".navbar-nav .btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://anandabydesign.com",
+              "title": "one2one Computer Coach",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"Subscribe.html\">More Info<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"></a></li>",
+          "_anchor": "ext_menu-2m"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-600x900.jpeg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f8f8f6",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Easy Breathing Techniques",
+          "text": "Yogic Breathing is also called \"Pranayama\", which is one of the Eight Limbs of Yoga.&nbsp; In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.&nbsp; The easy breathing techniques below have a calming effect and are suitable for beginners of any age.&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>There are many benefits in developing mastery of the breath.&nbsp; The mind, body, and breath are intimately connected and can influence each other.&nbsp; Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breath.&nbsp; For example, stress or other negative emotions can cause your breathing to become heavy, quick or shallow as your body prepares you for the \"fight or flight\" response.&nbsp; &nbsp;When you breathe deeply and slowly, you activate the parasympathetic nervous system, which reverses the stress response in your body.&nbsp; Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.&nbsp; Other benefits include increased awareness and presence of mind;&nbsp; increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2q",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            "H1": {
+              "font-size": "46px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1844.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x900.jpeg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Bee Breath",
+          "caption1": "Bee Breath, called \"Bhramari\" in Sanskrit, is a breathing technique that helps calm the mind and releases tension within the body. The humming effect brings increased circulation around the upper body, especially the head area. This is a gentle technique that can be done by anyone and is recommended for any time.<br><br><br><br><br> ",
+          "title2": "Four Part Breath",
+          "caption2": "Four Part Breath, also called Square Breathing, is a simple breath pattern that has a calming effect, can increase lung capacity, reduces stagnation in the lungs, and can be done by any living being. While normal breathing typically only focuses on the inhale and exhale, the Four Part Breath focuses on breaking down the breath into these four parts:  <br>1. Inhalation \"Puraka\"<br>2. Internal Retention \"Antara Kumbhaka\"<br>3. Exhalation \"Recaka\"<br>4. External Retention \"Bahya Kumbhaka\"",
+          "title3": "Easy Breathing<br>Techniques",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://t.me/s/BeeBreath\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Let's Breathe</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://t.me/s/FourPartBreath\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Let's Breathe</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2x",
+          "_styles": {
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "18px"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "20px"
+            },
+            "H4": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"Pranayama.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#f8f8f6",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-2n"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © 2021 Ananda by Design, <a href=\"index.html\" class=\"text-warning\">anandabydesign.com</a>. All Rights Reserved.&nbsp;<a href=\"terms.html#content1-2f\" class=\"text-warning text-primary\">Terms of Use</a>  | <a href=\"terms.html#content1-2g\" class=\"text-warning text-primary\">Privacy&nbsp;Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-2o"
         }
       ]
     }
