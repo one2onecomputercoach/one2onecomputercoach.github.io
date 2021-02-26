@@ -146,44 +146,6 @@
 
 
 
-#content1-2f P {
-  text-align: center;
-}
-#content1-2h P {
-  text-align: center;
-}
-#content1-2i P {
-  text-align: center;
-}
-#content1-2g P {
-  text-align: center;
-}
-#contacts1-2b P {
-  color: #f8f8f6;
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
-}
-#contacts1-2b STRONG {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 15px;
-}
-#contacts1-2b DIV {
-  color: #f1c050;
-}
-#ext_menu-2d .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-2d .navbar-brand {
-  font-family: 'Playfair Display', sans-serif;
-}
-#ext_menu-2d .navbar-nav .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
-}
-
-
-
-
 
 
 
@@ -282,4 +244,42 @@
 }
 #contacts1-2n DIV {
   color: #f1c050;
+}
+
+
+
+
+#content1-2f P {
+  text-align: center;
+}
+#content1-2h P {
+  text-align: center;
+}
+#content1-2i P {
+  text-align: center;
+}
+#content1-2g P {
+  text-align: center;
+}
+#contacts1-2b P {
+  color: #f8f8f6;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
+}
+#contacts1-2b STRONG {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#contacts1-2b DIV {
+  color: #f1c050;
+}
+#ext_menu-2d .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-2d .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+#ext_menu-2d .navbar-nav .btn {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
 }
