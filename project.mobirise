@@ -1450,7 +1450,7 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.7"
           },
-          "title": "<br>Easy Breathing Techniques",
+          "title": "<br>Breathing Space",
           "text": "<br>Yogic Breathing is also called \"Pranayama\", which is one of the Eight Limbs of Yoga.&nbsp; In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.&nbsp; The easy breathing techniques below have a calming effect and are suitable for beginners of all ages.&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>There are many benefits in developing mastery of the breath.&nbsp; The mind, body, and breath are intimately connected and can influence each other.&nbsp; Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breath.&nbsp; For example, stress or other negative emotions can cause your breathing to become heavy, quick or shallow as your body prepares you for the \"fight or flight\" response.&nbsp; &nbsp;When you breathe deeply and slowly, you activate the parasympathetic nervous system, which reverses the stress response in your body.&nbsp; Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.&nbsp; Other benefits can include increased awareness and presence of mind;&nbsp; increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -1466,7 +1466,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             "H1": {
-              "font-size": "46px"
+              "font-size": "46px",
+              "text-align": "center"
             }
           }
         },
