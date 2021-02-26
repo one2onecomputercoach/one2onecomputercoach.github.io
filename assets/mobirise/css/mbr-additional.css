@@ -91,8 +91,6 @@
 
 
 
-
-
 #ext_menu-1k .navbar-toggler {
   color: #000000;
 }
@@ -131,25 +129,6 @@
 }
 #msg-box3-1t .mbr-section-title {
   font-size: 20px;
-}
-#msg-box3-21 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-21 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-21 .mbr-section-title {
-  font-size: 20px;
-}
-#msg-box3-21 .lead P {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 15px;
-}
-#msg-box3-21 small {
-  font-family: 'Playfair Display', sans-serif;
-}
-#msg-box3-21 .lead {
-  color: #ca1512;
 }
 #contacts1-29 P {
   color: #f8f8f6;
