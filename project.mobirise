@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 114,
+    "uniqCompNum": 116,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1640,7 +1640,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2021-02-11_155920/assets/images/img-9073-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-9073-2000x1500.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
@@ -1654,14 +1654,14 @@
           },
           "title": "Proudly Serving the Greater Palm Springs Area and Coachella Valley. <br>Video Conferencing is always available for all locations.<br><br>",
           "meta": "",
-          "text": "<p><i>Due to COVID-19 social distancing guidelines and regulations, in-person services are currently unavailable.  Video conferencing and other social media platforms will be used for all classes until further notice.&nbsp;</i></p>",
+          "text": "<p><i>Due to COVID-19 social distancing guidelines and regulations, in-person services are currently unavailable.&nbsp; Video conferencing and other social media platforms will be used for all classes until further notice.</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-31"
+          "_anchor": "msg-box3-36"
         },
         {
           "_params": {
@@ -1680,7 +1680,7 @@
             "twitter": true,
             "google": false
           },
-          "text": "Inspired? Share It.",
+          "text": "Inspired? Share it.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1688,10 +1688,10 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
-          "_anchor": "social-buttons1-32"
+          "_anchor": "social-buttons1-37"
         },
         {
           "_params": {
