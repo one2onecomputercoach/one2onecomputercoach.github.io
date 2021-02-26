@@ -258,8 +258,6 @@
 
 
 
-
-
 #ext_menu-2m .navbar-toggler {
   color: #000000;
 }
@@ -293,25 +291,6 @@
 }
 #msg-box4-35 .btn {
   font-family: 'Playfair Display', sans-serif;
-}
-#msg-box3-36 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-36 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-36 .mbr-section-title {
-  font-size: 20px;
-}
-#msg-box3-36 .lead P {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 15px;
-}
-#msg-box3-36 small {
-  font-family: 'Playfair Display', sans-serif;
-}
-#msg-box3-36 .lead {
-  color: #ca1512;
 }
 #contacts1-2n P {
   color: #f8f8f6;
