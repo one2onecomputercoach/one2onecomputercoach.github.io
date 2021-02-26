@@ -72,7 +72,7 @@
   font-size: 15px;
 }
 #contacts1-29 DIV {
-  color: #f8f8f6;
+  color: #f1c050;
 }
 #ext_menu-1 .navbar-toggler {
   color: #000000;
@@ -161,7 +161,7 @@
   font-size: 15px;
 }
 #contacts1-29 DIV {
-  color: #f8f8f6;
+  color: #f1c050;
 }
 
 
@@ -189,7 +189,7 @@
   font-size: 15px;
 }
 #contacts1-2b DIV {
-  color: #f8f8f6;
+  color: #f1c050;
 }
 #ext_menu-2d .navbar-toggler {
   color: #000000;
@@ -247,5 +247,84 @@
   font-size: 15px;
 }
 #contacts1-29 DIV {
+  color: #f1c050;
+}
+
+
+
+
+
+
+
+
+
+
+
+#ext_menu-2m .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-2m .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+#ext_menu-2m .navbar-nav .btn {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
+}
+#header2-2q P {
+  text-align: left;
+  font-family: 'Playfair Display', sans-serif;
+}
+#header2-2q H1 {
+  font-size: 46px;
+}
+#msg-box4-2y .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: left;
+}
+#msg-box4-2y .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box4-2z .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: left;
+}
+#msg-box4-2z .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box4-2z small {
+  text-align: left;
+}
+#msg-box3-31 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-31 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-31 .mbr-section-title {
+  font-size: 20px;
+}
+#msg-box3-31 .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#msg-box3-31 small {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-31 .lead {
+  color: #ca1512;
+}
+#social-buttons1-32 .mbr-section-title {
+  font-size: 16px;
+}
+#contacts1-2n P {
   color: #f8f8f6;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
+}
+#contacts1-2n STRONG {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#contacts1-2n DIV {
+  color: #f1c050;
 }
