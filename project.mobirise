@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 111,
+    "uniqCompNum": 114,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1430,18 +1430,31 @@
           "_anchor": "ext_menu-2m"
         },
         {
-          "_inherit": "header1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
           "_params": {
             "showTitle": true,
+            "showMeta": false,
             "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#f8f8f6",
+            "bgColor": "#FFF8E0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1450,26 +1463,16 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.7"
           },
-          "title": "<br>Breathing Space",
-          "text": "<br>Yogic Breathing is also called \"Pranayama\", which is one of the Eight Limbs of Yoga.&nbsp; In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.&nbsp; The easy breathing techniques below have a calming effect and are suitable for beginners of all ages.&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>There are many benefits in developing mastery of the breath.&nbsp; The mind, body, and breath are intimately connected and can influence each other.&nbsp; Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breath.&nbsp; For example, stress or other negative emotions can cause your breathing to become heavy, quick or shallow as your body prepares you for the \"fight or flight\" response.&nbsp; &nbsp;When you breathe deeply and slowly, you activate the parasympathetic nervous system, which reverses the stress response in your body.&nbsp; Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.&nbsp; Other benefits can include increased awareness and presence of mind;&nbsp; increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "title": "Breathing Space",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><br></p><p>Yogic Breathing is also called \"Pranayama\", which is one of the Eight Limbs of Yoga.  In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.  The easy breathing techniques below have a calming effect and are suitable for beginners of all ages.&nbsp;&nbsp;</p><p>&nbsp;&nbsp;<span style=\"font-size: 1.25rem;\">There are many benefits in developing mastery of the breath.  The mind, body, and breath are intimately connected and can influence each other.  Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breath.  For example, stress or other negative emotions can cause your breathing to become heavy, quick or shallow as your body prepares you for the \"fight or flight\" response.   When you breathe deeply and slowly, you activate the parasympathetic nervous system, which reverses the stress response in your body.  Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.  Other benefits can include increased awareness and presence of mind;  increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-2q",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            },
-            "H1": {
-              "font-size": "46px",
-              "text-align": "center"
-            }
-          }
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-34"
         },
         {
           "_inherit": "msg-box5",
@@ -1479,7 +1482,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "25",
+            "imageSize": "30",
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -1546,7 +1549,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "25",
+            "imageSize": "30",
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -1584,27 +1587,24 @@
             }
           },
           "title": "Four Part Breath",
-          "text": "<p>Four Part Breath, also called Square Breathing, is a simple breath pattern that has a calming effect, can increase lung capacity, reduces stagnation in the lungs, and can be done by any living being. While normal breathing typically only focuses on the inhale and exhale, the Four Part Breath focuses on breaking down the breath into these four parts:&nbsp;&nbsp;</p><p>1. Inhalation \"Puraka\"</p><p><span style=\"font-size: 1.25rem;\">2. Internal Retention \"Antara Kumbhaka\"</span></p><p>3. Exhalation \"Recaka\"</p><p>4. External Retention \"Bahya Kumbhaka\"</p>",
+          "text": "<p>Four Part Breath, also called Square Breathing, is a simple breath pattern that has a calming effect, can increase lung capacity, reduces stagnation in the lungs, and can be done by any living being. While normal breathing typically only focuses on the inhale and exhale, the Four Part Breath focuses on breaking down the breath into these four parts:&nbsp;&nbsp;</p><p>1. Inhalation \"Puraka\"</p><p>2. Internal Retention \"Antara Kumbhaka\"</p><p>3. Exhalation \"Recaka\"</p><p>4. External Retention \"Bahya Kumbhaka\"</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "meta": "If you have any pre-existing conditions that make it difficult for you to breathe, please consult your doctor before trying any of these techniques. Always allow yourself to stop at any time if the exercise becomes uncomfortable for any reason.",
+          "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://t.me/s/FourPartBreath\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's Breathe</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-2z",
+          "_anchor": "msg-box4-35",
           "_styles": {
             ".lead P": {
+              "text-align": "left",
               "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "left"
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            },
-            "small": {
-              "text-align": "left"
             }
           }
         },
