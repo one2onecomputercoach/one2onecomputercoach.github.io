@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone-clone",
-    "currentPage": "About.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1981,7 +1981,7 @@
       "settings": {
         "title": "Ananda by Design | About ",
         "order": 1,
-        "meta_descr": "Ananda by Design | About | Subscribe for News & Events | Meditation & Yoga with Joanna | Serving the Greater Palm Springs Area "
+        "meta_descr": "Ananda by Design | About | Meditation & Yoga with Joanna | Serving the Greater Palm Springs Area "
       },
       "components": [
         {
