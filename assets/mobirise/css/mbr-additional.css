@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 
 
@@ -259,6 +260,7 @@
 
 
 
+
 #header2-3n H1 {
   font-size: 46px;
   font-family: 'Playfair Display', sans-serif;
@@ -278,11 +280,12 @@
   font-size: 22px;
 }
 #content4-3l H4 {
-  font-size: 22px;
+  font-size: 20px;
 }
 #content4-3l P {
   text-align: left;
-  font-size: 15px;
+  font-size: 14px;
+  font-family: 'Oxygen', sans-serif;
 }
 #msg-box1-40 P {
   font-size: 15px;
