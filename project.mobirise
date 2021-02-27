@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -203,7 +203,7 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.8"
           },
-          "title": "<i><br></i><br>Journey within.<br><br>Find your balance.<br><br>Discover the unique vibration of your soul.",
+          "title": "<i><br></i><br>Journey within. Find your balance.<br><br>Discover the unique vibration of your soul.",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><br></p><p><br></p><p><i>“Quiet the mind and the soul will speak.” – Ma Jaya Sati Bhagavati</i><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
