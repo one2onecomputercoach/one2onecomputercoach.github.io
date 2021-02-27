@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone-clone",
-    "currentPage": "index.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 164,
+    "uniqCompNum": 165,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -2097,49 +2097,28 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "socialFacebook": true,
+            "postsNumber": "5",
+            "socialDisqus": false,
+            "shortName": "",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.6
           },
-          "title": "Subscribe for News and Events&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
-          "form": {
-            "action": "anandabydesign@yahoo.com",
-            "alerts": {
-              "success": "Thanks for Subscribing!  "
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email Address..."
-              }
-            }
-          },
-          "alias": "purity/components",
+          "innerText": "<div class=\"facebookPlaceholder text-center\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder text-center\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "form2",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "23px"
-            },
-            ".btn": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          },
-          "_anchor": "form2-b"
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-4k"
         },
         {
           "_params": {
