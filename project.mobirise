@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone-clone",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1257,7 +1257,7 @@
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "20px"
+              "font-size": "16px"
             }
           },
           "_params": {
@@ -1386,7 +1386,8 @@
             },
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "18px"
             }
           },
           "_params": {
@@ -1441,7 +1442,7 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.7"
           },
-          "title": "<br><br>The Family that Meditates Together...",
+          "title": "<br><br><br>The Family that Meditates Together...",
           "text": "Ask about our family rates.&nbsp; Discounts are available for seniors, full-time students and children.&nbsp; Kids 10 and under are included free of charge.&nbsp;&nbsp;<br><br><br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "alias": "purity/components",
@@ -1456,7 +1457,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             "H2": {
-              "font-size": "36px"
+              "font-size": "30px"
             }
           }
         },
