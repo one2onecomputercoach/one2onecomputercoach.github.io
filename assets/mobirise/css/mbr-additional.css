@@ -236,6 +236,7 @@
 
 
 
+
 #header2-3n H1 {
   font-size: 46px;
   font-family: 'Playfair Display', sans-serif;
@@ -248,7 +249,11 @@
 }
 #msg-box3-4i .btn {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
+}
+#msg-box3-4i .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 22px;
 }
 #content4-3l H4 {
   font-size: 22px;
@@ -272,7 +277,7 @@
 }
 #msg-box3-4h .btn {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
 }
 #msg-box1-3z P {
   font-family: 'Playfair Display', sans-serif;
