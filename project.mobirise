@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 165,
+    "uniqCompNum": 167,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -1296,7 +1296,7 @@
           "_anchor": "header2-3n",
           "_styles": {
             "H1": {
-              "font-size": "46px",
+              "font-size": "36px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
@@ -1589,7 +1589,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2021-02-23_153045/assets/images/img-9073-2000x1500.jpg",
             "parallax": false,
@@ -2000,7 +2000,7 @@
             "inverse": false,
             "imageSize": "12",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -2051,6 +2051,62 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "12",
+            "paddingTop": 0,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-300x76.png",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p><br></p><p>Learn Meditation from a Chopra Certified Instructor</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4m"
         },
         {
           "_styles": {
