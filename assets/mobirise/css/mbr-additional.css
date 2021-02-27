@@ -99,6 +99,7 @@
 
 
 
+
 #msg-box3-1n .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -126,6 +127,11 @@
 #slider-3u .btn {
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
+}
+#slider-3u P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+  font-size: 25px;
 }
 #contacts1-29 P {
   color: #f8f8f6;

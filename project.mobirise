@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone-clone",
-    "currentPage": "Offerings.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -562,11 +562,11 @@
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1440.jpeg",
                 "active": false,
                 "showButtons": true,
-                "showText": false,
-                "showTitle": true,
+                "showText": true,
+                "showTitle": false,
                 "title": "I'm ready to dive deeper within",
                 "contentAlign": "center",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "I'm ready to dive deeper within",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Start a Journey</a>",
                 "overlay": true,
                 "overlayOpacity": "0.8",
@@ -575,13 +575,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1278.jpeg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
-                "showText": false,
-                "showTitle": true,
+                "showText": true,
+                "showTitle": false,
                 "title": "I'm ready for a personalized experience&nbsp;&nbsp;",
                 "contentAlign": "center",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "text": "I'm ready for a personalized experience",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Start a Journey</a>",
                 "overlay": true,
                 "overlayOpacity": "0.8",
@@ -590,13 +590,13 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1024.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
-                "showText": false,
-                "showTitle": true,
+                "showText": true,
+                "showTitle": false,
                 "title": "I'm ready to discover my personal mantra&nbsp;",
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "text": "I'm ready to discover my personal mantra",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Start a Journey</a>",
                 "overlay": true,
                 "overlayOpacity": "0.8",
@@ -620,6 +620,12 @@
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "16px"
+            },
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "text-align": "center",
+              "font-size": "25px"
             }
           },
           "_anchor": "slider-3u"
