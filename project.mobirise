@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone",
-    "currentPage": "Offerings.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -502,7 +502,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": false,
