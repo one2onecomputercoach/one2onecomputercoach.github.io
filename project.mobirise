@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -1373,13 +1373,13 @@
             "overlayOpacity": 0.5
           },
           "title1": "Primordial Sound Meditation Course",
-          "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a> from a Chopra Certified Meditation Instructor in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth.&nbsp; Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; 3 Hours | <b>$395</b><b><br></b><b><br></b>",
+          "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a> from a Chopra Certified Meditation Instructor in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth.&nbsp; Learn how to use your mantra and integrate meditation into your daily routine.<br>3 Hours | <b>$395</b><b><br></b><b><br></b>",
           "title2": "Personal Yoga Instruction",
-          "caption2": "Personal instruction in Yoga Asana (Postures) from a Certified Yoga Instructor. Personalized Yoga workouts designed for you.&nbsp; If you've tried Yoga but didn't feel like you were \"doing it right\" or you find group classes to be intimidating, a private lesson might work better for you. Gently discover your body's own personal expression of Yoga.&nbsp; 1 Hour | <b>$60</b><br>",
+          "caption2": "Personal instruction in Yoga Asana (Postures) from a Certified Yoga Instructor. Personalized Yoga workouts designed for you.&nbsp; If you've tried Yoga but didn't feel like you were \"doing it right\" or you find group classes to be intimidating, a private lesson might work better for you. Gently discover your body's own personal expression of Yoga.<br>1 Hour | <b>$60</b><br>",
           "title3": "Group Meditation Instruction",
-          "caption3": "Group Meditation Instruction is available for the work place, community centers, parties, and family time.&nbsp; All specialty groups are welcome.&nbsp; Group rates are available for the <a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a> course or Introduction to Meditation class.&nbsp; For more details on group pricing, please <a href=\"Offerings.html#form1-4f\" class=\"text-black\">contact me</a> about your interest and tell me more about your group.&nbsp;&nbsp;<br>",
+          "caption3": "Group Meditation Instruction is available for the work place, community centers, parties, and family time.&nbsp; All specialty groups are welcome.&nbsp; Group rates are available for the <a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a> course or Introduction to Meditation class.&nbsp; For more details on group pricing, please <a href=\"Offerings.html#form1-4f\" class=\"text-black\"><b>contact me</b></a> about your interest and tell me more about your group.&nbsp; I look forward to serving you.&nbsp;&nbsp;<br>",
           "title4": "Community Outreach",
-          "caption4": "Community service is a personal passion.&nbsp; Meditation is a transformative and valuable tool and I believe it should be accessible to all who want to learn, regardless of ability to pay.&nbsp; For more details on this offering, please <a href=\"Offerings.html#form1-4f\" class=\"text-black\">contact me</a> about your interest and tell me more about your community organization.&nbsp; I look forward to serving you.&nbsp;<br><br>",
+          "caption4": "Community service is a personal passion.&nbsp; Meditation is a transformative and valuable tool and I believe it should be accessible to all who want to learn, regardless of circumstance.&nbsp; For more details on this offering, please <a href=\"Offerings.html#form1-4f\" class=\"text-black\"><b>contact me</b></a> about your interest and tell me more about your community organization.&nbsp; I look forward to serving you.&nbsp;<br><br>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
