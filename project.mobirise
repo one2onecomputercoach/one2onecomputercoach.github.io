@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone-clone",
-    "currentPage": "Offerings.html",
+    "currentPage": "PSM.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1848,7 +1848,7 @@
           "_name": "header2",
           "_styles": {
             "H1": {
-              "font-size": "36px",
+              "font-size": "46px",
               "text-align": "center"
             },
             "P": {
