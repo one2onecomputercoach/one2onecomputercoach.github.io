@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone-clone",
-    "currentPage": "About.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1383,6 +1383,10 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           },
           "_params": {
@@ -1445,7 +1449,16 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-3z"
+          "_anchor": "msg-box1-3z",
+          "_styles": {
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            "H2": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1590,7 +1603,7 @@
           "_anchor": "form1-4f",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
