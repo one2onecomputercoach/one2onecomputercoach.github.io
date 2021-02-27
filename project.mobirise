@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone",
-    "currentPage": "BreathingSpace.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -599,7 +599,7 @@
             },
             "overlay": true,
             "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "title": "<br>Meditation Space",
           "meta": "By John Smith posted July 30, 2015",
