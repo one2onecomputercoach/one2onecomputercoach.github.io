@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-Live_-clone",
-    "currentPage": "Offerings.html",
+    "name": "one2one Computer Coach-Live_-clone-clone",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -103,9 +103,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "45",
+            "imageSize": "30",
             "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -123,7 +123,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/img-9073-2000x1500.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -1369,7 +1369,7 @@
             "P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "23px"
+              "font-size": "30px"
             },
             ".btn": {
               "font-size": "16px",
