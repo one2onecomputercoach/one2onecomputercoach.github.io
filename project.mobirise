@@ -1569,7 +1569,7 @@
           "title": "Get in Touch",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
-            "action": "ricesupastar@yahoo.com",
+            "action": "anandabydesign@yahoo.com",
             "alerts": {
               "success": "Thank you! I will be in touch shortly. Namaste."
             },
@@ -2085,7 +2085,7 @@
           "title": "Subscribe for News and Events&nbsp;",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Subscribe</a>",
           "form": {
-            "action": "weijoanna@yahoo.com",
+            "action": "anandabydesign@yahoo.com",
             "alerts": {
               "success": "Thanks for Subscribing!  "
             },
