@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone-clone",
-    "currentPage": "Offerings.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 169,
+    "uniqCompNum": 170,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1378,7 +1378,7 @@
             "overlayOpacity": 0.5
           },
           "title1": "Primordial Sound Meditation Course",
-          "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\"><b>Primordial Sound Meditation</b></a> from a Chopra Certified Meditation Instructor in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth.&nbsp; Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; <br>3 Hours | <b>$395</b><b><br></b><b><br></b>",
+          "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\"><b>Primordial Sound Meditation</b></a> from a Chopra Certified Meditation Instructor in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth.&nbsp; Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; <br>3 Hours | <b>$395</b><b><br></b>",
           "title2": "Personal Yoga Instruction",
           "caption2": "Personal instruction in Yoga Asana (Postures) from a Certified Yoga Instructor. Personalized Yoga workouts designed for you.&nbsp; If you've tried Yoga but didn't feel like you were \"doing it right\" or you find group classes to be intimidating, a private lesson might work better for you. Gently discover your body's own personal expression of Yoga Postures.&nbsp; <br>1 Hour | <b>$60</b><br>",
           "title3": "Group Meditation Instruction",
@@ -2163,11 +2163,11 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "socialFacebook": true,
-            "postsNumber": "5",
+            "postsNumber": 5,
             "socialDisqus": false,
             "shortName": "",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
             "overlay": true,
@@ -2181,7 +2181,7 @@
             "Extension"
           ],
           "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-4k"
+          "_anchor": "facebook-comments-block-4p"
         },
         {
           "_params": {
