@@ -8,8 +8,15 @@
 
 
 
-
-
+#menu-46 .navbar-toggler {
+  color: #000;
+}
+#menu-46 .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-46 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
 #msg-box4-k .lead P {
   font-family: 'Playfair Display', sans-serif;
   font-size: 23px;
@@ -17,15 +24,6 @@
 #msg-box4-k .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
   font-size: 30px;
-}
-#msg-box4-r .lead P {
-  font-family: 'Playfair Display', sans-serif;
-  text-align: center;
-}
-#msg-box4-s .lead P {
-  font-size: 20px;
-  font-family: 'Playfair Display', sans-serif;
-  text-align: center;
 }
 #msg-box3-w .mbr-header .mbr-header__text {
   text-align: center;
@@ -39,6 +37,9 @@
 #msg-box3-w .lead {
   font-family: 'Playfair Display', sans-serif;
   font-size: 20px;
+}
+#msg-box3-w .mbr-section-title I {
+  font-size: 23px;
 }
 #msg-box3-25 .mbr-header .mbr-header__text {
   text-align: center;
@@ -74,16 +75,6 @@
 #contacts1-29 DIV {
   color: #f1c050;
 }
-#ext_menu-1 .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-1 .navbar-brand {
-  font-family: 'Playfair Display', sans-serif;
-}
-#ext_menu-1 .navbar-nav .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
-}
 
 
 
@@ -91,16 +82,7 @@
 
 
 
-#ext_menu-1k .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-1k .navbar-brand {
-  font-family: 'Playfair Display', sans-serif;
-}
-#ext_menu-1k .navbar-nav .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
-}
+
 #msg-box3-1n .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -121,61 +103,11 @@
 #msg-box5-1m .btn {
   font-family: 'Playfair Display', sans-serif;
 }
-#msg-box3-1t .mbr-header .mbr-header__text {
+#slider-3u H2 {
+  font-size: 36px;
   text-align: center;
 }
-#msg-box3-1t .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-1t .mbr-section-title {
-  font-size: 20px;
-}
-#contacts1-29 P {
-  color: #f8f8f6;
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
-}
-#contacts1-29 STRONG {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 15px;
-}
-#contacts1-29 DIV {
-  color: #f1c050;
-}
-
-
-
-
-
-
-
-
-#ext_menu-9 .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-9 .navbar-brand {
-  font-family: 'Playfair Display', sans-serif;
-}
-#ext_menu-9 .navbar-nav .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
-}
-#content5-z P {
-  text-align: center;
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 20px;
-}
-#content5-z DIV {
-  color: #000000;
-  text-align: center;
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 16px;
-}
-#form2-b .mbr-section-title {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 23px;
-}
-#form2-b .btn {
+#slider-3u .btn {
   font-family: 'Playfair Display', sans-serif;
 }
 #contacts1-29 P {
@@ -190,25 +122,24 @@
 #contacts1-29 DIV {
   color: #f1c050;
 }
-
-
-
-
-
-
-
-
-
-#ext_menu-2m .navbar-toggler {
-  color: #000000;
+#menu-46 .navbar-toggler {
+  color: #000;
 }
-#ext_menu-2m .navbar-brand {
+#menu-46 .nav-link {
   font-family: 'Playfair Display', sans-serif;
 }
-#ext_menu-2m .navbar-nav .btn {
+#menu-46 .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
 }
+
+
+
+
+
+
+
+
+
 #msg-box3-34 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -245,6 +176,15 @@
 #contacts1-2n DIV {
   color: #f1c050;
 }
+#menu-46 .navbar-toggler {
+  color: #000;
+}
+#menu-46 .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-46 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
 
 
 
@@ -273,29 +213,66 @@
 #contacts1-2b DIV {
   color: #f1c050;
 }
-#ext_menu-2d .navbar-toggler {
-  color: #000000;
+#menu-46 .navbar-toggler {
+  color: #000;
 }
-#ext_menu-2d .navbar-brand {
+#menu-46 .nav-link {
   font-family: 'Playfair Display', sans-serif;
 }
-#ext_menu-2d .navbar-nav .btn {
+#menu-46 .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
 }
 
 
 
 
-#ext_menu-39 .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-39 .navbar-brand {
+
+
+
+
+
+#header2-3n H1 {
+  font-size: 46px;
   font-family: 'Playfair Display', sans-serif;
 }
-#ext_menu-39 .navbar-nav .btn {
+#content4-3l H4 {
+  font-size: 22px;
+}
+#content4-3l P {
+  text-align: left;
+}
+#msg-box1-40 P {
+  font-size: 15px;
   font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  text-align: left;
+}
+#msg-box1-40 I {
+  font-size: 15px;
+}
+#msg-box3-3o .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-3o .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-3o .mbr-section-title {
+  font-size: 20px;
+}
+#msg-box3-3o .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#msg-box3-3o small {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-3o .lead {
+  color: #ca1512;
+}
+#social-buttons1-3p .mbr-section-title {
+  font-size: 15px;
+}
+#msg-box1-3y P {
+  font-family: 'Playfair Display', sans-serif;
 }
 #contacts1-3a P {
   color: #f8f8f6;
@@ -308,4 +285,104 @@
 }
 #contacts1-3a DIV {
   color: #f1c050;
+}
+#menu-46 .navbar-toggler {
+  color: #000;
+}
+#menu-46 .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-46 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+
+
+
+
+
+
+#header2-3g H1 {
+  font-size: 36px;
+  text-align: center;
+}
+#header2-3g P {
+  text-align: left;
+  font-family: 'Playfair Display', sans-serif;
+}
+#header2-3g B {
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-3h P {
+  color: #f8f8f6;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
+}
+#contacts1-3h STRONG {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#contacts1-3h DIV {
+  color: #f1c050;
+}
+#menu-46 .navbar-toggler {
+  color: #000;
+}
+#menu-46 .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-46 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+
+
+
+
+
+
+
+
+#msg-box4-4a .lead P {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-4c .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4c .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-4c .lead P {
+  text-align: left;
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-4c .mbr-section-title {
+  font-size: 30px;
+  text-align: left;
+}
+#form2-b .mbr-section-title {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 23px;
+}
+#form2-b .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-29 P {
+  color: #f8f8f6;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
+}
+#contacts1-29 STRONG {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#contacts1-29 DIV {
+  color: #f1c050;
+}
+#menu-46 .navbar-toggler {
+  color: #000;
+}
+#menu-46 .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-46 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
 }

@@ -6,9 +6,6 @@
 		<loc>http://anandabydesign.com/MeditationSpace.html</loc>
 	</url>
 	<url>
-		<loc>http://anandabydesign.com/Subscribe.html</loc>
-	</url>
-	<url>
 		<loc>http://anandabydesign.com/BreathingSpace.html</loc>
 	</url>
 	<url>
@@ -16,5 +13,11 @@
 	</url>
 	<url>
 		<loc>http://anandabydesign.com/Offerings.html</loc>
+	</url>
+	<url>
+		<loc>http://anandabydesign.com/PSM.html</loc>
+	</url>
+	<url>
+		<loc>http://anandabydesign.com/About.html</loc>
 	</url>
 </urlset>
