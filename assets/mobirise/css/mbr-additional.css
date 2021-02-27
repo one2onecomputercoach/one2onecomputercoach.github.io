@@ -234,10 +234,19 @@
 
 
 
-
 #header2-3n H1 {
   font-size: 46px;
   font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-4i .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4i .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-4i .btn {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 20px;
 }
 #content4-3l H4 {
   font-size: 22px;
@@ -253,17 +262,11 @@
 #msg-box1-40 I {
   font-size: 15px;
 }
-#msg-box1-4d H2 {
-  font-size: 20px;
-  text-align: left;
+#msg-box3-4h .mbr-header .mbr-header__text {
+  text-align: center;
 }
-#msg-box1-4d P {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 25px;
-}
-#msg-box1-4d .btn {
-  font-size: 16px;
-  font-family: 'Playfair Display', sans-serif;
+#msg-box3-4h .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 #msg-box3-3o .mbr-header .mbr-header__text {
   text-align: center;
@@ -288,7 +291,7 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #form1-4f .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
 }
 #form1-4f .btn {
   font-family: 'Playfair Display', sans-serif;

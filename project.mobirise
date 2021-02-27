@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 161,
+    "uniqCompNum": 163,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1247,10 +1247,55 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Modern Styles",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">What is Primordial Sound Meditation?</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4i"
+        },
+        {
           "_params": {
             "showTitles": true,
             "showCaptions": true,
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "columns": "4",
             "bgImageRadio": false,
@@ -1296,7 +1341,7 @@
             "showButtons": false,
             "inverse": false,
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1332,11 +1377,19 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
           "_params": {
             "showTitle": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
+            "showMeta": false,
+            "showText": false,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1352,31 +1405,16 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "What is Primordial Sound Meditation?",
-          "text": "What is Primordial Sound Meditation?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Find Out</a>",
+          "title": "Modern Styles",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html#form1-4f\" data-toolbar=\"-mbrBtnMove\">Let's Get Started</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-4d",
-          "_styles": {
-            "H2": {
-              "font-size": "20px",
-              "text-align": "left"
-            },
-            "P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "25px"
-            },
-            ".btn": {
-              "font-size": "16px",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          }
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4h"
         },
         {
           "_params": {
@@ -1552,7 +1590,7 @@
           "_anchor": "form1-4f",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "32px"
+              "font-size": "30px"
             },
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
