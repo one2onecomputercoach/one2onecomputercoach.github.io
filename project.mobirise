@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 163,
+    "uniqCompNum": 164,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -222,6 +222,56 @@
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            },
+            ".lead P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Modern Styles",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>What is Primordial Sound Meditation?</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Find Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4j"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
             ".mbr-section-title": {
               "font-size": "20px"
             },
@@ -327,7 +377,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; &nbsp; &nbsp;Serving in</strong><br>&nbsp; &nbsp; &nbsp; &nbsp;the Greater Palm Springs area<br>&nbsp; &nbsp; &nbsp; &nbsp;and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -602,7 +652,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; &nbsp; &nbsp;Serving in</strong><br>&nbsp; &nbsp; &nbsp; &nbsp;the Greater Palm Springs area<br>&nbsp; &nbsp; &nbsp; &nbsp;and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -914,7 +964,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; &nbsp; &nbsp;Serving in</strong><br>&nbsp; &nbsp; &nbsp; &nbsp;the Greater Palm Springs area<br>&nbsp; &nbsp; &nbsp; &nbsp;and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -1103,7 +1153,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; &nbsp; &nbsp;Serving in</strong><br>&nbsp; &nbsp; &nbsp; &nbsp;the Greater Palm Springs area<br>&nbsp; &nbsp; &nbsp; &nbsp;and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -1646,7 +1696,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; &nbsp; &nbsp;Serving in</strong><br>&nbsp; &nbsp; &nbsp; &nbsp;the Greater Palm Springs area<br>&nbsp; &nbsp; &nbsp; &nbsp;and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -1829,7 +1879,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; &nbsp; &nbsp;Serving in</strong><br>&nbsp; &nbsp; &nbsp; &nbsp;the Greater Palm Springs area<br>&nbsp; &nbsp; &nbsp; &nbsp;and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -2119,7 +2169,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; &nbsp; &nbsp;Serving in</strong><br>&nbsp; &nbsp; &nbsp; &nbsp;the Greater Palm Springs area<br>&nbsp; &nbsp; &nbsp; &nbsp;and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
