@@ -1257,7 +1257,7 @@
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "_params": {
@@ -1312,9 +1312,9 @@
             "overlayOpacity": 0.5
           },
           "title1": "Primordial Sound Meditation Course",
-          "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a> from a Chopra Certified Meditation Instructor in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth.&nbsp; Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; &nbsp;3 Hours | <b>$395</b><br><b><br></b>",
+          "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a> from a Chopra Certified Meditation Instructor in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth.&nbsp; Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;3 Hours | <b>$395</b><br><b><br></b>",
           "title2": "Personal Yoga Instruction",
-          "caption2": "Personal instruction in Yoga Asana (Postures) from a Certified Yoga Instructor. Personalized Yoga workouts designed for you.&nbsp; If you've tried Yoga but didn't feel like you were \"doing it right\" or you find group classes to be intimidating, a private lesson might work better for you.&nbsp; Gently discover your body's own personal expression of Yoga Postures.&nbsp; &nbsp; &nbsp;1 Hour | <b>$60</b><br>",
+          "caption2": "Personal instruction in Yoga Asana (Postures) from a Certified Yoga Instructor. Personalized Yoga workouts designed for you.&nbsp; If you've tried Yoga but didn't feel like you were \"doing it right\" or you find group classes to be intimidating, a private lesson might work better for you. Gently discover your body's own personal expression of Yoga Postures.&nbsp; &nbsp; &nbsp; &nbsp; 1 Hour | <b>$60</b><br>",
           "title3": "Group Meditation Instruction",
           "caption3": "Group Meditation Instruction is available for the work place, community centers, parties, and family time.&nbsp; All specialty groups are welcome.&nbsp; Group rates are available for the <a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a> course or Introduction to Meditation class.&nbsp; For more details on group pricing, please contact me about your interest and tell me more about your group.&nbsp;&nbsp;",
           "title4": "Community Outreach",
