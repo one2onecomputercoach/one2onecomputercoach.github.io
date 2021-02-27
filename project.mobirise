@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone",
-    "currentPage": "index.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 157,
+    "uniqCompNum": 158,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1333,6 +1333,42 @@
         {
           "_params": {
             "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "What is Primordial Sound Meditation?",
+          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Find Out</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-4d",
+          "_styles": {
+            "H2": {
+              "font-size": "23px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -1881,7 +1917,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -1897,7 +1933,7 @@
           },
           "title": "How I came to Teaching Meditation &amp; Yoga",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>The story of my healing journey ...Coming soon</p><p><br></p><p><br></p><p><i>“You have a treasure within you that is infinitely greater than anything the world can offer” – Eckhart Tolle</i></p>",
+          "text": "<p>The story of my healing journey ...Coming soon</p><p><br></p><p><br></p><p><br></p><p><i>“You have a treasure within you that is infinitely greater than anything the world can offer” – Eckhart Tolle</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
