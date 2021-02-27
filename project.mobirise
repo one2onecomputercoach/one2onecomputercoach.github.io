@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone",
-    "currentPage": "BreathingSpace.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -574,8 +574,8 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "23px",
-              "text-align": "center"
+              "font-size": "20px",
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "font-size": "46px"
@@ -603,7 +603,7 @@
           },
           "title": "<br>Meditation Space",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p><br></p><p>Meditation is a tool for rediscovering the body’s own inner intelligence. Practiced for thousands of years, it’s not about forcing the mind to be quiet, it’s finding the silence that’s already there and making it a part of your life.&nbsp;</p><p>Silence is the birthplace of happiness, creativity and infinite possibilities. From this field of pure potentiality we get our bursts of inspiration, our most intuitive thoughts, and our deepest sense of connection to the Universe. Practicing meditation on a daily basis allows you to weave silence and stillness into your mind and body to create a life of greater compassion and fulfillment. Meditation is a journey to the center of our very being; a journey to emotional freedom; and a journey to the reawakening of our unconditioned self.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1219,7 +1219,7 @@
           },
           "title": "Breathing Space",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p>Yogic Breathing is also called \"Pranayama\", which is one of the Eight Limbs of Yoga.  In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.  The easy breathing techniques below have a calming effect and are suitable for beginners of all ages.&nbsp;&nbsp;</p><p><span style=\"font-size: 1.25rem;\">There are many benefits in developing mastery of the breath.  The mind, body, and breath are intimately connected and can influence each other.  Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breath.  For example, stress or other negative emotions can cause your breathing to become heavy, quick or shallow as your body prepares you for the \"fight or flight\" response.   When you breathe deeply and slowly, you activate the parasympathetic nervous system, which reverses the stress response in your body.  Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.  Other benefits can include increased awareness and presence of mind;  increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.</span></p>",
+          "text": "<p><br></p><p>Yogic Breathing, also called \"Pranayama\", is one of the Eight Limbs of Yoga.  In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.  The easy breathing techniques below have a calming effect and are suitable for beginners of all ages.&nbsp;&nbsp;</p><p><span style=\"font-size: 1.25rem;\">There are many benefits in developing mastery of the breath.  The mind, body, and breath are intimately connected and can influence each other.  Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breathing.  For example, stress or other negative emotions can cause your breathing to become heavy, quick or shallow as your body prepares you for the \"fight or flight\" response.&nbsp; By mindfully breathing deeply and slowly, you activate the parasympathetic nervous system and the stress response in the body is reversed.  Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.  Other benefits can include increased awareness and presence of mind;  increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
