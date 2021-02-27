@@ -231,6 +231,7 @@
 
 
 
+
 #header2-3n H1 {
   font-size: 46px;
   font-family: 'Playfair Display', sans-serif;
@@ -252,6 +253,10 @@
 #msg-box1-4d H2 {
   font-size: 20px;
   text-align: left;
+}
+#msg-box1-4d P {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 23px;
 }
 #msg-box3-3o .mbr-header .mbr-header__text {
   text-align: center;

@@ -1332,11 +1332,11 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -1352,7 +1352,7 @@
             "overlayOpacity": 0.5
           },
           "title": "What is Primordial Sound Meditation?",
-          "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
+          "text": "What is Primordial Sound Meditation?",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Find Out</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1364,6 +1364,11 @@
             "H2": {
               "font-size": "20px",
               "text-align": "left"
+            },
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "23px"
             }
           }
         },
