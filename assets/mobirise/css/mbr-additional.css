@@ -285,6 +285,9 @@
 #msg-box1-3z H2 {
   font-size: 30px;
 }
+#msg-box1-3y P {
+  font-family: 'Playfair Display', sans-serif;
+}
 #msg-box3-3o .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -304,17 +307,12 @@
 #msg-box3-3o .lead {
   color: #ca1512;
 }
-#msg-box1-3y P {
-  font-family: 'Playfair Display', sans-serif;
-}
 #form1-4f .mbr-section-title {
-  font-size: 25px;
+  font-size: 20px;
+  text-align: right;
 }
 #form1-4f .btn {
   font-family: 'Playfair Display', sans-serif;
-}
-#social-buttons1-3p .mbr-section-title {
-  font-size: 15px;
 }
 #contacts1-3a P {
   color: #f8f8f6;

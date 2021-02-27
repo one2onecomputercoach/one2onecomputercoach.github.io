@@ -327,7 +327,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -602,7 +602,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -914,7 +914,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -1103,7 +1103,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -1467,6 +1467,43 @@
           }
         },
         {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1208.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f8f8f6",
+            "overlayOpacity": "0.9"
+          },
+          "title": "Pre Made Blocks",
+          "text": "Proudly Serving the LGBTQ Community",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3y",
+          "_styles": {
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -1523,43 +1560,6 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1208.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#FFF8E0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.9"
-          },
-          "title": "Pre Made Blocks",
-          "text": "Proudly Serving the LGBTQ Community",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-3y",
-          "_styles": {
-            "P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          }
-        },
-        {
-          "_params": {
             "showTitle": true,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1609,43 +1609,14 @@
           "_anchor": "form1-4f",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "25px"
+              "font-size": "20px",
+              "text-align": "right"
             },
             ".btn": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": true,
-            "twitter": true,
-            "google": false
-          },
-          "text": "Inspired? Share it.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "15px"
-            }
-          },
-          "_anchor": "social-buttons1-3p"
         },
         {
           "_params": {
@@ -1675,7 +1646,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -1858,7 +1829,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
@@ -2148,7 +2119,7 @@
               "size": 0
             }
           },
-          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
           "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
