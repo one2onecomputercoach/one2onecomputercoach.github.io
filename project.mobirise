@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 167,
+    "uniqCompNum": 169,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -1267,8 +1267,8 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": false,
-            "showText": true,
+            "showTitle": true,
+            "showText": false,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
@@ -1575,17 +1575,10 @@
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
-            ".mbr-section-title": {
-              "font-size": "20px"
-            },
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "15px"
-            },
-            "small": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             ".lead": {
               "color": "#ca1512"
@@ -1599,28 +1592,28 @@
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///Users/Joanna/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2021-02-23_153045/assets/images/img-9073-2000x1500.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Proudly Serving the Greater Palm Springs Area and Coachella Valley. <br>Video Conferencing is always available for all locations.<br><br>",
-          "meta": "",
-          "text": "<p><i>Due to COVID-19 social distancing guidelines and regulations, in-person services are currently unavailable.&nbsp; Video conferencing and other social media platforms will be used for all classes until further notice.</i></p>",
+          "title": "Modern Styles",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><i>Due to COVID-19 social distancing guidelines and regulations, in-person services are currently unavailable.  Video conferencing and other social media platforms will be used for all classes until further notice.</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-3o"
+          "_anchor": "msg-box3-4o"
         },
         {
           "_params": {
@@ -1805,6 +1798,15 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
+        },
+        {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4n"
         }
       ]
     },
@@ -2174,7 +2176,7 @@
             "socialDisqus": false,
             "shortName": "",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1920x1280.jpg",
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
             "overlay": true,
