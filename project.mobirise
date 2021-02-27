@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Live_-clone",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "BreathingSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 117,
+    "uniqCompNum": 120,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -506,7 +506,7 @@
     "MeditationSpace.html": {
       "settings": {
         "title": "Ananda by Design | Meditation Space | Free Guided Meditation",
-        "order": 1,
+        "order": 2,
         "meta_descr": "So Hum Meditation Break | 10 Minute Guided Meditation | More Coming Soon | Serving the Greater Palm Springs Area & Beyond ",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpeg"
       },
@@ -902,7 +902,7 @@
     "Subscribe.html": {
       "settings": {
         "title": "Ananda by Design | Subscribe for News & Events",
-        "order": 3,
+        "order": 4,
         "meta_descr": "Subscribe for News & Events | Ananda by Design Meditation & Yoga with Joanna | Serving the Greater Palm Springs Area "
       },
       "components": [
@@ -1127,7 +1127,7 @@
     "BreathingSpace.html": {
       "settings": {
         "title": "Ananda by Design | Breathing Space | Free Guided Breathing Techniques",
-        "order": 2,
+        "order": 3,
         "meta_descr": "Ananda by Design | Pranayama | Easy Breathing Techniques | Bhramari Bee Breath | Four Part Breath or Square Breathing"
       },
       "components": [
@@ -1219,7 +1219,7 @@
           },
           "title": "Breathing Space",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p>Yogic Breathing, also called \"Pranayama\", is one of the Eight Limbs of Yoga.  In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.  The easy breathing techniques below have a calming effect and are suitable for beginners of all ages.&nbsp;&nbsp;</p><p><span style=\"font-size: 1.25rem;\">There are many benefits in developing mastery of the breath.  The mind, body, and breath are intimately connected and can influence each other.  Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breathing.  For example, stress or other negative emotions can cause your breathing to become heavy, quick or shallow as your body prepares you for the \"fight or flight\" response.&nbsp; By mindfully breathing deeply and slowly, you activate the parasympathetic nervous system and the stress response in the body is reversed.  Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.  Other benefits can include increased awareness and presence of mind;  increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.</span></p>",
+          "text": "<p><br></p><p>Yogic Breathing, also called \"Pranayama\", is one of the Eight Limbs of Yoga.  In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.  The easy breathing techniques below have a calming effect and are suitable for beginners of all ages.&nbsp;&nbsp;</p><p><span style=\"font-size: 1.25rem;\">There are many benefits in developing mastery of the breath.  The mind, body, and breath are intimately connected and can influence each other.  Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breathing.  For example, stress or other negative emotions can cause your breathing to become heavy, quick or shallow as your body prepares you for the \"fight or flight\" response.&nbsp; By mindfully breathing deeply and slowly you activate the parasympathetic nervous system, reversing the stress response in the body.  Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.  Other benefits can include increased awareness and presence of mind;  increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1442,7 +1442,7 @@
     "TOU.html": {
       "settings": {
         "title": "Ananda by Design | Terms of Use & Privacy Policy",
-        "order": 4,
+        "order": 5,
         "meta_descr": ""
       },
       "components": [
@@ -1628,6 +1628,142 @@
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"Subscribe.html\">More Info<br></a></li>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"></a></li>",
           "_anchor": "ext_menu-2d"
+        }
+      ]
+    },
+    "Offerings.html": {
+      "settings": {
+        "title": "Ananda by Design | Offerings | Meditation Course",
+        "order": 1,
+        "meta_descr": "Ananda by Design | Mediation Course Offerings | Primordial Sound Meditation | Meditation in Palm Springs"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "ext.menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".navbar-nav .btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000000"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "http://anandabydesign.com",
+              "title": "one2one Computer Coach",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-secondary-outline\" data-app-selector=\".navbar-nav .btn\" href=\"Subscribe.html\">More Info<br></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\"></a></li>",
+          "_anchor": "ext_menu-39"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Serving in</strong><br>the Greater Palm Springs area<br>and Coachella Valley",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#f8f8f6",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-3a"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © 2021 Ananda by Design, <a href=\"index.html\" class=\"text-warning\">anandabydesign.com</a>. All Rights Reserved.&nbsp;<a href=\"http://anandabydesign.com/TOU\" class=\"text-warning\">Terms of Use</a>  | <a href=\"TOU.html#content1-2g\" class=\"text-warning\">Privacy&nbsp;Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3b"
         }
       ]
     }
