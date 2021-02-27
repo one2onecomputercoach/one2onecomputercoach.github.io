@@ -1362,7 +1362,7 @@
           "_anchor": "msg-box1-4d",
           "_styles": {
             "H2": {
-              "font-size": "23px"
+              "font-size": "20px"
             }
           }
         },
@@ -1501,7 +1501,7 @@
             },
             "overlay": true,
             "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.9"
           },
           "title": "Pre Made Blocks",
           "text": "Proudly Serving the LGBTQ Community",
