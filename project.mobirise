@@ -509,7 +509,7 @@
             "bgColor": "#f8f8f6",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1440.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1440.jpeg",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
@@ -524,7 +524,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1278.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1278.jpeg",
                 "active": false,
                 "showButtons": true,
                 "showText": false,
@@ -539,7 +539,7 @@
                 "alt": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1400x989.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1024.jpeg",
                 "active": true,
                 "showButtons": true,
                 "showText": false,
