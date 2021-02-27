@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-Live_with_Edits-DarkFooter-clone",
-    "currentPage": "index.html",
+    "name": "one2one Computer Coach-Live_-clone",
+    "currentPage": "BreathingSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1274,7 +1274,7 @@
             }
           },
           "title": "Bee Breath",
-          "text": "<p>Bee Breath, called \"Bhramari\" in Sanskrit, is a breathing technique that helps calm the mind and releases tension within the body. The humming effect brings increased circulation around the upper body, especially the head area. This is a gentle technique that can be done by anyone and is recommended for any time.</p>",
+          "text": "<p>Bee Breath, called \"Bhramari\" in Sanskrit, is a breathing technique that helps calm the mind and release tension from within the body. The humming effect increases circulation in the upper body, especially around the head area. This easy and gentle technique can be done by anyone and is recommended for any time.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
