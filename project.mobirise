@@ -1267,8 +1267,8 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
-            "showText": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": false,
             "showArrow": false,
             "contentAlign": "center",
@@ -1286,7 +1286,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "<br>Offerings",
-          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "text": "<br>Offerings",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1299,6 +1299,11 @@
               "font-size": "46px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "46px"
             }
           }
         },
