@@ -109,6 +109,7 @@
 }
 #slider-3u .btn {
   font-family: 'Playfair Display', sans-serif;
+  font-size: 20px;
 }
 #contacts1-29 P {
   color: #f8f8f6;
@@ -310,6 +311,7 @@
 
 
 
+
 #header2-3g H1 {
   font-size: 36px;
   text-align: center;
@@ -319,6 +321,9 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #header2-3g B {
+  font-family: 'Playfair Display', sans-serif;
+}
+#header2-3g .btn {
   font-family: 'Playfair Display', sans-serif;
 }
 #contacts1-3h P {
