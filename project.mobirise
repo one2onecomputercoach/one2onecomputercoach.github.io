@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone",
-    "currentPage": "Offerings.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -2065,7 +2065,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "12",
+            "imageSize": "9",
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2127,7 +2127,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "12",
+            "imageSize": "9",
             "paddingTop": 0,
             "paddingBottom": "2",
             "bgImageRadio": false,
