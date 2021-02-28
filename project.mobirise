@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone",
-    "currentPage": "index.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -556,7 +556,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "10",
+            "imageSize": "5",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
