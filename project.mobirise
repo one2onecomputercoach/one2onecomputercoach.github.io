@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -364,7 +364,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-265x67.png",
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
               "link": "http://anandabydesign.com/About",
@@ -711,7 +711,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-265x67.png",
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
               "link": "http://anandabydesign.com/About",
@@ -1023,7 +1023,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-265x67.png",
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
               "link": "http://anandabydesign.com/About",
@@ -1212,7 +1212,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-265x67.png",
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
               "link": "http://anandabydesign.com/About",
@@ -1756,7 +1756,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-265x67.png",
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
               "link": "http://anandabydesign.com/About",
@@ -1939,7 +1939,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-265x67.png",
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
               "link": "http://anandabydesign.com/About",
@@ -2264,7 +2264,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-265x67.png",
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
               "link": "http://anandabydesign.com/About",
