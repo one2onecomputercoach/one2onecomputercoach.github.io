@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-Final-clone",
-    "currentPage": "Offerings.html",
+    "name": "one2one Computer Coach-Final-clone-clone",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -1444,7 +1444,7 @@
             "overlayOpacity": 0.5
           },
           "title1": "Primordial Sound Meditation Course",
-          "caption1": "Learn <b><a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a>&nbsp;</b>from a Chopra Certified Instructor, in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth. Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; <br>3 Hours | <b>$395</b><b><br></b>",
+          "caption1": "Learn <b><a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a>&nbsp;</b>from a Chopra Certified Instructor in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth. Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; <br>3 Hours | <b>$395</b><b><br></b>",
           "title2": "Personal Yoga Instruction",
           "caption2": "Personal instruction in Yoga Asana from a Certified Yoga Instructor. Personalized Yoga workouts designed for you.&nbsp; If you've tried Yoga but didn't feel like you could do the poses \"right\" or if group classes seem intimidating, try a private lesson. Gently discover your body's own personal expression of Yoga.&nbsp; <br>1 Hour | <b>$60</b><br>",
           "title3": "Group Meditation Instruction",
@@ -2194,7 +2194,7 @@
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showText": true,
             "showButton": false,
@@ -2215,7 +2215,7 @@
           },
           "title": "How I came to Teaching Meditation &amp; Yoga",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>...Coming soon</p><p><br></p><p><br></p><p><br></p><p><i>“You have a treasure within you that is infinitely greater than anything the world can offer” – Eckhart Tolle</i></p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><i>“You have a treasure within you that is infinitely greater than anything the world can offer” – Eckhart Tolle</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
