@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone",
-    "currentPage": "About.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -1577,7 +1577,7 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.7"
           },
-          "title": "<br><br><br>The Family that Meditates Together...",
+          "title": "<br><br><br>The Family that Meditates Together",
           "text": "Ask about our family rates.&nbsp; Discounts are available for seniors, full-time students and children.&nbsp; Kids 10 and under are included free of charge.&nbsp;&nbsp;<br><br><br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "alias": "purity/components",
