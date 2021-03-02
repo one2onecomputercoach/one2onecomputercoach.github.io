@@ -19,18 +19,14 @@
 #menu-46 .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
 }
-#msg-box3-4v .mbr-header .mbr-header__text {
+#content5-4w .mbr-section-title {
+  font-size: 36px;
   text-align: center;
 }
-#msg-box3-4v .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-4v .lead P {
+#content5-4w P {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 23px;
-}
-#msg-box3-4v .mbr-section-title {
-  font-size: 32px;
+  font-size: 25px;
+  text-align: center;
 }
 #msg-box3-w .mbr-header .mbr-header__text {
   text-align: center;

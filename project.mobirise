@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 176,
+    "uniqCompNum": 178,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -96,52 +96,44 @@
           }
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".lead P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "23px"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px"
-            }
-          },
           "_params": {
             "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
+            "showCaption": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#FFF8E0",
+            "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "title": "<br><br>Ananda by Design",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Meditation &amp; Yoga</p><p><br></p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "caption": "<p>Meditation &amp; Yoga</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-4v"
+          "_name": "content5",
+          "_anchor": "content5-4w",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "25px",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_styles": {
