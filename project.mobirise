@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -106,7 +106,7 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "23px"
+              "font-size": "25px"
             }
           },
           "_params": {
@@ -131,7 +131,7 @@
           },
           "title": "<br><br>Ananda by Design",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Meditation &amp; Yoga</p><p><br></p>",
+          "text": "<p>Meditation &amp; Yoga</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
