@@ -103,7 +103,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "40",
+            "imageSize": "35",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
@@ -159,7 +159,8 @@
             ".mbr-section-title": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "30px"
+              "font-size": "30px",
+              "text-align": "center"
             }
           }
         },
