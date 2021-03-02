@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 173,
+    "uniqCompNum": 174,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -96,13 +96,12 @@
           }
         },
         {
-          "_inherit": "header1",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": false,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpg",
             "parallax": false,
@@ -118,13 +117,13 @@
           },
           "title": "Ananda by Design",
           "text": "Meditation &amp; Yoga",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-4s",
+          "_name": "header1",
+          "_anchor": "header1-4t",
           "_styles": {
             "H1": {
               "font-size": "30px",
