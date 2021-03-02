@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 174,
+    "uniqCompNum": 175,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -96,6 +96,7 @@
           }
         },
         {
+          "_inherit": "header1",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -106,7 +107,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#fff8e0",
+            "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -117,23 +118,23 @@
           },
           "title": "Ananda by Design",
           "text": "Meditation &amp; Yoga",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-4t",
+          "_name": "header2",
+          "_anchor": "header2-4u",
           "_styles": {
             "H1": {
-              "font-size": "25px",
-              "text-align": "center"
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "30px"
             },
             "P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "25px",
-              "text-align": "center"
+              "font-size": "23px"
             }
           }
         },

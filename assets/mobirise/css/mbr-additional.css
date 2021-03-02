@@ -10,6 +10,7 @@
 
 
 
+
 #menu-46 .navbar-toggler {
   color: #000;
 }
@@ -19,14 +20,13 @@
 #menu-46 .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
 }
-#header1-4t H1 {
-  font-size: 25px;
-  text-align: center;
-}
-#header1-4t P {
+#header2-4u H1 {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 25px;
-  text-align: center;
+  font-size: 30px;
+}
+#header2-4u P {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 23px;
 }
 #msg-box3-w .mbr-header .mbr-header__text {
   text-align: center;
