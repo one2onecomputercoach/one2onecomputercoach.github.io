@@ -10,15 +10,6 @@
 
 
 
-#menu-46 .navbar-toggler {
-  color: #000;
-}
-#menu-46 .nav-link {
-  font-family: 'Playfair Display', sans-serif;
-}
-#menu-46 .navbar-brand {
-  font-family: 'Playfair Display', sans-serif;
-}
 #msg-box3-4y .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -47,6 +38,15 @@
 }
 #msg-box3-w .mbr-section-title I {
   font-size: 23px;
+}
+#menu-46 .navbar-toggler {
+  color: #000;
+}
+#menu-46 .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-46 .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
 }
 #msg-box3-4j .mbr-header .mbr-header__text {
   text-align: center;
