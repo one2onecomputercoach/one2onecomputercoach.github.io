@@ -129,12 +129,12 @@
             "H1": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "30px"
+              "font-size": "46px"
             },
             "P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "23px"
+              "font-size": "30px"
             }
           }
         },
@@ -180,7 +180,7 @@
           },
           "title": "<i><br></i><br>Journey within. Find your balance.<br><br>Discover the unique vibration of your soul.",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p><br></p><p><i>“Quiet the mind and the soul will speak.” – Ma Jaya Sati Bhagavati</i><br></p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><i>“Quiet the mind and the soul will speak.” – Ma Jaya Sati Bhagavati</i><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
