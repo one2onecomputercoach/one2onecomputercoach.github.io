@@ -103,9 +103,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "32",
+            "imageSize": "50",
             "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -123,7 +123,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-9073-2000x1500.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
