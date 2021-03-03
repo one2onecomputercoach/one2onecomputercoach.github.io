@@ -55,12 +55,12 @@
               "text-align": "center"
             },
             ".lead P": {
-              "font-size": "20px",
+              "font-size": "24px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -85,7 +85,7 @@
           },
           "title": "Ananda by Design",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Meditation &amp; Yoga</p><p><br></p><p><br></p><p><br></p><p><i>“Quiet the mind and the soul will speak.” – Ma Jaya Sati Bhagavati</i></p>",
+          "text": "<p>Meditation &amp; Yoga</p><p><br></p><p><br></p><p><i>“Quiet the mind and the soul will speak.” – Ma Jaya Sati Bhagavati</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -296,7 +296,7 @@
             "twitter": true,
             "google": false
           },
-          "text": "Inspired? Share it.",
+          "text": "",
           "alias": "purity/components",
           "_tags": [
             "Theme"
