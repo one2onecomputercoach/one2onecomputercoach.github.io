@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -83,7 +83,7 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.5"
           },
-          "title": "<br><br>Ananda by Design",
+          "title": "<br>Ananda by Design",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Meditation &amp; Yoga</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
