@@ -9,7 +9,6 @@
 
 
 
-
 #msg-box3-4y .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -17,27 +16,11 @@
   text-align: center;
 }
 #msg-box3-4y .lead P {
-  font-size: 23px;
+  font-size: 20px;
   font-family: 'Playfair Display', sans-serif;
 }
 #msg-box3-4y .mbr-section-title {
   font-size: 36px;
-}
-#msg-box3-w .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-w .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-w .mbr-section-title {
-  font-size: 23px;
-}
-#msg-box3-w .lead {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 20px;
-}
-#msg-box3-w .mbr-section-title I {
-  font-size: 23px;
 }
 #menu-46 .navbar-toggler {
   color: #000;
