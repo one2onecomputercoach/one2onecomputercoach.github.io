@@ -55,7 +55,7 @@
               "text-align": "center"
             },
             ".lead P": {
-              "font-size": "24px",
+              "font-size": "25px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             },
