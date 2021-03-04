@@ -86,7 +86,7 @@
           "title": "Modern Styles",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <a href=\"index.html\" class=\"text-warning\">Home</a>&nbsp; &nbsp; <a href=\"http://anandabydesign.com/About\" class=\"text-warning\">About</a>&nbsp; &nbsp; <a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://anandabydesign.com/About\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html\" data-toolbar=\"-mbrBtnMove\">Offerings</a>",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://anandabydesign.com/About\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html\" data-toolbar=\"-mbrBtnMove\">Offerings</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -148,7 +148,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": false,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -785,7 +785,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": false,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -1097,7 +1097,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": false,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -1286,7 +1286,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": false,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -1830,7 +1830,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": false,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -2013,7 +2013,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": false,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -2338,7 +2338,7 @@
             "showBrand": true,
             "showButtons": false,
             "sticky": false,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
