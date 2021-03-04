@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone-clone",
-    "currentPage": "index.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -46,54 +46,6 @@
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpeg"
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".btn": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "16px"
-            },
-            ".lead P": {
-              "text-align": "right"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Modern Styles",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <a href=\"index.html\" class=\"text-warning\">Home</a>&nbsp; &nbsp; <a href=\"http://anandabydesign.com/About\" class=\"text-warning\">About</a>&nbsp; &nbsp; <a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></p>",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://anandabydesign.com/About\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html\" data-toolbar=\"-mbrBtnMove\">Offerings</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-50"
-        },
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -147,8 +99,8 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
-            "collapsed": false,
+            "sticky": true,
+            "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -387,7 +339,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -734,7 +686,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -784,8 +736,8 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
-            "collapsed": false,
+            "sticky": true,
+            "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -1046,7 +998,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1096,8 +1048,8 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
-            "collapsed": false,
+            "sticky": true,
+            "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -1235,7 +1187,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1285,8 +1237,8 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
-            "collapsed": false,
+            "sticky": true,
+            "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -1452,9 +1404,9 @@
             "overlayOpacity": 0.5
           },
           "title1": "Primordial Sound Meditation Course",
-          "caption1": "Learn <b><a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a>&nbsp;</b>from a Chopra Certified Instructor in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth. Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; <br>3 Hours | <b>$395</b><b><br></b>",
+          "caption1": "Learn <b><a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a>&nbsp;</b>from a <a href=\"http://anandabydesign/About\" class=\"text-black\"><b>Chopra Certified Instructor</b> </a>in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth. Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; <br>3 Hours | <b>$395</b><b><br></b>",
           "title2": "Personal Yoga Instruction",
-          "caption2": "Personal instruction in Yoga Asana from a Certified Yoga Instructor. Personalized Yoga workouts designed for you.&nbsp; If you've tried Yoga but didn't feel like you could do the poses \"right\" or if group classes seem intimidating, try a private lesson. Gently discover your body's own personal expression of Yoga.&nbsp; <br>1 Hour | <b>$60</b><br>",
+          "caption2": "Personal instruction in Yoga Asana from a <a href=\"http://anandabydesign/About\" class=\"text-black text-primary\"><b>Certified Yoga Teacher</b></a>. Personalized Yoga workouts designed for you.&nbsp; If you've tried Yoga but didn't feel like you could do the poses \"right\" or if group classes seem intimidating, try a private lesson. Gently discover your body's own personal expression of Yoga.&nbsp; <br>1 Hour | <b>$60</b><br>",
           "title3": "Group Meditation Instruction",
           "caption3": "Group Meditation Instruction is available for the work place, community centers, parties, and family time.&nbsp; Group rates are available for the <a href=\"PSM.html\" class=\"text-black\"><b>Primordial Sound Meditation</b></a> course or Introduction to Meditation class.&nbsp; For more details on group pricing, please <a href=\"Offerings.html#form1-4f\" class=\"text-black\"><b>contact me</b></a> about your interest and tell me about your group.&nbsp; &nbsp;<br>",
           "title4": "Community Outreach",
@@ -1779,7 +1731,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1829,8 +1781,8 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
-            "collapsed": false,
+            "sticky": true,
+            "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -1962,7 +1914,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2012,8 +1964,8 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
-            "collapsed": false,
+            "sticky": true,
+            "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
@@ -2287,7 +2239,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning text-primary\">Free Guided Breathing Techniques</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2337,8 +2289,8 @@
             "logo": true,
             "showBrand": true,
             "showButtons": false,
-            "sticky": false,
-            "collapsed": false,
+            "sticky": true,
+            "collapsed": true,
             "transparent": false,
             "color": "#f8f8f6",
             "hamburgerColor": "#000"
