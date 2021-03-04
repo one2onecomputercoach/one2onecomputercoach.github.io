@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone-clone",
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,12 +17,12 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 179,
+    "uniqCompNum": 181,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "true",
-    "google-analytics": "Ananda by Design Meditation & Yoga | Individualized & Group Instruction | 200CYT | Primordial Sound Meditation Teacher | Chopra Certified Instructor | PSM in Palm Springs  ",
+    "google-analytics": "Ananda by Design Meditation & Yoga | Individualized & Group Instruction | CYT200 | Primordial Sound Meditation Teacher | Chopra Certified Instructor | PSM in Palm Springs  ",
     "siteUrl": "http://anandabydesign.com",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -39,13 +39,58 @@
       "settings": {
         "main": true,
         "title": "Ananda by Design | Meditation & Yoga",
-        "meta_descr": "Ananda by Design Meditation & Yoga | Individualized & Group Instruction | Primordial Sound Meditation | Chopra Certified Instructor | 200CYT | PSM in Palm Springs with Joanna",
+        "meta_descr": "Ananda by Design Meditation & Yoga | Individualized & Group Instruction | Primordial Sound Meditation | Chopra Certified Instructor | CYT200 | PSM in Palm Springs with Joanna",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1400x700.jpeg"
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Modern Styles",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://anandabydesign.com/About\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html\" data-toolbar=\"-mbrBtnMove\">Offerings</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-50"
+        },
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
