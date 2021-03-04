@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -102,7 +102,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#37383e",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
@@ -122,7 +122,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -739,7 +739,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#37383e",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
@@ -759,7 +759,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1051,7 +1051,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#37383e",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
@@ -1071,7 +1071,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1240,7 +1240,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#37383e",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
@@ -1260,7 +1260,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1784,7 +1784,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#37383e",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
@@ -1804,7 +1804,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1967,7 +1967,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#37383e",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
@@ -1987,7 +1987,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2175,7 +2175,7 @@
           },
           "title": "How I came to Teaching Meditation &amp; Yoga",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Training &amp; Qualifications</b></p><p>I’m a certified yoga teacher (CYT200), trained in techniques of teaching yoga postures, pranayama, meditation and philosophy.  I completed a Unified Yoga Teacher Training with <a href=\"https://www.yogaalliance.org/TeacherPublicProfile/tid/158983\" class=\"text-black\" target=\"_blank\">Troy McPeak</a>, who teaches the philosophy of a Unified approach to teaching yoga.  This approach is inclusive of ancient wisdom traditions, explores different styles of yoga and allows the yogi or yogini to “unify” any or all of the styles into their own style.  It also offers variety for students of all levels, while allowing yoga practitioners the time and space to do their own yoga in a way that is safe and comfortable for their anatomy.&nbsp;&nbsp;</p><p>I’m also a Chopra Center Certified Instructor in Primordial Sound Meditation.  The lineage of this ancient meditation practice traces back to the eighth century Vedic sage Adi Shakara.  Through my training with the Chopra Center, I learned about Advaita, Vedanta, advanced Vedic philosophy and the sciences of Ayurveda, yoga, mantras and meditation.  Having the experience of learning these wisdom traditions has been an honor and a gift to my soul.  I will be eternally grateful to Deepak Chopra, Roger Gabriel, Pandit Vamadeva Shastri (Dr. David Frawley), and Yogini Shambhavi for continuing the Shankaracharya lineage and making these teachings widely available in the West.&nbsp;</p><p><br></p><p><b>The Difference</b></p><p>I found yoga and meditation at a time when I was focused on improving my health and actively searching for healthier ways of living.  I had always heard that yoga would be good for my back pain and that meditation would reduce stress, so both were on my list of things to try.  The first time I went to a yoga class, I ended up with sore muscles for a week.  I was in so much pain that I never went back for another class again.  My first time meditating was through a 21-Day Meditation Experience with Oprah and Deepak.  I had a difficult time settling my mind and I wasn’t sure if I was doing it correctly, so I ended up quitting after a week.  Both failed attempts were discouraging but I’m glad I didn’t let myself give up.&nbsp;&nbsp;</p><p>I finally started feeling like I was meditating correctly, once I took the time to research meditation and learn what exactly happens, how it works and what to do.  I was able to finish an entire 21-Day Meditation Experience and many more after that.  With regular practice, I began to notice improvements in my health and in every aspect of my life.  It took time and changes happened in small shifts, but I was able to heal my life in a much deeper way than I had ever anticipated. I eventually decided to take a course from the Chopra Center, which taught me what I needed to know to establish a deeper more personalized meditation practice that has illuminated my life in the most unexpected ways.&nbsp; I also continued practicing gentle styles of yoga on my own at home.  But it wasn’t until I learned yoga postures in yoga teacher training, that I learned yoga in a way that made me fall in love and develop my own asana practice.&nbsp;&nbsp;</p><p>The difference that meditation and yoga has made in my life has been immeasurable.  For over forty years, my life was always an uphill struggle.  Learning to meditate expanded my awareness and allowed me to see myself and my life as a realm of infinite possibilities.  Through regular meditation, I’ve experienced more personal growth in a few years than I had in forty.  It’s not that higher education, motherhood or a career in service were not transformative enough to be catalysts for personal growth; those experiences were pivotal and I grew from them, but they were all external.  I didn’t truly find myself or understand the laws of the universe until I stopped to experience what was within.  It was inside myself, where I found my true Self and all the answers I had been seeking.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><i>“You have a treasure within you that is infinitely greater than anything the world can offer” – Eckhart Tolle</i></p>",
+          "text": "<p><b>Training &amp; Qualifications</b></p><p>I’m a certified yoga teacher (CYT200), trained in techniques of teaching yoga postures, pranayama, meditation and philosophy.  I completed a Unified Yoga Teacher Training with <a href=\"https://www.yogaalliance.org/TeacherPublicProfile/tid/158983\" class=\"text-black\" target=\"_blank\">Troy McPeak</a>, who teaches the philosophy of a Unified approach to teaching yoga.  This approach is inclusive of ancient wisdom traditions, explores different styles of yoga and allows the yogi or yogini to “unify” any or all of the styles into their own style.  It also offers variety for students of all levels, while allowing yoga practitioners the time and space to do their own yoga in a way that is safe and comfortable for their anatomy.&nbsp;&nbsp;</p><p>I’m also a Chopra Center Certified Instructor in Primordial Sound Meditation.  The lineage of this ancient meditation practice traces back to the eighth century Vedic sage Adi Shakara.  Through my training with the Chopra Center, I learned about Advaita, Vedanta, advanced Vedic philosophy and the sciences of Ayurveda, yoga, mantras and meditation.  Having the experience of learning these wisdom traditions has been an honor and a gift to my soul.  I will be eternally grateful to Deepak Chopra, Roger Gabriel, Pandit Vamadeva Shastri (Dr. David Frawley), and Yogini Shambhavi for continuing the Shankaracharya lineage and making these teachings widely available in the West.&nbsp;</p><p><br></p><p><b>The Difference</b></p><p>I found yoga and meditation at a time when I was focused on improving my health and actively searching for healthier ways of living.  I had always heard that yoga would be good for my back pain and that meditation would reduce stress, so both were on my list of things to try.  The first time I went to a yoga class, I ended up with sore muscles for a week.  I was in so much pain that I never went back for another class again.  My first time meditating was through a 21-Day Meditation Experience with Oprah and Deepak.  I had a difficult time settling my mind and I wasn’t sure if I was doing it correctly, so I ended up quitting after a week.  Both failed attempts were discouraging but I’m glad I didn’t let myself give up.&nbsp;&nbsp;</p><p>I finally started feeling like I was meditating correctly, once I took the time to research meditation and learn what exactly happens, how it works and what to do.  I was able to finish an entire 21-Day Meditation Experience and many more after that.  With regular practice, I began to notice improvements in my health and in every aspect of my life.  It took time and changes happened in small shifts, but I was able to heal my life in a much deeper way than I had ever anticipated. I eventually decided to take a course from the Chopra Center, which taught me what I needed to know to establish a deeper more personalized meditation practice that has illuminated my life in the most unexpected ways. I also continued practicing gentle styles of yoga on my own at home.  But it wasn’t until I learned yoga postures in yoga teacher training, that I learned yoga in a way that made me fall in love and develop my own asana practice.&nbsp;&nbsp;</p><p>The difference that meditation and yoga has made in my life has been immeasurable.  For over forty years, my life was always an uphill struggle.  Learning to meditate expanded my awareness and allowed me to see myself and my life as a realm of infinite possibilities.  Through regular meditation, I’ve experienced more personal growth in a few years than I had in forty.  It’s not that higher education, motherhood or a career in service were not transformative enough to be catalysts for personal growth; those experiences were pivotal and I grew from them, but they were all external.  I didn’t truly find myself or understand the laws of the universe until I stopped to experience what was within.  It was inside myself, where I found my true Self and all the answers I had been seeking.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><i>“You have a treasure within you that is infinitely greater than anything the world can offer” – Eckhart Tolle</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -2292,7 +2292,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#37383e",
+            "color": "#f8f8f6",
             "hamburgerColor": "#000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
@@ -2312,7 +2312,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
