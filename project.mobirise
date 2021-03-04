@@ -58,13 +58,16 @@
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
               "font-size": "16px"
+            },
+            ".lead P": {
+              "text-align": "right"
             }
           },
           "_params": {
             "showTitle": false,
             "showMeta": false,
-            "showText": false,
-            "showButton": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -82,8 +85,8 @@
           },
           "title": "Modern Styles",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://anandabydesign.com/About\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html\" data-toolbar=\"-mbrBtnMove\">Offerings</a>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; <a href=\"index.html\" class=\"text-warning\">Home</a>&nbsp; &nbsp; <a href=\"http://anandabydesign.com/About\" class=\"text-warning\">About</a>&nbsp; &nbsp; <a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://anandabydesign.com/About\" data-toolbar=\"-mbrBtnMove\">About</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html\" data-toolbar=\"-mbrBtnMove\">Offerings</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
