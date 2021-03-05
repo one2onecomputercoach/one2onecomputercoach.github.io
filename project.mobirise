@@ -2030,7 +2030,7 @@
             "inverse": false,
             "imageSize": "9",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
