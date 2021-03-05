@@ -28,7 +28,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": true,
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -2237,7 +2237,7 @@
               "font-size": "25px"
             },
             "H2": {
-              "font-size": "25px",
+              "font-size": "20px",
               "text-align": "left"
             }
           }
