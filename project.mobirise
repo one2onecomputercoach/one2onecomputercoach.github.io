@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone-clone",
-    "currentPage": "PSM.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1578,7 +1578,7 @@
             },
             "overlay": true,
             "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.9"
+            "overlayOpacity": "0.8"
           },
           "title": "Pre Made Blocks",
           "text": "Proudly Serving the LGBTQ Community",
@@ -1860,7 +1860,7 @@
           },
           "title": "Primordial Sound Meditation<br><br>",
           "text": "<b>What is Primordial Sound Meditation?</b><br>Primordial Sound Meditation is a meditation technique originating in the ancient wisdom of India. Primordial Sounds—the basic, most essential sounds of nature—are used to disconnect us from the activity of life. These individually selected sounds, known as mantras, are based on the vibration the universe was making at the moment of your birth. <br><br>Once your Primordial Sound mantra has been determined, you will be taught how to use it on a daily basis to reawaken balance, tranquility and compassion within. Your Chopra Center Certified Instructor will help you to integrate this practice into your daily routine<br><br><b>How will Primordial Sound Meditation affect my health?</b><br>Nowadays, doctors are increasingly citing stress as a major contributing factor to most illnesses. Even though meditation should not be considered a cure by itself, research has shown it to be beneficial for a wide range of health problems. As stress is greatly eliminated through Primordial Sound Meditation, our minds and bodies begin to function with maximum effectiveness, creating health, vitality and happiness.<br><br><b>What are the benefits of meditation?</b><br>Practicing Primordial Sound Meditation on a daily basis can help you to:<br>•\tManage stress<br>• \tReduce anxiety<br>•\tImprove your relationships<br>•\tCreate inner peace<br>•\tAwaken your intuition<br>•\tEnhance your sleep patterns<br>•\tLower your blood pressure<br>•\tBecome less judgmental<br>•\tConnect to spirit<br><br><b>How do I learn Primordial Sound Meditation?</b><br>Primordial Sound Meditation is easily learned in four short sessions over a period of a few days.&nbsp; <br><br>In Session One, your Chopra Center Certified Meditation Instructor will introduce you to the basic principles of meditation; its history and the importance of your mantra. <br><br>In Session Two, you will receive personal instruction in your Primordial Sound mantra and learn how to use it. You will try meditation for the first time using your Primordial Sound mantra. <br><br>In Session Three, you will learn the practical aspects of meditation, share your experience, receive answers to any questions, and meditate with your instructor. <br><br>In Session Four, you will attend a lecture about the higher states of consciousness that can be achieved with regular Primordial Sound Meditation practice. Your instructor will share Deepak Chopra’s vision of these higher states. Primordial Sound Meditation is recommended for anyone who wishes to enjoy deeper peace, greater freedom and mastery of life.<br><br><br><i>“Meditation is a vital way to purify and quiet the mind, thus rejuvenating the body” – Deepak Chopra</i><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html#form1-4f\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"Offerings.html#msg-box3-4i\" data-toolbar=\"-mbrBtnMove\">I'm Ready</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
