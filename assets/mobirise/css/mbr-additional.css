@@ -429,7 +429,8 @@
 }
 #msg-box4-4m .lead P {
   font-family: 'Playfair Display', sans-serif;
-  text-align: right;
+  text-align: center;
+  font-size: 23px;
 }
 #contacts1-29 P {
   color: #f8f8f6;
