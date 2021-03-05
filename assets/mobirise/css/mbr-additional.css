@@ -23,6 +23,10 @@
 #msg-box3-4y .mbr-section-title {
   font-size: 32px;
   text-align: center;
+  color: #37383e;
+}
+#msg-box3-4y .lead {
+  color: #37383e;
 }
 #menu-46 .navbar-toggler {
   color: #000;
@@ -79,7 +83,7 @@
   font-size: 15px;
 }
 #contacts1-29 DIV {
-  color: #f1c050;
+  color: #f8f8f6;
 }
 
 
@@ -141,7 +145,7 @@
   font-size: 15px;
 }
 #contacts1-29 DIV {
-  color: #f1c050;
+  color: #f8f8f6;
 }
 #menu-46 .navbar-toggler {
   color: #000;
@@ -195,7 +199,7 @@
   font-size: 15px;
 }
 #contacts1-2n DIV {
-  color: #f1c050;
+  color: #f8f8f6;
 }
 #menu-46 .navbar-toggler {
   color: #000;
@@ -232,7 +236,7 @@
   font-size: 15px;
 }
 #contacts1-2b DIV {
-  color: #f1c050;
+  color: #f8f8f6;
 }
 #menu-46 .navbar-toggler {
   color: #000;
@@ -346,7 +350,7 @@
   font-size: 15px;
 }
 #contacts1-3a DIV {
-  color: #f1c050;
+  color: #f8f8f6;
 }
 #menu-46 .navbar-toggler {
   color: #000;
@@ -388,7 +392,7 @@
   font-size: 15px;
 }
 #contacts1-3h DIV {
-  color: #f1c050;
+  color: #f8f8f6;
 }
 #menu-46 .navbar-toggler {
   color: #000;
@@ -425,6 +429,7 @@
 }
 #msg-box4-4m .lead P {
   font-family: 'Playfair Display', sans-serif;
+  text-align: left;
 }
 #contacts1-29 P {
   color: #f8f8f6;
@@ -436,7 +441,7 @@
   font-size: 15px;
 }
 #contacts1-29 DIV {
-  color: #f1c050;
+  color: #f8f8f6;
 }
 #menu-46 .navbar-toggler {
   color: #000;
