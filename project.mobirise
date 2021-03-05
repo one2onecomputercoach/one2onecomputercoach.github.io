@@ -2201,8 +2201,8 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showText": true,
+            "showTitle": true,
+            "showText": false,
             "showButtons": false,
             "inverse": false,
             "paddingTop": "0",
@@ -2238,7 +2238,9 @@
             },
             "H2": {
               "font-size": "20px",
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         },
