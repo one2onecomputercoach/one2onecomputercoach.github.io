@@ -2220,7 +2220,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Want to share your journey?",
+          "title": "Want to share your journey?T",
           "text": "Want to share your journey?",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "alias": "purity/components",
