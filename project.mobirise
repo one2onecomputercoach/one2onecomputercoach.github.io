@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone-clone",
-    "currentPage": "About.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1683,7 +1683,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Please tell me which offering interests you. | For Groups & Families, please tell me the number of participants. Please give ages of seniors and children. | Please tell me if you qualify for a discount. "
               }
             }
           },
