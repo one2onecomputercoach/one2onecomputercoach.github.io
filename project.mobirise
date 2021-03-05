@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone-clone",
-    "currentPage": "Offerings.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -2103,7 +2103,7 @@
             "showMeta": false,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1493x1920.jpg",
