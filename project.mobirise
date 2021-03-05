@@ -2201,8 +2201,8 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": false,
             "inverse": false,
             "paddingTop": "0",
@@ -2221,7 +2221,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Want to share your journey?",
-          "text": "Want to share your journey?",
+          "text": "Want to share your journey?T",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "alias": "purity/components",
           "_tags": [
@@ -2231,10 +2231,10 @@
           "_anchor": "msg-box1-51",
           "_styles": {
             "P": {
-              "text-align": "center",
+              "text-align": "left",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "25px"
+              "font-size": "36px"
             },
             "H2": {
               "font-size": "20px",
