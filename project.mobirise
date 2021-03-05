@@ -1661,7 +1661,7 @@
           "title": "Get in Touch",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
-            "action": "anandabydesign@yahoo.com",
+            "action": "ricesupastar@yahoo.com",
             "alerts": {
               "success": "Thank you! I will be in touch shortly. Namaste."
             },
@@ -1683,7 +1683,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Please tell me which offering interests you. | For Groups & Families, please tell me the number of participants. Please give ages of seniors and children. | Please tell me if you qualify for a discount. "
+                "customTitle": "Please tell me which offering interests you. | For Groups & Families, please tell me the number of participants. Please give ages of seniors and children. | Please tell me if you qualify for a discount. | Please feel free to ask questions or leave comments."
               }
             }
           },
