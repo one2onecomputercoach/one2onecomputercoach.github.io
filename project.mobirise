@@ -2181,7 +2181,7 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "<p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Want to share your journey?&nbsp;</p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Want to share your journey?&nbsp;</span><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
