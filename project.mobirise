@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 181,
+    "uniqCompNum": 182,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -2143,9 +2143,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "12",
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "imageSize": "11",
+            "paddingTop": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -2181,7 +2181,7 @@
             }
           },
           "title": "Drag &amp; Drop Website Builder",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Want to share your journey?R</span><br></p>",
+          "text": "",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2194,14 +2194,53 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "right",
+              "text-align": "left",
               "font-size": "20px"
             }
           }
         },
         {
           "_params": {
-            "paddingTop": 4,
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pre Made Blocks",
+          "text": "Want to share your journey?",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-51",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
             "paddingBottom": 4,
             "socialFacebook": true,
             "postsNumber": 5,
