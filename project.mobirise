@@ -2220,7 +2220,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Want to share your journey?T",
+          "title": "Want to share your journey?",
           "text": "Want to share your journey?",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "alias": "purity/components",
@@ -2237,7 +2237,7 @@
               "font-size": "25px"
             },
             "H2": {
-              "font-size": "30px",
+              "font-size": "25px",
               "text-align": "left"
             }
           }
