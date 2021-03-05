@@ -327,7 +327,7 @@
               "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "link": "http://anandabydesign.com/About",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -674,7 +674,7 @@
               "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "link": "http://anandabydesign.com/About",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -986,7 +986,7 @@
               "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "link": "http://anandabydesign.com/About",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -1175,7 +1175,7 @@
               "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "link": "http://anandabydesign.com/About",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -1719,7 +1719,7 @@
               "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "link": "http://anandabydesign.com/About",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -1902,7 +1902,7 @@
               "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "link": "http://anandabydesign.com/About",
               "alt": "",
               "linkInNewWindow": false
             },
@@ -2080,62 +2080,6 @@
           }
         },
         {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "9",
-            "paddingTop": 0,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-300x76.png",
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Drag &amp; Drop Website Builder",
-          "text": "<p><br></p><p>Learn Meditation from a Chopra Certified Instructor</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-4m"
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -2175,7 +2119,7 @@
           },
           "title": "How I came to Teaching Meditation &amp; Yoga",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>The Training</b></p><p>Certified yoga teacher (CYT200), trained in techniques of teaching yoga postures, pranayama, meditation and philosophy.  I completed a Unified Yoga Teacher Training that&nbsp;teaches the philosophy of a Unified approach to teaching yoga.  This approach is inclusive of ancient wisdom traditions, explores different styles of yoga and allows the yogi or yogini to “unify” any or all of the styles into their own style.  It also offers variety for students of all levels, while allowing yoga practitioners the time and space to do their own yoga in a way that is safe and comfortable for their anatomy.&nbsp;&nbsp;</p><p>Chopra Center Certified Instructor in Primordial Sound Meditation.  The lineage of this ancient meditation practice traces back to the eighth century Vedic sage Adi Shakara.  Through my training with the Chopra Center, I learned about Advaita, Vedanta, advanced Vedic philosophy and the sciences of Ayurveda, yoga, mantras and meditation.  Having the experience of learning these wisdom traditions has been an honor and a gift to my soul.&nbsp;</p><p><br></p><p><b>The Difference</b></p><p>I found yoga and meditation at a time when I was focused on improving my health and actively searching for healthier ways of living.  I had always heard that yoga would be good for my back pain and that meditation would reduce stress, so both were on my list of things to try.  The first time I went to a yoga class, I ended up with sore muscles for a week.  I was in so much pain that I never went back for another class again.  My first time meditating was through a 21-Day Meditation Experience with Oprah and Deepak.  I had a difficult time settling my mind and I wasn’t sure if I was doing it correctly, so I ended up quitting after a week.  Both failed attempts were discouraging but I’m glad I didn’t let myself give up.&nbsp;&nbsp;</p><p>I finally started feeling like I was meditating correctly, once I took the time to research meditation and learn more about how it works and what to do.  I was able to finish an entire 21-Day Meditation Experience and many more after that.  With regular practice, I began to notice that life was getting easier.  It took time and changes happened in small shifts, but I was able to heal my life in a much deeper way than I had ever anticipated. I was inspired to learn more about meditation from the Chopra Center, where I learned what I needed to know to establish a deeper more personalized meditation practice. In doing so, my being has been illuminated in the most unexpected ways. I also continued practicing gentle styles of yoga on my own at home.  But it wasn’t until I was in Unified Yoga Teacher Training, that I learned yoga in a way that made me fall in love and develop my own practice.&nbsp;&nbsp;</p><p>The difference that meditation and yoga has made in my life has been immeasurable. For over forty years, my life was always an uphill struggle.  Learning to meditate has expanded my awareness and allowed me to see myself and my life as a realm of infinite possibilities.  Through regular meditation, I’ve experienced more personal growth in a few years than I had in forty.  It’s not that higher education, motherhood or a career in service were not transformative enough to be catalysts for personal growth; those experiences were pivotal and I grew from them, but they were all external.  I didn’t truly find myself or understand the laws of the universe until I stopped to experience what was within.  It was inside myself, where I found my true Self and all the answers I had been seeking.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><i>“You have a treasure within you that is infinitely greater than anything the world can offer” – Eckhart Tolle</i></p>",
+          "text": "<p><b>The Difference</b></p><p><span style=\"font-size: 1.25rem;\">I found yoga and meditation at a time when I was focused on improving my health and actively searching for healthier ways of living. I had always heard that yoga would be good for my back pain and that meditation would reduce stress, so both were on my list of things to try. The first time I went to a yoga class, I ended up with sore muscles for a week. I was in so much pain that I never went back for another class again. My first time meditating was through a 21-Day Meditation Experience with Oprah and Deepak. I had a difficult time settling my mind and I wasn’t sure if I was doing it correctly, so I ended up quitting after a week. Both failed attempts were discouraging but I’m glad I didn’t let myself give up.&nbsp;&nbsp;</span></p><p>I finally started feeling like I was meditating correctly, once I took the time to research meditation and learn more about how it works and what to do. I was able to finish an entire 21-Day Meditation Experience and many more after that. With regular practice, I began to notice that life was getting easier. It took time and changes happened in small shifts, but I was able to heal my life in a much deeper way than I had ever anticipated. I was inspired to learn more about meditation from the Chopra Center, where I learned what I needed to know to establish a deeper more personalized meditation practice. In doing so, my being has been illuminated in the most unexpected ways. I also continued practicing gentle styles of yoga on my own at home. But it wasn’t until I was in Unified Yoga Teacher Training, that I learned yoga in a way that made me fall in love and develop my own practice.&nbsp;&nbsp;</p><p><span style=\"font-size: 1.25rem;\">The difference that meditation and yoga has made in my life has been immeasurable. For over forty years, my life was always an uphill struggle. Learning to meditate has expanded my awareness and allowed me to see myself and my life as a realm of infinite possibilities. Through regular meditation, I’ve experienced more personal growth in a few years than I had in forty. It’s not that higher education, motherhood or a career in service were not transformative enough to be catalysts for personal growth; those experiences were pivotal and I grew from them, but they were all external. I didn’t truly find myself or understand the laws of the universe until I stopped to experience what was within. It was inside myself, where I found my true Self and all the answers I had been seeking.</span><br></p><p><b><br></b></p><p><b style=\"font-size: 1.25rem;\">The Training</b><br></p><p>Certified yoga teacher (CYT200), trained in techniques of teaching yoga postures, pranayama, meditation and philosophy.  I completed a Unified Yoga Teacher Training with Troy McPeak, who teaches the philosophy of a Unified approach to teaching yoga.  This approach is inclusive of ancient wisdom traditions, explores different styles of yoga and allows the yogi or yogini to “unify” any or all of the styles into their own style.  It also offers variety for students of all levels, while allowing yoga practitioners the time and space to do their own yoga in a way that is safe and comfortable for their anatomy.&nbsp;&nbsp;</p><p>Chopra Center Certified Instructor in Primordial Sound Meditation.&nbsp;<span style=\"font-size: 1.25rem;\">The lineage of this ancient meditation practice traces back to the eighth century Vedic sage Adi Shakara.  Through my training with the Chopra Center, I learned about Advaita, Vedanta, advanced Vedic philosophy and the sciences of Ayurveda, yoga, mantras and meditation.  Having the experience of learning these wisdom traditions has been an honor and a gift to my soul.&nbsp;</span></p><p><br></p><p><br></p><p><br></p><p><i>“You have a treasure within you that is infinitely greater than anything the world can offer” – Eckhart Tolle</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -2183,6 +2127,68 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-4c"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "9",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-300x76.png",
+              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p><br></p><p>Want to share your journey?&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4m",
+          "_styles": {
+            ".lead P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
         },
         {
           "_params": {
@@ -2227,7 +2233,7 @@
               "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
               "width": 265,
               "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "link": "http://anandabydesign.com/About",
               "alt": "",
               "linkInNewWindow": false
             },
