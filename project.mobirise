@@ -2140,10 +2140,10 @@
           "_params": {
             "showTitle": false,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "11",
+            "imageSize": "12",
             "paddingTop": "0",
             "paddingBottom": "2",
             "bgImageRadio": false,
