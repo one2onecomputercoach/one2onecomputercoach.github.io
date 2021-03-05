@@ -18,9 +18,11 @@
 #msg-box3-4y .lead P {
   font-size: 25px;
   font-family: 'Playfair Display', sans-serif;
+  text-align: center;
 }
 #msg-box3-4y .mbr-section-title {
   font-size: 32px;
+  text-align: center;
 }
 #menu-46 .navbar-toggler {
   color: #000;

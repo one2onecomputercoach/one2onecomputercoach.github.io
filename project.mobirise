@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone-clone",
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -57,10 +57,12 @@
             ".lead P": {
               "font-size": "25px",
               "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -71,7 +73,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-1920x1280.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#FFF8E0",
@@ -81,7 +83,7 @@
             },
             "overlay": true,
             "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.7"
           },
           "title": "<br>Ananda by Design",
           "meta": "By John Smith posted July 30, 2015",
@@ -430,7 +432,7 @@
             },
             "overlay": true,
             "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.7"
           },
           "title": "Meditation Space",
           "meta": "By John Smith posted July 30, 2015",
