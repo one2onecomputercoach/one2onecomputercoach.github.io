@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone-clone",
-    "currentPage": "PSM.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -22,7 +22,7 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": "true",
-    "google-analytics": "Ananda by Design Meditation & Yoga | Individualized & Group Instruction | CYT200 | Primordial Sound Meditation Teacher | Chopra Certified Instructor | PSM in Palm Springs  ",
+    "google-analytics": "Ananda by Design Meditation & Yoga with Joanna | Individualized & Group Instruction | CYT200 | Primordial Sound Meditation Teacher | Chopra Certified Instructor | Meditation in Palm Springs  ",
     "siteUrl": "http://anandabydesign.com",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
