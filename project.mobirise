@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-Final-clone-clone-clone",
-    "currentPage": "About.html",
+    "currentPage": "PSM.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -26,9 +26,9 @@
     "siteUrl": "http://anandabydesign.com",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": true,
+    "robotsSwitcher": false,
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
@@ -1875,7 +1875,7 @@
           "_name": "header2",
           "_styles": {
             "H1": {
-              "font-size": "46px",
+              "font-size": "36px",
               "text-align": "center",
               "color": "#37383e"
             },
