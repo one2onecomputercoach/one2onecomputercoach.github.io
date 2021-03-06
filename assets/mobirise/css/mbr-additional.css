@@ -437,7 +437,8 @@
 #msg-box1-51 P {
   text-align: left;
   font-family: 'PT Sans', sans-serif;
-  font-size: 36px;
+  font-size: 30px;
+  color: #37383e;
 }
 #msg-box1-51 H2 {
   font-size: 20px;
