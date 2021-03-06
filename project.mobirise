@@ -415,7 +415,8 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "46px",
+              "color": "#37383e"
             }
           },
           "_params": {
@@ -807,6 +808,9 @@
               "text-align": "left",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".mbr-section-title": {
+              "color": "#37383e"
             }
           },
           "_params": {
@@ -1872,7 +1876,8 @@
           "_styles": {
             "H1": {
               "font-size": "46px",
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#37383e"
             },
             "P": {
               "text-align": "left",
@@ -2082,6 +2087,9 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".mbr-section-title": {
+              "color": "#37383e"
             }
           }
         },

@@ -110,6 +110,7 @@
 }
 #msg-box3-1n .mbr-section-title {
   font-size: 46px;
+  color: #37383e;
 }
 #msg-box5-1m .lead P {
   font-family: 'Playfair Display', sans-serif;
@@ -176,6 +177,9 @@
 #msg-box3-34 .lead P {
   text-align: left;
   font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-34 .mbr-section-title {
+  color: #37383e;
 }
 #msg-box4-2y .lead P {
   font-family: 'Playfair Display', sans-serif;
@@ -371,6 +375,7 @@
 #header2-3g H1 {
   font-size: 46px;
   text-align: center;
+  color: #37383e;
 }
 #header2-3g P {
   text-align: left;
@@ -414,6 +419,9 @@
 
 #msg-box4-4a .lead P {
   font-family: 'Playfair Display', sans-serif;
+}
+#msg-box4-4a .mbr-section-title {
+  color: #37383e;
 }
 #msg-box3-4c .mbr-header .mbr-header__text {
   text-align: center;
