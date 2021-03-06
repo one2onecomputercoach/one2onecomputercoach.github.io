@@ -262,16 +262,14 @@
 
 
 
-
-
-#header2-3n H1 {
-  font-size: 46px;
-  font-family: 'Playfair Display', sans-serif;
-  color: #37383e;
+#msg-box3-52 .mbr-header .mbr-header__text {
+  text-align: center;
 }
-#header2-3n P {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 46px;
+#msg-box3-52 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-52 .mbr-section-title {
+  color: #37383e;
 }
 #msg-box3-4i .mbr-header .mbr-header__text {
   text-align: center;
