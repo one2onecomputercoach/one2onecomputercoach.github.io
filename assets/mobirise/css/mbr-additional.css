@@ -138,6 +138,12 @@
   text-align: center;
   font-size: 30px;
 }
+#msg-box3-53 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-53 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #contacts1-29 P {
   color: #f8f8f6;
   font-family: 'Playfair Display', sans-serif;
@@ -194,6 +200,12 @@
 }
 #msg-box4-35 .btn {
   font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-54 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-54 .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 #contacts1-2n P {
   color: #f8f8f6;
