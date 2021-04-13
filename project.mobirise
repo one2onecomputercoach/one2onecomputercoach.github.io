@@ -1690,7 +1690,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Please tell me which offering interests you. | For groups & families, please tell me the number of participants. Please include ages of seniors and children. | Please tell me if you qualify for a discount. | Please feel free to ask questions or leave comments. | Thank you for your interest!"
+                "customTitle": ""
               }
             }
           },
