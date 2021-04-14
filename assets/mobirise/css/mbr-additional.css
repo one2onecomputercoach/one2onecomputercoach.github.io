@@ -97,6 +97,7 @@
 
 
 
+
 #msg-box3-1n .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -112,18 +113,27 @@
   font-size: 46px;
   color: #37383e;
 }
+#msg-box4-5f .lead P {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-5g .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-5g .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-5g .mbr-section-title {
+  font-size: 30px;
+}
+#msg-box3-5g .lead P {
+  font-family: 'Playfair Display', sans-serif;
+  text-align: center;
+}
 #msg-box5-1m .lead P {
   font-family: 'Playfair Display', sans-serif;
 }
 #msg-box5-1m .btn {
   font-family: 'Playfair Display', sans-serif;
-}
-#msg-box4-4r .mbr-section-title {
-  font-size: 30px;
-}
-#msg-box4-4r .lead P {
-  font-family: 'Playfair Display', sans-serif;
-  text-align: left;
 }
 #slider-3u H2 {
   font-size: 25px;
