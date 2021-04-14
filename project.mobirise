@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-NoYogaOffering",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1411,7 +1411,7 @@
             "showMeta": false,
             "showText": true,
             "showButton": true,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -1441,7 +1441,7 @@
           "_params": {
             "showTitles": true,
             "showCaptions": true,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
