@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-NoYogaOffering",
-    "currentPage": "Offerings.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 197,
+    "uniqCompNum": 198,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -479,7 +479,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/mbr-1400x1836.jpg",
-              "link": "https://t.me/s/AhumMeditation",
+              "link": "https://soundcloud.com/user-256638860/5-minute-guided-ahum-meditation",
               "alt": "",
               "linkInNewWindow": true
             },
@@ -502,7 +502,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://t.me/s/AhumMeditation\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's Meditate</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://soundcloud.com/user-256638860/5-minute-guided-ahum-meditation\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's Meditate</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-5f",
           "_styles": {
@@ -589,7 +589,7 @@
               "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpeg",
               "active": true,
               "linkInNewWindow": true,
-              "link": "https://t.me/s/SoHumMeditationBreak",
+              "link": "https://soundcloud.com/user-256638860/10-minute-guided-so-hum-meditation",
               "alt": ""
             },
             "video": {
@@ -607,7 +607,7 @@
           "title": "10 Minute Guided So Hum Meditation",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>This is a short guided meditation for any time you have a few minutes to take a break, relax and renew.&nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://t.me/s/SoHumMeditationBreak\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's Meditate</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://soundcloud.com/user-256638860/10-minute-guided-so-hum-meditation\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's Meditate</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
