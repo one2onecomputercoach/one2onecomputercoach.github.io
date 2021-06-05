@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-NoYogaOffering",
-    "currentPage": "About.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1591,7 +1591,7 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.7"
           },
-          "title": "<br><br><br>The Family that Meditates Together...",
+          "title": "<br><br><br>Family and Group Discounts",
           "text": "Ask about our family and group rates.&nbsp; Discounts are available for seniors, full-time students and children.&nbsp; Children 4 - 10 years old are included free of charge.&nbsp;&nbsp;<br><br><br><br><br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
           "alias": "purity/components",
