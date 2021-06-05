@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-NoYogaOffering",
-    "currentPage": "MeditationSpace.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1376,7 +1376,7 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.7"
           },
-          "title": "Offerings<br><br><br><br><br><br>",
+          "title": "<br><br><br><br><br><br>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
