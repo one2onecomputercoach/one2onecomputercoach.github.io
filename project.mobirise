@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-NoYogaOffering-clone",
-    "currentPage": "PSM.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -335,7 +335,7 @@
               "active": true,
               "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
               "alt": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -727,7 +727,7 @@
               "active": true,
               "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
               "alt": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1042,7 +1042,7 @@
               "active": true,
               "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
               "alt": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1231,7 +1231,7 @@
               "active": true,
               "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
               "alt": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1775,7 +1775,7 @@
               "active": true,
               "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
               "alt": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -1959,7 +1959,7 @@
               "active": true,
               "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
               "alt": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -2217,7 +2217,7 @@
               "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-300x76.png",
               "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
               "alt": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2341,7 +2341,7 @@
               "active": true,
               "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
               "alt": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
