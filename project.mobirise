@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "one2one Computer Coach-NoYogaOffering-clone",
-    "currentPage": "Offerings.html",
+    "currentPage": "MeditationSpace.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 198,
+    "uniqCompNum": 202,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -624,88 +624,6 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "showBullets": false,
-            "bgColor": "#f8f8f6",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1920x1440.jpeg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": false,
-                "title": "I'm ready to dive deeper within",
-                "contentAlign": "center",
-                "text": "I'm ready to dive deeper within",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Start a Journey</a>",
-                "overlay": true,
-                "overlayOpacity": "0.8",
-                "overlayColor": "#f8f8f6",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1278.jpeg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": false,
-                "title": "I'm ready for a personalized experience&nbsp;&nbsp;",
-                "contentAlign": "center",
-                "text": "I'm ready for a personalized experience",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Start a Journey</a>",
-                "overlay": true,
-                "overlayOpacity": "0.8",
-                "overlayColor": "#f8f8f6",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1024.jpeg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": false,
-                "title": "I'm ready to discover my personal mantra&nbsp;",
-                "contentAlign": "center",
-                "text": "I'm ready to discover my personal mantra",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"PSM.html\" data-toolbar=\"-mbrBtnMove\">Start a Journey</a>",
-                "overlay": true,
-                "overlayOpacity": "0.8",
-                "overlayColor": "#f8f8f6",
-                "alt": ""
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_styles": {
-            "H2": {
-              "font-size": "25px",
-              "text-align": "center"
-            },
-            ".btn": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "16px"
-            },
-            "P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "center",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "slider-3u"
         },
         {
           "_params": {
