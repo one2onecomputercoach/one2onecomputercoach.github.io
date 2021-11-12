@@ -9,8 +9,6 @@
 
 
 
-
-
 #msg-box3-4y .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -52,25 +50,6 @@
 #msg-box3-4j .lead P {
   font-family: 'Playfair Display', sans-serif;
   font-size: 22px;
-}
-#msg-box3-25 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-25 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-25 .mbr-section-title {
-  font-size: 20px;
-}
-#msg-box3-25 .lead P {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 15px;
-}
-#msg-box3-25 small {
-  font-family: 'Playfair Display', sans-serif;
-}
-#msg-box3-25 .lead {
-  color: #ca1512;
 }
 #social-buttons1-m .mbr-section-title {
   font-size: 15px;
@@ -260,7 +239,6 @@
 
 
 
-
 #msg-box3-52 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -316,27 +294,14 @@
 #msg-box1-3z H2 {
   font-size: 30px;
 }
-#msg-box1-3y P {
-  font-family: 'Playfair Display', sans-serif;
-}
-#msg-box3-4o .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-4o .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-4o .lead P {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 15px;
-}
-#msg-box3-4o .lead {
-  color: #ca1512;
-}
 #form1-4f .mbr-section-title {
   font-size: 20px;
   text-align: right;
 }
 #form1-4f .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box1-3y P {
   font-family: 'Playfair Display', sans-serif;
 }
 #contacts1-3a P {
