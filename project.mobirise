@@ -91,7 +91,7 @@
           },
           "title": "<br>Ananda by Design",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Meditation &amp; Yoga</p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>Meditation with Joanna</p><p><br></p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -1933,7 +1933,7 @@
             }
           },
           "title": "Ananda by Design",
-          "text": "<p>with Joanna</p>",
+          "text": "<p>Meditation with Joanna</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2262,7 +2262,7 @@
         }
       ]
     },
-    "DIY Essential Oil Recipes.html": {
+    "DIYEssentialOilRecipes.html": {
       "settings": {
         "title": "Ananda by Design | DIY Essential Oil Recipes",
         "order": 6,
