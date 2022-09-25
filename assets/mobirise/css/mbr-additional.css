@@ -434,3 +434,28 @@
 #menu-46 .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
 }
+
+
+
+
+#menu-5m .navbar-toggler {
+  color: #000;
+}
+#menu-5m .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-5m .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-5n P {
+  color: #f8f8f6;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
+}
+#contacts1-5n STRONG {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#contacts1-5n DIV {
+  color: #f8f8f6;
+}

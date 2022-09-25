@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "one2one Computer Coach-NoYogaOffering-clone-clone",
-    "currentPage": "index.html",
+    "name": "Ananda by Design",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,8 +17,8 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 202,
-    "versionPublish": "5.2.0",
+    "uniqCompNum": 207,
+    "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ananda-logo-128x128-5.png",
     "noImageResize": "true",
@@ -29,7 +29,7 @@
     "robotsSwitcher": false,
     "imageResize": true,
     "publishChangesOnly": true,
-    "sitemapSwitcher": true,
+    "sitemapSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
     "gdpr": false
@@ -1014,7 +1014,7 @@
     "TOU.html": {
       "settings": {
         "title": "Ananda by Design | Terms of Use & Privacy Policy",
-        "order": 6,
+        "order": 7,
         "meta_descr": ""
       },
       "components": [
@@ -1323,7 +1323,7 @@
           "title1": "Primordial Sound Meditation Course",
           "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\" style=\"\">Primordial Sound Meditation</a><b>&nbsp;</b>from a <a href=\"http://anandabydesign/About\" class=\"text-black\"></a><a href=\"http://anandabydesign.com/About\" class=\"text-black\" style=\"\">Chopra Certified Instructor</a><a href=\"http://anandabydesign/About\" class=\"text-primary\"> </a>in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth. Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; <br>Private Instruction (Live Virtual Class) | <b>$395</b><b><br></b>",
           "title2": "Community Outreach",
-          "caption2": "Community service is a personal passion.  Meditation is a transformative and valuable tool that should be accessible to all who want to learn, regardless of circumstance.  For more details on this offering, please contact me about your interest and tell me about yourself or your community organization.&nbsp;<br>",
+          "caption2": "For more details on this offering, please contact me about your interest and tell me about yourself or your community organization.&nbsp;<br><br><br><br>",
           "title3": "Group Meditation Instruction",
           "caption3": "Group Meditation Instruction is available for the work place, community centers, retreats, and family time.&nbsp; Group rates are available for the <a href=\"PSM.html\" class=\"text-black\">Primordial Sound Meditation</a>&nbsp;Course or Introduction to Meditation.&nbsp; For more details on group pricing, please <a href=\"Offerings.html#form1-4f\" class=\"text-black\"><b>contact me</b></a> about your interest and tell me about your group.&nbsp; &nbsp;<br>",
           "title4": "Community Outreach",
@@ -1992,7 +1992,7 @@
           },
           "title": "How I came to Teaching Meditation &amp; Yoga",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Joanna Wei is a certified instructor in Meditation and Yoga, dedicated to creating accessibility to Yoga and Meditation tools in underserved communities and increasing diversity among practitioners.&nbsp;&nbsp;</p><p><br></p><p><br></p>",
+          "text": "<p>Joanna Wei is a certified instructor in Meditation and Yoga, dedicated to creating accessibility to Yoga and Meditation tools in underserved communities to increase diversity among practitioners.&nbsp;&nbsp;</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -2259,6 +2259,202 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
+        }
+      ]
+    },
+    "DIY Essential Oil Recipes.html": {
+      "settings": {
+        "title": "Ananda by Design | DIY Essential Oil Recipes",
+        "order": 6,
+        "meta_descr": "DIY Essential Oil Recipes"
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "DIY Essential Oil Recipes",
+          "caption": "<p>These easy to make essential oil blends are must-haves in any household and they are the most requested by my family members.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5p"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Aches &amp; Pains",
+          "caption1": "14 drops eucalyptus <br>14 drops sweet marjoram or basil<br>7 drops lavender <br>7 drops peppermint <br>7 drops rosemary <br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with a carrier oil. Shake well. Apply directly to area of pain and massage gently in.&nbsp;",
+          "title2": "Cuts &amp; Scrapes",
+          "caption2": "4 drops myrrh<br>4 drops frankincense<br>3 drops lavender<br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with fractionated coconut oil. Shake well. Apply directly to cuts and scrapes.<br><br><br>",
+          "title3": "Healthy Nails",
+          "caption3": "5 drops tea tree<br>3 drops lemon<br>2 drops peppermint <br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with a carrier oil. Shake well. Apply onto and around nails, Allow to dry.<br><br><br>",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-5q"
+        },
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "menu-5m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
+              "width": 265,
+              "active": true,
+              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "alt": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#f8f8f6",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#f8f8f6"
+            }
+          },
+          "_anchor": "contacts1-5n"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © 2021 Ananda by Design, <a href=\"index.html\" class=\"text-warning\">anandabydesign.com</a>. All Rights Reserved.&nbsp;<a href=\"http://anandabydesign.com/TOU\" class=\"text-warning\">Terms of Use</a>  | <a href=\"TOU.html#content1-2g\" class=\"text-warning\">Privacy&nbsp;Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-5o"
         }
       ]
     }
