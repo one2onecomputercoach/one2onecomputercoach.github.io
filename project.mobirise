@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design",
-    "currentPage": "About.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -290,7 +290,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -600,7 +600,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -644,321 +644,6 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-2a"
-        },
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#f8f8f6",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-46",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".nav-link": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            },
-            ".navbar-brand": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          }
-        }
-      ]
-    },
-    "BreathingSpace.html": {
-      "settings": {
-        "title": "Ananda by Design | Breathing Space | Free Guided Breathing Techniques",
-        "order": 5,
-        "meta_descr": "Ananda by Design | Pranayama | Easy Breathing Techniques | Bhramari Bee Breath | Four Part Breath or Square Breathing"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".lead P": {
-              "text-align": "left",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            },
-            ".mbr-section-title": {
-              "color": "#37383e"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1920x1279.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#FFF8E0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.7"
-          },
-          "title": "Breathing Space",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p>Yogic Breathing, also called \"Pranayama\", is one of the Eight Limbs of Yoga.  In Sanskrit, \"prana\" means breath or life force and \"yama\" means mastery or to control.  The easy breathing techniques below have a calming effect and are suitable for beginners of all ages.&nbsp;&nbsp;</p><p><span style=\"font-size: 1.25rem;\">There are many benefits in developing mastery of the breath.  The mind, body, and breath are intimately connected and can influence each other.  Our breathing is influenced by our thoughts, and our thoughts and physiology can be influenced by our breathing.  For example, stress or other negative emotions can cause your breathing to become quick or shallow as your body prepares you for the \"fight or flight\" response.&nbsp; By mindfully breathing deeply and slowly you activate the parasympathetic nervous system, reversing the stress response in the body.  Learning to breathe consciously and with awareness can be a valuable tool in helping to restore balance in the mind and body.  Other benefits can include increased awareness and presence of mind;  increased emotional calm and inner peace; mental clarity and relaxation; and improved circulation, digestion and overall health.</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\"><i>\"Breathing in, I calm body and mind. Breathing out, I smile. Dwelling in the present moment I know this is the only moment.” – Thich Nhat Hanh</i></span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-34"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "30",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Bee Breath",
-          "text": "<p>Bee Breath, called \"Bhramari\" in Sanskrit, is a breathing technique that helps calm the mind and release tension from within the body. The humming effect increases circulation in the upper body, especially around the head area. This easy and gentle technique can be done by anyone and is recommended for any time.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://t.me/s/BeeBreath\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's Breathe</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-2y",
-          "_styles": {
-            ".lead P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "text-align": "left"
-            },
-            ".btn": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "30",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f8f8f6",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x927.jpg",
-              "link": "",
-              "alt": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Four Part Breath",
-          "text": "<p>Four Part Breath, also called Square Breathing, is a simple breath pattern that has a calming effect, can increase lung capacity, reduces stagnation in the lungs, and can be done by any living being. While normal breathing typically only focuses on the inhale and exhale, the Four Part Breath focuses on breaking down the breath into these four parts:&nbsp; Inhalation \"Puraka\"; Internal Retention \"Antara Kumbhaka\"; Exhalation \"Recaka\"; and External Retention \"Bahya Kumbhaka\".</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://t.me/s/FourPartBreath\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's Breathe</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-35",
-          "_styles": {
-            ".lead P": {
-              "text-align": "left",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            },
-            ".btn": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
-              "width": 265,
-              "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
-              "alt": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#f8f8f6",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "14px"
-            },
-            "STRONG": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "15px"
-            },
-            "DIV": {
-              "color": "#f8f8f6"
-            }
-          },
-          "_anchor": "contacts1-2n"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright © 2021 Ananda by Design, <a href=\"index.html\" class=\"text-warning\">anandabydesign.com</a>. All Rights Reserved.&nbsp;<a href=\"http://anandabydesign.com/TOU\" class=\"text-warning\">Terms of Use</a>  | <a href=\"TOU.html#content1-2g\" class=\"text-warning\">Privacy&nbsp;Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-2o"
         },
         {
           "_params": {
@@ -1104,7 +789,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1600,7 +1285,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1784,7 +1469,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2166,7 +1851,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2277,7 +1962,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
@@ -2289,7 +1974,7 @@
             "overlayOpacity": 0.7
           },
           "title": "DIY Essential Oil Recipes",
-          "caption": "<p>These easy to make essential oil blends are must-haves in any household and they are the most requested by my family members.&nbsp;</p>",
+          "caption": "<p>These easy to make essential oil blends are must-haves in any household and they are the most requested by my family members.&nbsp;</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2318,11 +2003,11 @@
             "overlayOpacity": 0.5
           },
           "title1": "Aches &amp; Pains",
-          "caption1": "14 drops eucalyptus <br>14 drops sweet marjoram or basil<br>7 drops lavender <br>7 drops peppermint <br>7 drops rosemary <br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with a carrier oil. Shake well. Apply directly to area of pain and massage gently in.&nbsp;",
+          "caption1": "14 drops eucalyptus <br>14 drops sweet marjoram or basil<br>7 drops lavender <br>7 drops peppermint <br>7 drops rosemary <br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with a carrier oil like sweet almond. Shake well. Apply directly to area of pain and massage gently in.&nbsp;",
           "title2": "Cuts &amp; Scrapes",
-          "caption2": "4 drops myrrh<br>4 drops frankincense<br>3 drops lavender<br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with fractionated coconut oil. Shake well. Apply directly to cuts and scrapes.<br><br><br>",
+          "caption2": "4 drops myrrh<br>4 drops frankincense<br>3 drops lavender<br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with fractionated coconut oil. Shake well. Apply directly to cuts and scrapes.<br><br><br><br>",
           "title3": "Healthy Nails",
-          "caption3": "5 drops tea tree<br>3 drops lemon<br>2 drops peppermint <br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with a carrier oil. Shake well. Apply onto and around nails, Allow to dry.<br><br><br>",
+          "caption3": "5 drops tea tree<br>3 drops lemon<br>2 drops peppermint <br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with a carrier oil like sweet almond or fractionated coconut oil. Shake well. Apply onto and around nails, Allow to dry.<br><br><br>",
           "title4": "Unlimited Websites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "alias": "purity/components",
@@ -2411,7 +2096,7 @@
           },
           "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
           "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li><li><a href=\"BreathingSpace.html\" class=\"text-warning\">Free Guided Breathing Techniques</a></li></ul>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
