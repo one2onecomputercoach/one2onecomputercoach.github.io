@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design",
-    "currentPage": "Offerings.html",
+    "currentPage": "DIYEssentialOilRecipes.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1981,7 +1981,15 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-5p"
+          "_anchor": "content5-5p",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {
@@ -2211,10 +2219,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Serenity",
-          "caption1": "This soothing scent provides aromatherapy to help restore balance to all three dosha types, making it especially suitable for those with the rare tridoshic constitution.&nbsp;",
-          "title2": "Love Spell",
-          "caption2": "This romantic scent provides aromatherapy to help restore balance to Vata and Pitta dosha types. &nbsp;",
+          "title1": "Bootstrap 3",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",

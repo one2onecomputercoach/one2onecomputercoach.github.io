@@ -381,6 +381,12 @@
 
 
 
+#content5-5p .mbr-section-title {
+  text-align: center;
+}
+#content5-5p P {
+  text-align: center;
+}
 #menu-5m .navbar-toggler {
   color: #000;
 }
