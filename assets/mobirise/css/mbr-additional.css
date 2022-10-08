@@ -402,3 +402,34 @@
 #contacts1-5n DIV {
   color: #f8f8f6;
 }
+
+
+
+
+#msg-box3-5u .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-5u .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#menu-5r .navbar-toggler {
+  color: #000;
+}
+#menu-5r .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-5r .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-5s P {
+  color: #f8f8f6;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
+}
+#contacts1-5s STRONG {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#contacts1-5s DIV {
+  color: #f8f8f6;
+}
