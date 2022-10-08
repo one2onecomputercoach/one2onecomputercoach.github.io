@@ -381,11 +381,14 @@
 
 
 
+
 #content5-5p .mbr-section-title {
   text-align: center;
+  font-size: 36px;
 }
 #content5-5p P {
   text-align: center;
+  font-family: 'Playfair Display', sans-serif;
 }
 #menu-5m .navbar-toggler {
   color: #000;
@@ -412,11 +415,22 @@
 
 
 
+
+
 #msg-box3-5u .mbr-header .mbr-header__text {
   text-align: center;
 }
 #msg-box3-5u .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#msg-box3-5u .mbr-section-title {
+  font-size: 36px;
+}
+#msg-box3-5u .lead P {
+  font-family: 'Playfair Display', sans-serif;
+}
+#content4-5w P {
+  font-family: 'Playfair Display', sans-serif;
 }
 #menu-5r .navbar-toggler {
   color: #000;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design",
-    "currentPage": "DIYEssentialOilRecipes.html",
+    "currentPage": "DIYAromatherapySprays.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1984,10 +1984,13 @@
           "_anchor": "content5-5p",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "36px"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
         },
@@ -2166,6 +2169,13 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           },
           "_params": {
@@ -2219,10 +2229,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title1": "Serenity",
+          "caption1": "<br>This soothing scent provides aromatherapy to help restore balance to all three dosha types, making it especially suitable for those with the rare tridoshic constitution.&nbsp;",
+          "title2": "Love Spell",
+          "caption2": "This romantic scent provides aromatherapy to help restore balance to Vata and Pitta dosha types.<br><br><br>  ",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
@@ -2232,7 +2242,13 @@
             "Theme"
           ],
           "_name": "content4",
-          "_anchor": "content4-5w"
+          "_anchor": "content4-5w",
+          "_styles": {
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
         },
         {
           "_params": {
