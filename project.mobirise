@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone",
-    "currentPage": "DIYEssentialOilRecipes.html",
+    "currentPage": "DIYAromatherapySprays.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -2239,7 +2239,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Add 20-30 drops of essential oil (single or blend of your choice) to a 2 oz spray bottle. Add 2 tablespoons of witch hazel. Mix until oil is well incorporated. Fill the rest of the bottle with distilled water.&nbsp;<br>",
-          "caption": "<p>Add 20-30 drops of essential oil (single or blend of your choice) to a 2 oz spray bottle. Add 2 tablespoons of witch hazel. Mix until oil is well incorporated. Fill the rest of the bottle with distilled water.&nbsp;</p>",
+          "caption": "<p>Directions: &nbsp;<span style=\"font-size: 1.25rem;\">Add 20-30 drops of essential oil (single or blend of your choice) to a 2 oz spray bottle. Add 2 tablespoons of witch hazel. Mix until oil is well incorporated. Fill the rest of the bottle with distilled water. Shake well.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
