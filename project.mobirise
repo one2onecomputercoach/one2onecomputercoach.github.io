@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 227,
+    "uniqCompNum": 237,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ananda-logo-128x128-5.png",
@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "Ananda by Design | Meditation with Joanna",
-        "meta_descr": "Ananda by Design Meditation | Individualized & Group Instruction | Primordial Sound Meditation | Chopra Certified Instructor | CYT200 | PSM in Palm Springs with Joanna",
+        "meta_descr": "Ananda by Design Meditation | Individualized & Group Instruction | Primordial Sound Meditation | Chopra Meditation Teacher | Chopra Certified Instructor | CYT200 | PSM in Palm Springs with Joanna",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -341,7 +341,7 @@
     "MeditationSpace.html": {
       "settings": {
         "title": "Ananda by Design | Meditation Space | Free Guided Meditation",
-        "order": 4,
+        "order": 5,
         "meta_descr": "So Hum Meditation Break | 10 Minute Guided Meditation | More Coming Soon | Serving the Greater Palm Springs Area & Beyond ",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpeg"
       },
@@ -700,7 +700,7 @@
     "TOU.html": {
       "settings": {
         "title": "Ananda by Design | Terms of Use & Privacy Policy",
-        "order": 8,
+        "order": 9,
         "meta_descr": ""
       },
       "components": [
@@ -889,7 +889,7 @@
     "Offerings.html": {
       "settings": {
         "title": "Ananda by Design | Offerings",
-        "order": 2,
+        "order": 3,
         "meta_descr": "Ananda by Design | Offerings | Primordial Sound Meditation Course | Yoga | Group Meditation | Introduction to Meditation | Meditation Teacher in Palm Springs | Community Service"
       },
       "components": [
@@ -1385,7 +1385,7 @@
     "PSM.html": {
       "settings": {
         "title": "Ananda by Design | Primordial Sound Meditation",
-        "order": 3,
+        "order": 4,
         "meta_descr": "Ananda by Design | What is Primordial Sound Meditation | Chopra Certified Meditation Instructor | Meditation Teacher in Palm Springs"
       },
       "components": [
@@ -1569,8 +1569,8 @@
     "About.html": {
       "settings": {
         "title": "Ananda by Design | About ",
-        "order": 1,
-        "meta_descr": "Ananda by Design | About | Meditation & Yoga with Joanna | Meditation Teacher in Palm Springs "
+        "order": 2,
+        "meta_descr": "Ananda by Design | About | Meditation & Yoga with Joanna | Chopra Meditation Teacher in Palm Springs "
       },
       "components": [
         {
@@ -1951,7 +1951,7 @@
     "DIYEssentialOilRecipes.html": {
       "settings": {
         "title": "Ananda by Design | DIY Essential Oil Recipes",
-        "order": 5,
+        "order": 6,
         "meta_descr": "DIY Essential Oil Recipes"
       },
       "components": [
@@ -2032,6 +2032,44 @@
             "P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pre Made Blocks",
+          "text": "* Essential oils are not intended to be a substitute for medical treatment. Discontinue use if rash, redness, or irritation occurs.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-6j",
+          "_styles": {
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
             }
           }
         },
@@ -2164,7 +2202,7 @@
     "DIYAromatherapySprays.html": {
       "settings": {
         "title": "Ananda by Design | DIY Aromatherapy Room and Linen Sprays",
-        "order": 6,
+        "order": 7,
         "meta_descr": "DIY Aromatherapy Room and Linen Sprays"
       },
       "components": [
@@ -2194,7 +2232,7 @@
             "showText": true,
             "showButton": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1.jpg",
             "parallax": false,
@@ -2210,7 +2248,7 @@
           },
           "title": "DIY Aromatherapy&nbsp;<br>Room &amp; Linen Sprays",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Below are some easy recipes for making your own room and linen sprays with essential oils. &nbsp;These recipes were created with the intention of soothing and restoring balance to the doshas. You can also make your own scents with your favorite essential oil.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">This offering was created especially for my friends and neighbors here at MLCC. Thank you for letting me share my \"craft\" with you at this year's fair. It was a pleasure meeting everyone and I hope to see you around! Namaste.&nbsp;<br></span><br></p><p><br></p><p>What is a dosha? Find the answer and discover your unique dosha.</p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Below are some easy recipes for making your own room and linen sprays with essential oils. &nbsp;These recipes were created with the intention of soothing and restoring balance to the doshas. You can also make your own scents with your favorite essential oil.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">This offering was created especially for my friends and neighbors here at MLCC. Thank you for letting me share my \"craft\" with you at this year's fair. It was a pleasure meeting everyone and I hope to see you around! Namaste.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p>What is a dosha? Find the answer and discover your unique dosha.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"DoshaQuiz.html\" data-toolbar=\"-mbrBtnMove\">Take the Dosha Quiz</a>",
           "alias": "purity/components",
           "_tags": [
@@ -2296,6 +2334,44 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Pre Made Blocks",
+          "text": "* Essential oils are not intended to be a substitute for medical treatment. Discontinue use if rash, redness, or irritation occurs.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "msg-box1-6k"
         },
         {
           "_params": {
@@ -2426,7 +2502,7 @@
     "DoshaQuiz.html": {
       "settings": {
         "title": "Ananda by Design | Dosha Quiz",
-        "order": 7,
+        "order": 8,
         "meta_descr": "What is your dosha? | Free Dosha Quiz"
       },
       "components": [
