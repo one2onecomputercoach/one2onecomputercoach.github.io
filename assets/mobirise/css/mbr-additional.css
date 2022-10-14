@@ -422,6 +422,7 @@
 
 
 
+
 #msg-box3-5u .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -439,6 +440,9 @@
 }
 #content5-69 .mbr-section-title {
   font-size: 20px;
+}
+#content5-69 P {
+  font-family: 'Playfair Display', sans-serif;
 }
 #content4-5w P {
   font-family: 'Playfair Display', sans-serif;
