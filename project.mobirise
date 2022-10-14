@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone",
-    "currentPage": "DIYAromatherapySprays.html",
+    "currentPage": "DoshaQuiz.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 226,
+    "uniqCompNum": 227,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ananda-logo-128x128-5.png",
@@ -2480,42 +2480,51 @@
           "_anchor": "menu-5x"
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".lead P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "3",
-            "paddingBottom": "0",
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "What is your dosha?",
-          "caption": "<p><br></p><p>Take this dosha quiz to determine which mind-body type is your predominant constitution. Ayurveda recognizes three mind-body constitutions, called doshas. Knowing your dosha can help you understand what types of foods, routines, and activities work best for you. Please choose the answers that most accurately describe you for most of your life, before any trauma or major health issues. Your highest score is your predominant dosha and your prakruti, or original dosha. Optionally, you can take this quiz a second time choosing the answers that most accurately describe how you have been feeling more recently. Doing this will determine your vikruti, or current dosha. Knowing both can help identify imbalances and the most appropriate regimen to help you live a more balanced life.&nbsp;</p>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Take this dosha quiz to determine which mind-body type is your predominant constitution. <i>Ayurveda</i> recognizes three mind-body constitutions, called doshas. Knowing your dosha can help you discover what types of foods, routines, and activities are most nourishing. Please choose the answers that most accurately describe you for most of your life, before any trauma or major health issues. Your highest score is your predominant dosha and your <i>prakruti</i>, or original dosha. Optionally, you can take this quiz a second time choosing the answers that most accurately describe how you have been feeling more recently. Doing this will determine your <i>vikruti</i>, or current dosha. Knowing both can help identify imbalances and the most appropriate regimen to help you live a more balanced and harmonious life.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-66",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-size": "36px"
-            },
-            "P": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          }
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-6a"
         },
         {
           "_params": {

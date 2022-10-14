@@ -482,11 +482,16 @@
 #menu-5x .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
 }
-#content5-66 .mbr-section-title {
+#msg-box3-6a .mbr-header .mbr-header__text {
   text-align: center;
+}
+#msg-box3-6a .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-6a .mbr-section-title {
   font-size: 36px;
 }
-#content5-66 P {
+#msg-box3-6a .lead P {
   font-family: 'Playfair Display', sans-serif;
 }
 #contacts1-5y P {
