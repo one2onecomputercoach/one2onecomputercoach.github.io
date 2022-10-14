@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Ananda by Design",
-    "currentPage": "DIYAromatherapySprays.html",
+    "name": "Ananda by Design-clone",
+    "currentPage": "DIYEssentialOilRecipes.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 213,
+    "uniqCompNum": 226,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ananda-logo-128x128-5.png",
@@ -62,7 +62,7 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
-              "font-size": "32px",
+              "font-size": "36px",
               "text-align": "center",
               "color": "#37383e"
             },
@@ -700,7 +700,7 @@
     "TOU.html": {
       "settings": {
         "title": "Ananda by Design | Terms of Use & Privacy Policy",
-        "order": 7,
+        "order": 8,
         "meta_descr": ""
       },
       "components": [
@@ -2005,7 +2005,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2015,7 +2015,7 @@
             "overlayOpacity": 0.5
           },
           "title1": "Aches &amp; Pains",
-          "caption1": "14 drops eucalyptus <br>14 drops sweet marjoram or basil<br>7 drops lavender <br>7 drops peppermint <br>7 drops rosemary <br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with a carrier oil like sweet almond. Shake well. Apply directly to area of pain and massage gently in.&nbsp;",
+          "caption1": "14 drops eucalyptus <br>14 drops sweet marjoram or basil<br>7 drops lavender <br>7 drops peppermint <br>7 drops rosemary <br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with a carrier oil like sweet almond. Shake well. Apply directly to area of pain and massage gently in.&nbsp;<br><br>",
           "title2": "Cuts &amp; Scrapes",
           "caption2": "4 drops myrrh<br>4 drops frankincense<br>3 drops lavender<br>Directions: Add essential oils to a 10ml roller bottle and fill the rest of the bottle with fractionated coconut oil. Shake well. Apply directly to cuts and scrapes.<br><br><br><br>",
           "title3": "Healthy Nails",
@@ -2027,7 +2027,13 @@
             "Theme"
           ],
           "_name": "content4",
-          "_anchor": "content4-5q"
+          "_anchor": "content4-5q",
+          "_styles": {
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
         },
         {
           "_params": {
@@ -2176,6 +2182,10 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           },
           "_params": {
@@ -2200,14 +2210,47 @@
           },
           "title": "DIY Aromatherapy&nbsp;<br>Room &amp; Linen Sprays",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><br></p><p>Below are some easy recipes for making your own room and linen sprays.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Dosha Quiz</a>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Below are some easy recipes for making your own room and linen sprays with essential oils. &nbsp;These recipes were created with the intention of soothing and restoring balance to the doshas. You can also make your own scents with your favorite essential oil.&nbsp;</span><br></p><p><br></p><p>What is a dosha? Find the answer and discover your unique dosha.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"DoshaQuiz.html\" data-toolbar=\"-mbrBtnMove\">Take the Dosha Quiz</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-5u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Add 20-30 drops of essential oil (single or blend of your choice) to a 2 oz spray bottle. Add 2 tablespoons of witch hazel. Mix until oil is well incorporated. Fill the rest of the bottle with distilled water.&nbsp;<br>",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-69",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_params": {
@@ -2220,7 +2263,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2230,9 +2273,9 @@
             "overlayOpacity": 0.5
           },
           "title1": "Serenity",
-          "caption1": "<br>This soothing scent provides aromatherapy to help restore balance to all three dosha types, making it especially suitable for those with the rare tridoshic constitution.&nbsp;",
+          "caption1": "This soothing scent provides aromatherapy to help restore balance to all three dosha types, making it especially suitable for those with the rare tridoshic constitution.&nbsp;<br><br>12 drops sandalwood<br>8 drops frankincense<br>2 drops vanilla or myrrh<br><br><br>",
           "title2": "Love Spell",
-          "caption2": "This romantic scent provides aromatherapy to help restore balance to Vata and Pitta dosha types.<br><br><br>  ",
+          "caption2": "This romantic scent provides aromatherapy to help restore balance to Vata and Pitta dosha types.<br><br><br>8 drops sandalwood<br>8 drops ylang ylang<br>8 drops patchouli<br><br><br>  ",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
@@ -2373,6 +2416,202 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-5t"
+        }
+      ]
+    },
+    "DoshaQuiz.html": {
+      "settings": {
+        "title": "Ananda by Design | Dosha Quiz",
+        "order": 7,
+        "meta_descr": "What is your dosha? | Free Dosha Quiz"
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#f8f8f6",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            },
+            ".nav-link": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".navbar-brand": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          },
+          "_anchor": "menu-5x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "What is your dosha?",
+          "caption": "<p><br></p><p>Take this dosha quiz to determine which mind-body type is your predominant constitution. Ayurveda recognizes three mind-body constitutions, called doshas. Knowing your dosha can help you understand what types of foods, routines, and activities work best for you. Please choose the answers that most accurately describe you for most of your life, before any trauma or major health issues. Your highest score is your predominant dosha and your prakruti, or original dosha. Optionally, you can take this quiz a second time choosing the answers that most accurately describe how you have been feeling more recently. Doing this will determine your vikruti, or current dosha. Knowing both can help identify imbalances and the most appropriate regimen to help you live a more balanced life.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-66",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "36px"
+            },
+            "P": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2022-10-13-at-9.49.12-pm-2.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-65"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
+              "width": 265,
+              "active": true,
+              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
+              "alt": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
+          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#f8f8f6",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "14px"
+            },
+            "STRONG": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "font-size": "15px"
+            },
+            "DIV": {
+              "color": "#f8f8f6"
+            }
+          },
+          "_anchor": "contacts1-5y"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © 2021 Ananda by Design, <a href=\"index.html\" class=\"text-warning\">anandabydesign.com</a>. All Rights Reserved.&nbsp;<a href=\"http://anandabydesign.com/TOU\" class=\"text-warning\">Terms of Use</a>  | <a href=\"TOU.html#content1-2g\" class=\"text-warning\">Privacy&nbsp;Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-5z"
         }
       ]
     }

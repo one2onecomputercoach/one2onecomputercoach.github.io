@@ -21,7 +21,7 @@
   text-align: center;
 }
 #msg-box3-4y .mbr-section-title {
-  font-size: 32px;
+  font-size: 36px;
   text-align: center;
   color: #37383e;
 }
@@ -382,12 +382,16 @@
 
 
 
+
 #content5-5p .mbr-section-title {
   text-align: center;
   font-size: 36px;
 }
 #content5-5p P {
   text-align: center;
+  font-family: 'Playfair Display', sans-serif;
+}
+#content4-5q P {
   font-family: 'Playfair Display', sans-serif;
 }
 #menu-5m .navbar-toggler {
@@ -417,6 +421,7 @@
 
 
 
+
 #msg-box3-5u .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -428,6 +433,12 @@
 }
 #msg-box3-5u .lead P {
   font-family: 'Playfair Display', sans-serif;
+}
+#msg-box3-5u .btn {
+  font-family: 'Playfair Display', sans-serif;
+}
+#content5-69 .mbr-section-title {
+  font-size: 20px;
 }
 #content4-5w P {
   font-family: 'Playfair Display', sans-serif;
@@ -451,5 +462,38 @@
   font-size: 15px;
 }
 #contacts1-5s DIV {
+  color: #f8f8f6;
+}
+
+
+
+
+
+#menu-5x .navbar-toggler {
+  color: #000;
+}
+#menu-5x .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-5x .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+}
+#content5-66 .mbr-section-title {
+  text-align: center;
+  font-size: 36px;
+}
+#content5-66 P {
+  font-family: 'Playfair Display', sans-serif;
+}
+#contacts1-5y P {
+  color: #f8f8f6;
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
+}
+#contacts1-5y STRONG {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 15px;
+}
+#contacts1-5y DIV {
   color: #f8f8f6;
 }
