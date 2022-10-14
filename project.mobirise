@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone",
-    "currentPage": "DoshaQuiz.html",
+    "currentPage": "DIYEssentialOilRecipes.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1975,7 +1975,7 @@
             "overlayOpacity": 0.7
           },
           "title": "DIY Essential Oil Recipes",
-          "caption": "<p>These easy to make essential oil blends are must-haves in any household and they are the most requested by my family members.&nbsp;</p><p><br></p>",
+          "caption": "<p>These easy to make essential oil blends are must-haves in any household and they are the most requested by my family members. I have been using essential oils to make everything from cleaning products to my own toothpaste and anti-aging serum. I like that they are natural, highly effective, good for the planet, and using them makes me feel more connected with nature. It's also nice to be able to make what I need right at home when I run out of something.&nbsp;</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2501,7 +2501,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
