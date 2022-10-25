@@ -2329,21 +2329,21 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#f8f8f6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#f8f8f6",
+            "overlayOpacity": "0.6"
           },
           "title": "What is your dosha?",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Take this dosha quiz to determine which mind-body type is your predominant constitution. <i>Ayurveda</i> recognizes three mind-body constitutions, called doshas. Knowing your dosha can help you discover what types of foods, routines, and activities are most nourishing. Please choose the answers that most accurately describe you for most of your life, before any trauma or major health issues. Your highest score is your predominant dosha and your <i>prakruti</i>, or original dosha. Optionally, you can take this quiz a second time choosing the answers that most accurately describe how you have been feeling more recently. Doing this will determine your <i>vikruti</i>, or current dosha. Knowing both can help identify imbalances and the most appropriate regimen to help you live a more balanced and harmonious life.&nbsp;</p>",
+          "text": "<p>Take this dosha quiz to determine which mind-body type is your predominant constitution. <i>Ayurveda</i> recognizes three mind-body constitutions, called doshas. Knowing your dosha can help you discover what types of foods, routines, and activities are most nourishing. </p><p>Please choose the answers that most accurately describe you for most of your life, before any trauma or major health issues. <b>Your highest score is your predominant dosha</b> and your <i>prakruti</i>, or original dosha. It is also possible to have two leading dosha types that are closely equal. And in rare cases, all three doshas are equal. </p><p>Optionally, you can take this quiz a second time choosing the answers that most accurately describe how you have been feeling more recently. Doing this will determine your <i>vikruti</i>, or current dosha. Knowing both can help identify imbalances and the most appropriate regimen to help you live a more balanced and harmonious life.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
