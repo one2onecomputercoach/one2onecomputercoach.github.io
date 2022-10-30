@@ -441,6 +441,7 @@
 
 
 
+
 #menu-5x .navbar-toggler {
   color: #000;
 }
@@ -461,6 +462,10 @@
 }
 #msg-box3-6a .lead P {
   font-family: 'Playfair Display', sans-serif;
+}
+#msg-box2-6l P {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 14px;
 }
 #contacts1-5y P {
   color: #f8f8f6;
