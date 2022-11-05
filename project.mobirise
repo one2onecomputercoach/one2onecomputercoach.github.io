@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "index.html",
+    "currentPage": "Offerings.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 238,
+    "uniqCompNum": 242,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ananda-logo-128x128-5.png",
@@ -700,7 +700,7 @@
     "TOU.html": {
       "settings": {
         "title": "Ananda by Design | Terms of Use & Privacy Policy",
-        "order": 9,
+        "order": 8,
         "meta_descr": ""
       },
       "components": [
@@ -1007,7 +1007,7 @@
             "overlayOpacity": 0.5
           },
           "title1": "Primordial Sound Meditation Course",
-          "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\" style=\"\">Primordial Sound Meditation</a><b>&nbsp;</b>from a <a href=\"http://anandabydesign/About\" class=\"text-black\"></a><a href=\"http://anandabydesign.com/About\" class=\"text-black\" style=\"\">Chopra Certified Instructor</a><a href=\"http://anandabydesign/About\" class=\"text-primary\"> </a>in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth. Learn how to use your mantra and integrate meditation into your daily routine.&nbsp; <br>Private Instruction (Live Virtual Class or In-Person for Locals) | <b>$395</b><b><br></b>",
+          "caption1": "Learn <a href=\"PSM.html\" class=\"text-black\" style=\"\">Primordial Sound Meditation</a><b>&nbsp;</b>from a <a href=\"http://anandabydesign/About\" class=\"text-black\"></a><a href=\"http://anandabydesign.com/About\" class=\"text-black\" style=\"\">Chopra Certified Instructor</a><a href=\"http://anandabydesign/About\" class=\"text-primary\"> </a>in four sessions. Discover your personalized Primordial Sound mantra, the vibration the universe was making at the moment of your birth. Learn how to use your mantra and integrate meditation into your daily routine. &nbsp;<br>Private Instruction (Live Virtual Class) | <b>$395</b><b><br></b>",
           "title2": "Community Outreach",
           "caption2": "For more details on this offering, please contact me about your interest and tell me about yourself or your community organization.&nbsp;<br><br><br><br>",
           "title3": "Group Meditation Instruction",
@@ -1951,7 +1951,7 @@
     "DIYAromatherapySprays.html": {
       "settings": {
         "title": "Ananda by Design | DIY Aromatherapy Room and Linen Sprays",
-        "order": 7,
+        "order": 6,
         "meta_descr": "DIY Aromatherapy Room and Linen Sprays"
       },
       "components": [
@@ -2252,7 +2252,7 @@
     "DoshaQuiz.html": {
       "settings": {
         "title": "Ananda by Design | Dosha Quiz",
-        "order": 8,
+        "order": 7,
         "meta_descr": "What is your dosha? | Free Dosha Quiz"
       },
       "components": [
