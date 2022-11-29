@@ -2160,10 +2160,10 @@
             "showMeta": false,
             "showText": false,
             "showButtons": false,
-            "inverse": false,
-            "imageSize": "55",
+            "inverse": true,
+            "imageSize": "45",
             "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -2195,7 +2195,7 @@
               "size": 0
             }
           },
-          "title": "Find Out More About Doshas",
+          "title": "What is a Dosha?",
           "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -2247,7 +2247,7 @@
             "overlayColor": "#f8f8f6",
             "overlayOpacity": "0.6"
           },
-          "title": "What is Your Dosha?",
+          "title": "Dosha Quiz",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Take this dosha quiz to determine which mind-body type is your leading constitution. Knowing your dosha can help you discover what types of foods, routines, and activities are most nourishing. </p><p>Please choose the answers that most accurately describe you for most of your life, before any trauma or major health issues. <b>Your highest score is your predominant dosha</b> and your <i>prakruti</i>, or original dosha. It is also possible to have two main dosha types that are closely equal. And in rare cases, all three doshas are equal. </p><p>Optionally, you can take this quiz a second time choosing the answers that most accurately describe how you have been feeling more recently. Doing this will determine your <i>vikruti</i>, or current dosha. Knowing both can help identify imbalances and the most appropriate regimen to help you live a more balanced and harmonious life.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
@@ -2306,7 +2306,7 @@
             "overlayOpacity": 0.5
           },
           "title": "One of the Easiest Website Builders",
-          "text": "Sources:<br>Chopra, Deepak. <i>Perfect Health: The Complete Mind Body Guide</i>. Three Rivers Press, 2000.<br>Lad, Usha, and Vasant Lad. <i>Ayurvedic Cooking for Self-Healing</i>. Ayurvedic Press, 2016.<br><br>",
+          "text": "Sources:<br>Chopra, Deepak. <i>Perfect Health: The Complete Mind Body Guide</i>. Three Rivers Press, 2000.<br><br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
           "_tags": [
