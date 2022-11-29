@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "DIYAromatherapySprays.html",
+    "currentPage": "DoshaQuiz.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -18,7 +18,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 242,
+    "uniqCompNum": 243,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ananda-logo-128x128-5.png",
@@ -2154,6 +2154,64 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "55",
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f8f8f6",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-4.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/ZjUh3tUgUOo",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Find Out More About Doshas",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-6q",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -2191,7 +2249,7 @@
           },
           "title": "What is Your Dosha?",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Take this dosha quiz to determine which mind-body type is your leading constitution. <i>Ayurveda</i> recognizes three mind-body constitutions, called doshas. Knowing your dosha can help you discover what types of foods, routines, and activities are most nourishing. </p><p>Please choose the answers that most accurately describe you for most of your life, before any trauma or major health issues. <b>Your highest score is your predominant dosha</b> and your <i>prakruti</i>, or original dosha. It is also possible to have two main dosha types that are closely equal. And in rare cases, all three doshas are equal. </p><p>Optionally, you can take this quiz a second time choosing the answers that most accurately describe how you have been feeling more recently. Doing this will determine your <i>vikruti</i>, or current dosha. Knowing both can help identify imbalances and the most appropriate regimen to help you live a more balanced and harmonious life.&nbsp;</p>",
+          "text": "<p>Take this dosha quiz to determine which mind-body type is your leading constitution. Knowing your dosha can help you discover what types of foods, routines, and activities are most nourishing. </p><p>Please choose the answers that most accurately describe you for most of your life, before any trauma or major health issues. <b>Your highest score is your predominant dosha</b> and your <i>prakruti</i>, or original dosha. It is also possible to have two main dosha types that are closely equal. And in rare cases, all three doshas are equal. </p><p>Optionally, you can take this quiz a second time choosing the answers that most accurately describe how you have been feeling more recently. Doing this will determine your <i>vikruti</i>, or current dosha. Knowing both can help identify imbalances and the most appropriate regimen to help you live a more balanced and harmonious life.&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
