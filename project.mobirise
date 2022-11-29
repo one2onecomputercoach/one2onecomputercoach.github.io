@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "index.html",
+    "currentPage": "DoshaQuiz.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -2125,109 +2125,6 @@
         },
         {
           "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#f8f8f6",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".nav-link": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            },
-            ".navbar-brand": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          },
-          "_anchor": "menu-5r"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
-              "width": 265,
-              "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
-              "alt": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#f8f8f6",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "14px"
-            },
-            "STRONG": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "15px"
-            },
-            "DIV": {
-              "color": "#f8f8f6"
-            }
-          },
-          "_anchor": "contacts1-5s"
-        },
-        {
-          "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -2256,55 +2153,6 @@
         "meta_descr": "What is your dosha? | Free Dosha Quiz"
       },
       "components": [
-        {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "color": "#f8f8f6",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"http://anandabydesign.com/About\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-primary\" data-app-selector=\".nav-link\" href=\"Offerings.html\">Offerings</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/ananda-logo-128x128.png",
-              "height": 128,
-              "alt": "",
-              "link": "index.html",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ananda by Design</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            },
-            ".nav-link": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            },
-            ".navbar-brand": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
-            }
-          },
-          "_anchor": "menu-5x"
-        },
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -2415,60 +2263,6 @@
               "font-size": "14px"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/low-resolution-for-web-216x55.png",
-              "width": 265,
-              "active": true,
-              "link": "https://www.choprateachers.com/Teacher.aspx?id=3330",
-              "alt": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>&nbsp; &nbsp; Serving in</strong><br>&nbsp; &nbsp; the Greater Palm Springs area<br>&nbsp; &nbsp; and Coachella Valley",
-          "text2": "<strong>Contacts</strong><br>\nEmail: <a href=\"mailto:anandabydesign@yahoo.com\" class=\"text-warning\">anandabydesign@yahoo.com</a><br>\nCall or Text: <a href=\"tel:+1-760-671-1070\" class=\"text-warning\">+1 (760) 671 1070</a><br>",
-          "text3": "<strong>Links</strong><ul><li><a href=\"Offerings.html\" class=\"text-warning\">Offerings</a></li><li><a href=\"MeditationSpace.html\" class=\"text-warning\">Free Guided Meditation</a></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#f8f8f6",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "14px"
-            },
-            "STRONG": {
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "15px"
-            },
-            "DIV": {
-              "color": "#f8f8f6"
-            }
-          },
-          "_anchor": "contacts1-5y"
         },
         {
           "_params": {
