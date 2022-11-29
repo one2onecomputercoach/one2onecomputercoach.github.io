@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "DoshaQuiz.html",
+    "currentPage": "DIYAromatherapySprays.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1998,7 +1998,7 @@
           },
           "title": "DIY Aromatherapy&nbsp;<br>Room &amp; Linen Sprays",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Below are some easy recipes for making your own room and linen sprays with essential oils. &nbsp;These recipes were created with the intention of soothing and restoring balance to the doshas. You can also make your own scents with your favorite essential oil.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">This offering was created especially for my friends and neighbors here at MLCC. Thank you for letting me share my craft with you at this year's fair. It was a pleasure meeting everyone and I hope to see you around! Namaste.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p>What is a dosha? Find the answer and discover your unique dosha.</p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Below are some easy recipes for making your own room and linen sprays with essential oils. &nbsp;These recipes were created with the intention of soothing and restoring balance to the doshas. You can also make your own scents with your favorite essential oil.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">This offering was created especially for my friends and neighbors here at MLCC. Thank you for letting me share my craft with you at this year's fair. It was a pleasure and I hope to see you around! Namaste.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p>What is a dosha? Find the answer and discover your unique dosha.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"DoshaQuiz.html\" data-toolbar=\"-mbrBtnMove\">Take the Dosha Quiz</a>",
           "alias": "purity/components",
           "_tags": [
