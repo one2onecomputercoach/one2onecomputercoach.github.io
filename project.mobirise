@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "index.html",
+    "currentPage": "DoshaQuiz.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "Ananda by Design | Meditation with Joanna",
-        "meta_descr": "",
+        "meta_descr": "Learn to meditate from a Chopra Certified Meditation Teacher in four sessions.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -890,7 +890,7 @@
       "settings": {
         "title": "Ananda by Design | Offerings",
         "order": 3,
-        "meta_descr": "Ananda by Design | Offerings | Primordial Sound Meditation Course | Group Meditation | Introduction to Meditation | Meditation Teacher in Palm Springs | Community Service"
+        "meta_descr": "Ananda by Design | Meditation with Joanna | Primordial Sound Meditation Course | Group Meditation | Introduction to Meditation | Community Service"
       },
       "components": [
         {
@@ -1386,7 +1386,7 @@
       "settings": {
         "title": "Ananda by Design | Primordial Sound Meditation",
         "order": 4,
-        "meta_descr": "Ananda by Design | What is Primordial Sound Meditation | Chopra Certified Meditation Instructor | Meditation Teacher in Palm Springs"
+        "meta_descr": "Ananda by Design | Meditation with Joanna | Chopra Certified Meditation Instructor"
       },
       "components": [
         {
@@ -1570,7 +1570,7 @@
       "settings": {
         "title": "Ananda by Design | About ",
         "order": 2,
-        "meta_descr": "Ananda by Design Meditation with Joanna | Chopra Meditation Teacher in Palm Springs "
+        "meta_descr": "Ananda by Design | Meditation with Joanna | Chopra Meditation Teacher in Palm Springs "
       },
       "components": [
         {
