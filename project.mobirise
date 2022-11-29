@@ -23,7 +23,7 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ananda-logo-128x128-5.png",
     "noImageResize": "true",
-    "google-analytics": "Ananda by Design Meditation & Yoga with Joanna | Individualized & Group Instruction | CYT200 | PSM Teacher | Chopra Certified Instructor | Meditation in Palm Springs  ",
+    "google-analytics": "",
     "siteUrl": "http://anandabydesign.com",
     "siteFonts": [],
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
