@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "DoshaQuiz.html",
+    "currentPage": "DIYAromatherapySprays.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "Ananda by Design | Meditation with Joanna",
-        "meta_descr": "Ananda by Design Meditation | Individualized & Group Instruction | Primordial Sound Meditation | Chopra Meditation Teacher | Chopra Certified Instructor | CYT200 | PSM in Palm Springs with Joanna",
+        "meta_descr": "Ananda by Design Meditation | Individualized & Group Instruction | Chopra Certified Instructor ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -890,7 +890,7 @@
       "settings": {
         "title": "Ananda by Design | Offerings",
         "order": 3,
-        "meta_descr": "Ananda by Design | Offerings | Primordial Sound Meditation Course | Yoga | Group Meditation | Introduction to Meditation | Meditation Teacher in Palm Springs | Community Service"
+        "meta_descr": "Ananda by Design | Offerings | Primordial Sound Meditation Course | Group Meditation | Introduction to Meditation | Meditation Teacher in Palm Springs | Community Service"
       },
       "components": [
         {
@@ -1570,7 +1570,7 @@
       "settings": {
         "title": "Ananda by Design | About ",
         "order": 2,
-        "meta_descr": "Ananda by Design | About | Meditation & Yoga with Joanna | Chopra Meditation Teacher in Palm Springs "
+        "meta_descr": "Ananda by Design Meditation with Joanna | Chopra Meditation Teacher in Palm Springs "
       },
       "components": [
         {
