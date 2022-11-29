@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "DIYAromatherapySprays.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -40,7 +40,7 @@
       "settings": {
         "main": true,
         "title": "Ananda by Design | Meditation with Joanna",
-        "meta_descr": "Ananda by Design Meditation | Individualized & Group Instruction | Chopra Certified Instructor ",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
