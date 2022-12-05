@@ -2122,27 +2122,6 @@
             }
           },
           "_anchor": "msg-box1-6k"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright © 2022 Ananda by Design, <a href=\"index.html\" class=\"text-warning\">anandabydesign.com</a>. All Rights Reserved.&nbsp;<a href=\"http://anandabydesign.com/TOU\" class=\"text-warning\">Terms of Use</a>  | <a href=\"TOU.html#content1-2g\" class=\"text-warning\">Privacy&nbsp;Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-5t"
         }
       ]
     },
@@ -2294,27 +2273,6 @@
               "font-size": "14px"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#37383e",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright © 2022 Ananda by Design, <a href=\"index.html\" class=\"text-warning\">anandabydesign.com</a>. All Rights Reserved.&nbsp;<a href=\"http://anandabydesign.com/TOU\" class=\"text-warning\">Terms of Use</a>  | <a href=\"TOU.html#content1-2g\" class=\"text-warning\">Privacy&nbsp;Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-5z"
         }
       ]
     }
