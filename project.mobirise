@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "DoshaQuiz.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -78,7 +78,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1400x700.jpeg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#FFF8E0",
@@ -88,7 +88,7 @@
             },
             "overlay": true,
             "overlayColor": "#f8f8f6",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "title": "<br>Ananda by Design",
           "meta": "By John Smith posted July 30, 2015",
