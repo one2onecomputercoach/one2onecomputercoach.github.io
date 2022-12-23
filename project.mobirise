@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "index.html",
+    "currentPage": "DIYAromatherapySprays.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1998,7 +1998,7 @@
           },
           "title": "DIY Aromatherapy&nbsp;<br>Room &amp; Linen Sprays",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><span style=\"font-size: 1.25rem;\">Below are some easy recipes for making your own room and linen sprays with essential oils. &nbsp;These recipes were created with the intention of soothing and restoring balance to the doshas, which are the three Ayurvedic mind-body types. You can also make your own scents with your favorite essential oil.&nbsp;</span></p><p><br></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p>What is a dosha? Find the answer and discover your unique dosha.</p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\">Below are some easy recipes for making your own room and linen sprays with essential oils. &nbsp;These recipes were created with the intention of soothing and restoring balance to the doshas, which are the three Ayurvedic mind-body types. You can also make your own scents with your favorite essential oil.&nbsp;</span></p><p><br></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p>What is a dosha? Find the answer and discover your unique mind-body type.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"DoshaQuiz.html\" data-toolbar=\"-mbrBtnMove\">Take the Dosha Quiz</a>",
           "alias": "purity/components",
           "_tags": [
