@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ananda by Design-clone-clone",
-    "currentPage": "DIYAromatherapySprays.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -342,7 +342,7 @@
       "settings": {
         "title": "Ananda by Design | Meditation Space | Free Guided Meditation",
         "order": 5,
-        "meta_descr": "So Hum Meditation Break | 10 Minute Guided Meditation | More Coming Soon | Serving the Greater Palm Springs Area & Beyond ",
+        "meta_descr": "Free Guided Meditation with Joanna Wei | So Hum Meditation Break | 10 Minute Guided Meditation | 5 Minute Ahum Meditation Break | More Coming Soon | Serving the Greater Palm Springs Area & Beyond ",
         "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpeg"
       },
       "components": [
@@ -1386,7 +1386,7 @@
       "settings": {
         "title": "Ananda by Design | Primordial Sound Meditation",
         "order": 4,
-        "meta_descr": "Ananda by Design | Meditation with Joanna | Chopra Certified Meditation Instructor | What is Primordial Sound Meditation"
+        "meta_descr": "Ananda by Design | Meditation with Joanna | Joanna Wei is a Chopra Certified Meditation Teacher | What is Primordial Sound Meditation | What is Chopra Meditation "
       },
       "components": [
         {
@@ -1952,7 +1952,7 @@
       "settings": {
         "title": "Ananda by Design | DIY Aromatherapy Room and Linen Sprays",
         "order": 6,
-        "meta_descr": "DIY Aromatherapy Room and Linen Sprays"
+        "meta_descr": "Free DIY Aromatherapy Room and Linen Spray Recipes"
       },
       "components": [
         {
